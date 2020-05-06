@@ -5,7 +5,7 @@ title: Test Markdown
 
 ## Lernen
 
-# Ein- und Ausblenden 
+### Ein- und Ausblenden 
 
 <head>
     <script language="JavaScript" type="text/javascript">
@@ -48,12 +48,16 @@ false;">nfi </a></li>
 </div>
 	</body>
 
-# Ein- und Ausblenden
+### Ein- und Ausblenden
 
 <div id="akkordeon">
-<a class="show" href="#akkordeon">Zusätzliche Infos</a><a class="hide" href="#">Weniger Infos</a>
+
+<a class="show" href="#akkordeon">Zusätzliche Infos</a>
+<a class="hide" href="#">Weniger Infos</a>
+
 <div class="inhalt">
 <h3>Gut zu Wissen</h3>
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
 </div>
+
 </div>
