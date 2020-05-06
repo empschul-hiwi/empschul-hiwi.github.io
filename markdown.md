@@ -49,16 +49,17 @@ false;">nfi </a></li>
 	</body>
 
 
-<meta charset="UTF-8">
-<title>jQuery Beispiel: Elemente ausblenden und einblenden mit 1 Link</title>
+### Ein- und Ausblenden Variante 2
+
+<head>
 <script src="https://code.jquery.com/jquery-latest.js"></script>
 <style>
 #socialbookmarksanzeigen {
-	background-color: #00CC00;
+	background-color: lightgrey;
 	padding: 0.4em;
 }
 #sozialbookmarks {
-	background-color: orange;
+	background-color: white;
 	padding: 0.4em;
 }
 </style>
@@ -72,9 +73,6 @@ $(document).ready(function(){
 </script>
 </head>
 <body>
-<h1>jQuery: Elemente ein- und ausblenden</h1>
-<a href="https://www.html-seminar.de/" title="HTML, CSS u. jQuery lernen">
-https://www.HTML-Seminar.de</a>
 <p id="socialbookmarksanzeigen">
     <a href="#" id="sobo-einausblenden">Weiterempfehlen</a>
 </p>
