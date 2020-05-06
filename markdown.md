@@ -61,3 +61,27 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 </div>
 
 </div>
+
+#akkordeon:not(:target) .inhalt,
+#akkordeon:not(:target) .hide,
+#akkordeon:target .show {display: none;}
+#akkordeon:target .inhalt {display: block;}
+.inhalt {
+box-shadow: inset 0px 0px 10px rgba(0,0,0,0.3);
+padding: 20px 20px 1px;
+margin: 0px 0px 10px;
+}
+.show,
+.hide {
+padding:10px;
+background: rgb(254, 164, 0);
+box-shadow:none!important;
+color:#fff;
+font-weight:bold;
+}
+.show:hover,
+.hide:hover {
+background: rgb(255, 214, 118);
+color:#fff!important;
+transition:0.2s all ease-in-out!important;
+}
