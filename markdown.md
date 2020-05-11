@@ -83,3 +83,50 @@ $(document).ready(function(){
 </div>
 </body>
 
+### Ein- und Ausblenden
+
+<html>
+<head>
+<title>www.tutorials.de</title>
+<meta name="author" content="Quaese">
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<script src="jquery.js" type="text/javascript"></script>
+<script type="text/javascript">
+  <!--
+$(document).ready(function(){
+  // Alle Links ermitteln, die zum Togglen dienen
+  var arrA = $("a[rel='toggle']").each(function(intIndex){
+    // ID des zugehörigen Toggle-Elements ermitteln
+    var linkID = String($(this).attr('href')).substr(1, $(this).attr('href').length);
+    // Element verstecken
+    if(linkID){
+      $('#'+linkID).hide();
+    }
+
+    // Togglefunktion an Link binden
+    $(this).toggle(
+      function(){
+        $('#'+linkID).show('slow'); // Einblenden
+      },
+      function(){
+        $('#'+linkID).hide('slow'); // Ausblenden
+      }
+    );
+  });
+});
+ //-->
+</script>
+</head>
+<body>
+<a href="#dieseEbene" rel="toggle">diese Ebene einblenden</a>
+<div id="dieseEbene">
+  Lorem Ipsum
+</div>
+
+<a href="#andereEbene" rel="toggle">andere Ebene einblenden</a>
+<div id="andereEbene">
+  Lorem Ipsum
+</div>
+</body>
+</html>
+
