@@ -7,7 +7,7 @@ permalink: /generic/
 <h2 id="content">Unser Team</h2>
 <p>Kurzankündigung</p>
 
-<style type="text/css" media="screen">
+<style type="html" media="screen">
    img { float: left; margin-right: 1em; }
    h3 {clear: left; }
 </style>
