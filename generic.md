@@ -59,15 +59,10 @@ $(document).ready(function(){
 </div>
 </body>
 
-<div style="width: 420px; padding: 10px">
-<img class="links" src="assets/images/Frohberg.jpg" width="200" height="300" border="0" alt="Franzi">
-<p style="margin: 0 244px 0 0;">
-Text neben dem Banner Text neben dem Banner Text neben dem Banner noch mehr Text noch mehr Text noch mehr Text noch mehr Text
-</p>
-<br style="clear: both;">
-<p>
-Normaler Text, der ....
-</p>
-</div> 
 
+
+  <p><span class="image left"><img src="assets/images/pic01.jpg" alt="" /></span><h3>Person1</h3>
+    <p><i>Stelle</i></p>
+    Beschreibung..</p>
+  <p><span class="image left"><img src="assets/images/pic02.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
 
