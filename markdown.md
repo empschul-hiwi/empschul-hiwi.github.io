@@ -74,7 +74,7 @@ $(document).ready(function(){
 </head>
 <body>
 <p id="socialbookmarksanzeigen">
-    <a href="#" id="sobo-einblenden">Weiterempfehlen</a>
+    <a href="#" id="sobo-auseinblenden">Weiterempfehlen</a>
 </p>
 <div id="sozialbookmarks">
   <p><b>Bereich für social bookmarks</b><br>
