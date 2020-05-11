@@ -42,11 +42,32 @@ $(document).ready(function(){
 <p id="socialbookmarksanzeigen">
     <a href="#" id="sobo-einausblenden">Kontakt</a>
 </p>
-<div id="sozialbookmarks">
+<div id="sozialbookmarks" style="display:none">
   <p><b>Bereich für social bookmarks</b><br>
   Hier kommen nun die üblichen Verdächtigen und Logos dazu.<br>
   Nicht vergessen, meine Seite zu bookmarken!</p>
 </div>
 </body>
-<p> 
+<body>
+<p id="socialbookmarksanzeigen">
+    <a href="#" id="sobo-einausblenden">Kontakt</a>
+</p>
+<div id="sozialbookmarks" style="display:none">
+  <p><b>Bereich für social bookmarks</b><br>
+  Hier kommen nun die üblichen Verdächtigen und Logos dazu.<br>
+  Nicht vergessen, meine Seite zu bookmarken!</p>
+</div>
+</body>
+
+<div style="width: 420px; padding: 10px">
+<img class="links" src="assets/images/Frohberg.jpg" width="200" height="300" border="0" alt="Franzi">
+<p style="margin: 0 244px 0 0;">
+Text neben dem Banner Text neben dem Banner Text neben dem Banner noch mehr Text noch mehr Text noch mehr Text noch mehr Text
+</p>
+<br style="clear: both;">
+<p>
+Normaler Text, der ....
+</p>
+</div> 
+
 
