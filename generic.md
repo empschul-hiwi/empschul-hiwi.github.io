@@ -12,7 +12,7 @@ permalink: /generic/
    h3 {clear: left; }
 </style>
 
-<h3><img src="assets/images/Frohberg.jpg" width="150" height="120" />Franziska Frohberg</h3>
+<h3><img src="assets/images/Frohberg.jpg" width="120" height="180" />Franziska Frohberg</h3>
 <p><i>Lehrkraft für besondere Aufgaben</i></p>
 <p>Franziska Frohberg lehrt und forscht am Institut für Bildungswissenschaften am Lehrstuhl für Empirische Schul- und Unterrichtsforschung an der Universität Leipzig. 
 Sie lehrt in den Modulen 1 und 2 der Bildungswissenschaften.   
