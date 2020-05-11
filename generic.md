@@ -12,7 +12,7 @@ permalink: /generic/
    h3 {clear: left; }
 </style>
 …
-<h3><img src="assets/images/Frohberg.jpg" width="150" height="163" /> Lorem ipsum</h3>
+<h3><img src="assets/images/Frohberg.jpg" width="200" height="300" /> Lorem ipsum</h3>
 <p>Lorem ipsum dolor sit amet, … </p>
 <h3><img src="assets/images/pic02.jpg" width="150" height="120" /> In pharetra</h3>
 <p>In pharetra. Praesent aliquet neque. … </p>
