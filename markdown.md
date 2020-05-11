@@ -66,7 +66,7 @@ false;">nfi </a></li>
 <script>
 $(document).ready(function(){
     /* Hier der jQuery-Code */
-    $('#sobo-einausblenden').click(function(){
+    $('#sobo-auseinblenden').click(function(){
     	$('#sozialbookmarks').toggle('slow');
     })
 });
