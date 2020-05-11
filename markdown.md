@@ -83,5 +83,43 @@ $(document).ready(function(){
 </div>
 </body>
 
+### Ein- und Ausblenden Variante 3
+
+  <title>AxxG-Beispiel</title>
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+      <script type="text/javascript">
+      function einblenden(){
+         $("#myArticle").fadeIn('slow', function() {
+            $("#myArticle").show();
+         });
+      }
+       
+      function ausblenden(){
+         $("#myArticle").fadeOut('slow', function() {
+            $("#myArticle").hide();
+         });
+      }
+      </script>
+</head>
+<body>
+<header>
+        <h1>Beispiel</h1>
+           <nav>
+             <ul>
+                <li><a href="http://blog.axxg.de">zum Blog</a></li>
+                <li><a href="#" onclick="einblenden()">Einblenden</a></li>
+                <li><a href="#" onclick="ausblenden()">Ausblenden</a></li>
+             </ul>
+           </nav>
+</header>
+<section>
+  <h1>Blogbeitr&auml;ge</h1>
+           <article id="myArticle">
+    <h1>Mein erster Beitrag</h1>
+   ganz viel text
+           </article>
+</section>
+</body>
+</html>
 
 
