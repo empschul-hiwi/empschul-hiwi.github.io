@@ -66,7 +66,7 @@ false;">nfi </a></li>
 <script>
 $(document).ready(function(){
     /* Hier der jQuery-Code */
-    $('#sobo-auseinblenden').click(function(){
+    $('#sobo-einausblenden').click(function(){
     	$('#sozialbookmarks').toggle('slow');
     })
 });
@@ -74,59 +74,13 @@ $(document).ready(function(){
 </head>
 <body>
 <p id="socialbookmarksanzeigen">
-    <a href="#" id="sobo-auseinblenden">Weiterempfehlen</a>
+    <a href="#" id="sobo-einausblenden">Weiterempfehlen</a>
 </p>
-<div id="sozialbookmarks">
+<div id="sozialbookmarks" style="display:none">
   <p><b>Bereich für social bookmarks</b><br>
   Hier kommen nun die üblichen Verdächtigen und Logos dazu.<br>
   Nicht vergessen, meine Seite zu bookmarken!</p>
 </div>
 </body>
 
-### Ein- und Ausblenden
-
-<html>
-<head>
-<title>www.tutorials.de</title>
-<meta name="author" content="Quaese">
-<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
-<script src="jquery.js" type="text/javascript"></script>
-<script type="text/javascript">
-  <!--
-$(document).ready(function(){
-  // Alle Links ermitteln, die zum Togglen dienen
-  var arrA = $("a[rel='toggle']").each(function(intIndex){
-    // ID des zugehörigen Toggle-Elements ermitteln
-    var linkID = String($(this).attr('href')).substr(1, $(this).attr('href').length);
-    // Element verstecken
-    if(linkID){
-      $('#'+linkID).hide();
-    }
-
-    // Togglefunktion an Link binden
-    $(this).toggle(
-      function(){
-        $('#'+linkID).show('slow'); // Einblenden
-      },
-      function(){
-        $('#'+linkID).hide('slow'); // Ausblenden
-      }
-    );
-  });
-});
- //-->
-</script>
-</head>
-<body>
-<a href="#dieseEbene" rel="toggle">diese Ebene einblenden</a>
-<div id="dieseEbene">
-  Lorem Ipsum
-</div>
-
-<a href="#andereEbene" rel="toggle">andere Ebene einblenden</a>
-<div id="andereEbene">
-  Lorem Ipsum
-</div>
-</body>
-</html>
 
