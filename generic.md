@@ -3,8 +3,6 @@ layout: page
 title: Team
 permalink: /generic/
 ---
-
-<h2 id="content">Unser Team</h2>
 <p>Kurzankündigung</p>
 
 <head>
