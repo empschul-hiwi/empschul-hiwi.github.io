@@ -37,11 +37,11 @@ $(document).ready(function(){
 <p id="sonstigesanzeigen">
     <a href="#" id="sobo-einausblenden">Kontakt und Kurzbiografie</a></p>
 <div id="sonstiges" style="display:none">
-  <p><b>Kontakt</b></p>
-  <p><b>Telefon:</b> +49 (0) 341 97-31571<br>
-  <b>E-Mail:</b><a href="mailto:anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a><br>
-  <b>Raum:</b> 008<br>
-  <b>Sprechzeit:</b> Mittwoch 11:00-12:00</p>
+  <p><u>Kontakt</u></p>
+  <p><u>Telefon:</u> +49 (0) 341 97-31571<br>
+  <u>E-Mail:</u> <a href="mailto:anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a><br>
+  <u>Raum:</u> 008<br>
+  <u>Sprechzeit:</u> Mittwoch 11:00-12:00</p>
 
   <p><b>Kurzbiografie</b><br>
       <div class="table-wrapper">
@@ -92,7 +92,27 @@ $(document).ready(function(){
       </div></p>
 </div>
 </body>
-
+<head>
+<script src="https://code.jquery.com/jquery-latest.js"></script>
+<style>
+#sonstigesanzeigen {
+  background-color: lightgrey;
+  padding: 0.4em;
+}
+#sonstiges {
+  background-color: white;
+  padding: 0.4em;
+}
+</style>
+<script>
+$(document).ready(function(){
+    /* Hier der jQuery-Code */
+    $('#sobo-einausblenden').click(function(){
+      $('#sonstiges').toggle('slow');
+    })
+});
+</script>
+</head>
 <body>
 <p id="sonstigesanzeigen">
     <a href="#" id="sobo-einausblenden">Publikationen und Vorträge</a></p>
