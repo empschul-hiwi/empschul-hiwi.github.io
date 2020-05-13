@@ -18,6 +18,7 @@ permalink: /generic/
 Sie lehrt in den Modulen 1 und 2 der Bildungswissenschaften.   
 Im Mittelpunkt ihrer Forschungsinteressen stehen Implizite Theorie zu Intelligenz, Veränderung von Mindsets bei Lehrpersonen und deren Einfluss auf Lehr-Lern-Arrangements.</p>
 
+<script src="https://code.jquery.com/jquery-latest.js"></script>
 <style>
 #sonstigesanzeigen {
   background-color: lightgrey;
