@@ -37,10 +37,10 @@ $(document).ready(function(){
 <p id="sonstigesanzeigen">
     <a href="#" id="sobo-einausblenden">Kontakt und Kurzbiografie</a></p>
 <div id="sonstiges" style="display:none">
-  <p><b>Kontakt</b><br>
+  <p><b>Kontakt</b></p>
 
-  Telefon: +49 (0) 341 97-31571<br>
-  E-Mail:</u> <a href="mailto:anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a><br>
+  <p>Telefon: +49 (0) 341 97-31571<br>
+  E-Mail: <a href="mailto:anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a><br>
   Raum: 008<br>
   Sprechzeit: Mittwoch 11:00-12:00</p>
 
@@ -127,11 +127,12 @@ $(document).ready(function(){
 <p id="sonstigesanzeigen2">
     <a href="#" id="sobo-einausblenden">Kontakt und Kurzbiografie</a></p>
 <div id="sonstiges2" style="display:none">
-  <p><u>Kontakt</u></p>
-  <p><u>Telefon:</u> +49 (0) 341 97-31573<br>
-  <u>E-Mail:</u> <a href="mailto:gregor.kachel@uni-leipzig.de">gregor.kachel@uni-leipzig.de
-  <u>Raum:</u> 005<br>
-  <u>Webseite:</u> <a href="https://gregorkachel.github.io">https://gregorkachel.github.io</a> 
+  <p>Kontakt</p>
+
+  <p>Telefon: +49 (0) 341 97-31573<br>
+  E-Mail: <a href="mailto:gregor.kachel@uni-leipzig.de">gregor.kachel@uni-leipzig.de
+  Raum: 005<br>
+  Webseite: <a href="https://gregorkachel.github.io">https://gregorkachel.github.io</a></p> 
 
   <p><b>Kurzbiografie</b><br>
   
