@@ -9,7 +9,7 @@ title: Team
 <!--Deiglmayr-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Deiglmayr.jpg" width="130" hight="195"/>Prof. Dr. Anne Deiglmayr</h3>
-<p><b>Inhaberin der Professur</b></p><br>
+<p><b>Inhaberin der Professur</b><br>
 Prof. Dr. Anne Deiglmayr ist seit 12/2018 Inhaberin der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig. Ihre Forschungsschwerpunkte umfassen u.a. Methoden der mobilen Unterrichtsforschung, die Professionsentwicklung von Lehrpersonen, Lehr- und Lernprozesse beim (computergestützten) kooperativen Lernen, sowie die Förderung des Lehrens und Lernens im MINT-Unterricht. Prof. Deiglmayr bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (insbesondere Modul 02 „Praxis- und Studienfeld Schule“) sowie im Bereich der Ergänzungsstudien an (insbesondere zu Methoden der empirischen Sozialforschung).<br style="clear: both;"/>
 
 <head>
@@ -90,7 +90,7 @@ $(document).ready(function(){
             </tr>
           </tbody>
         </table>
-      </div></p>
+      </div>
 </div>
 </body>
 
@@ -127,15 +127,14 @@ $(document).ready(function(){
 <p id="sonstigesanzeigen2">
     <a href="#" id="sobo-einausblenden">Kontakt und Kurzbiografie</a></p>
 <div id="sonstiges2" style="display:none">
-  <p>Kontakt</p>
+  <p><b>Kontakt</p></b>
 
   <p>Telefon: +49 (0) 341 97-31573<br>
   E-Mail: <a href="mailto:gregor.kachel@uni-leipzig.de">gregor.kachel@uni-leipzig.de
   Raum: 005<br>
-  Webseite: <a href="https://gregorkachel.github.io">https://gregorkachel.github.io</a></p> 
+  Webseite: <a href="https://gregorkachel.github.io">https://gregorkachel.github.io</a>
 
-  <p><b>Kurzbiografie</b><br>
-  
+  <p><b>Kurzbiografie</b><
   In Bearbeitung
 
 </div>
