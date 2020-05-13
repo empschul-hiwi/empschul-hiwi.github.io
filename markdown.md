@@ -37,11 +37,11 @@ $(document).ready(function(){
 <p id="sonstigesanzeigen">
     <a href="#" id="sobo-einausblenden">Kontakt und Kurzbiografie</a></p>
 <div id="sonstiges" style="display:none">
-  <p><b>Kontakt</b><br>
-  Telefon: +49 (0) 341 97-31571<br>
-  E-Mail: <a href="mailto:anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a><br>
-  Raum: 008<br>
-  Sprechzeit: Mittwoch 11:00-12:00</p>
+  <p><b>Kontakt</b></p>
+  <p><b>Telefon:</b> +49 (0) 341 97-31571<br>
+  <b>E-Mail:</b><a href="mailto:anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a><br>
+  <b>Raum:</b> 008<br>
+  <b>Sprechzeit:</b> Mittwoch 11:00-12:00</p>
 
   <p><b>Kurzbiografie</b><br>
       <div class="table-wrapper">
@@ -90,5 +90,13 @@ $(document).ready(function(){
           </tbody>
         </table>
       </div></p>
+</div>
+</body>
+
+<body>
+<p id="sonstigesanzeigen">
+    <a href="#" id="sobo-einausblenden">Publikationen und Vorträge</a></p>
+<div id="sonstiges" style="display:none">
+  <p><b>In Bearbeitung</b><br>
 </div>
 </body>
