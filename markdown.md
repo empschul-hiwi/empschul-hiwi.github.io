@@ -85,8 +85,7 @@ $(document).ready(function(){
 
 ### Test
 
-<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Frohberg.png" width="120" hight="180"/>Franziska Frohberg</h3><p><i>Lehrkraft für besondere Aufgaben</i><p>Franziska Frohberg lehrt und forscht am Institut für Bildungswissenschaften am Lehrstuhl für Empirische Schul- und Unterrichtsforschung an der Universität Leipzig.Sie lehrt in den Modulen 1 und 2 der Bildungswissenschaften. Im Mittelpunkt ihrer Forschungsinteressen stehen Implizite Theorie zu Intelligenz, Veränderung von Mindsets bei Lehrpersonen und deren Einfluss auf Lehr-Lern-Arrangements.</p><br style="clear: both;" />
-
+<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Frohberg.png" width="120" hight="180"/>Franziska Frohberg</h3><p><i>Lehrkraft für besondere Aufgaben</i></p><p>Franziska Frohberg lehrt und forscht am Institut für Bildungswissenschaften am Lehrstuhl für Empirische Schul- und Unterrichtsforschung an der Universität Leipzig.Sie lehrt in den Modulen 1 und 2 der Bildungswissenschaften. Im Mittelpunkt ihrer Forschungsinteressen stehen Implizite Theorie zu Intelligenz, Veränderung von Mindsets bei Lehrpersonen und deren Einfluss auf Lehr-Lern-Arrangements.</p><br style="clear: both;" />
 <head>
 <script src="https://code.jquery.com/jquery-latest.js"></script>
 <style>
