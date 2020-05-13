@@ -95,8 +95,8 @@ $(document).ready(function(){
 </div>
 </body>
 
-***
 
+***
 <!--Kachel-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Kachel.jpg" width="130" hight="195"/>Dr. Gregor Kachel</h3>
@@ -135,7 +135,7 @@ $(document).ready(function(){
   Raum: 005<br>
   Webseite: <a href="https://gregorkachel.github.io">https://gregorkachel.github.io</a>
 
-  <p><b>Kurzbiografie</b><
+  <p><b>Kurzbiografie</b></p>
   In Bearbeitung
 
 </div>
