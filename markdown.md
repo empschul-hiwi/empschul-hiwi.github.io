@@ -3,89 +3,13 @@ layout: page
 title: Test Markdown
 ---
 
-## Lernen
+<p>Kurzankündigung</p>
 
-### Ein- und Ausblenden 
+***
+<!--Deiglmayr-->
 
-<head>
-    <script language="JavaScript" type="text/javascript">
-      <!--
-      function alleAusblenden(){
-        var elemente = document.getElementById
+<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Deiglmayr.jpg" width="130" hight="195"/>Prof. Dr. Anne Deiglmayr</h3><p><i>Inhaberin der Professur</i></p><p>Prof. Dr. Anne Deiglmayr ist seit 12/2018 Inhaberin der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig. Ihre Forschungsschwerpunkte umfassen u.a. Methoden der mobilen Unterrichtsforschung, die Professionsentwicklung von Lehrpersonen, Lehr- und Lernprozesse beim (computergestützten) kooperativen Lernen, sowie die Förderung des Lehrens und Lernens im MINT-Unterricht. Prof. Deiglmayr bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (insbesondere Modul 02 „Praxis- und Studienfeld Schule“) sowie im Bereich der Ergänzungsstudien an (insbesondere zu Methoden der empirischen Sozialforschung).</p><br style="clear: both;" />
 
-("ebenen").getElementsByTagName("p");
-        for (var i = 0; i < elemente.length; i++) {
-          elemente[i].style.display = "none";
-        }
-      }
-      
-      function einblenden(div){
-        alleAusblenden()
-        document.getElementById(div).style.display = 
-
-"inline";
-      }
-      
-      //-->
-    </script>
-  </head>
-  <body>
-  <div id="ebenen">  
-    <li><a href="#" onclick="einblenden('ebene2'); return 
-
-false;">Nierenphysiologie</a></li>
-    
-      <p id="ebene2" style="display:none;">
-        Glomerulus<br>Tubulus
-      </p>
-    
-<li><a href="#" onclick="einblenden('ebene3'); return 
-
-false;">nfi </a></li>
-       <p id="ebene3" style="display:none;">
-        Glomerul<br>Tubul
-      </p>
-</div>
-	</body>
-
-
-### Ein- und Ausblenden Variante 2
-
-<head>
-<script src="https://code.jquery.com/jquery-latest.js"></script>
-<style>
-#socialbookmarksanzeigen {
-	background-color: lightgrey;
-	padding: 0.4em;
-}
-#sozialbookmarks {
-	background-color: white;
-	padding: 0.4em;
-}
-</style>
-<script>
-$(document).ready(function(){
-    /* Hier der jQuery-Code */
-    $('#sobo-einausblenden').click(function(){
-    	$('#sozialbookmarks').toggle('slow');
-    })
-});
-</script>
-</head>
-<body>
-<p id="socialbookmarksanzeigen">
-    <a href="#" id="sobo-einausblenden">Weiterempfehlen</a>
-</p>
-<div id="sozialbookmarks" style="display:none">
-  <p><b>Bereich für social bookmarks</b><br>
-  Hier kommen nun die üblichen Verdächtigen und Logos dazu.<br>
-  Nicht vergessen, meine Seite zu bookmarken!</p>
-</div>
-</body>
-
-### Test
-
-<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Frohberg.png" width="130" hight="195"/>Franziska Frohberg</h3><p><i>Lehrkraft für besondere Aufgaben</i></p><p>Franziska Frohberg lehrt und forscht am Institut für Bildungswissenschaften am Lehrstuhl für Empirische Schul- und Unterrichtsforschung an der Universität Leipzig.Sie lehrt in den Modulen 1 und 2 der Bildungswissenschaften. Im Mittelpunkt ihrer Forschungsinteressen stehen Implizite Theorie zu Intelligenz, Veränderung von Mindsets bei Lehrpersonen und deren Einfluss auf Lehr-Lern-Arrangements.</p><br style="clear: both;" />
 <head>
 <script src="https://code.jquery.com/jquery-latest.js"></script>
 <style>
@@ -113,10 +37,57 @@ $(document).ready(function(){
 </p>
 <div id="sonstiges" style="display:none">
   <p><b>Kontakt</b><br>
-  Hier kommen nun die üblichen Verdächtigen und Logos dazu.<br>
-  Nicht vergessen, meine Seite zu bookmarken!</p>
+  Telefon: +49 (0) 341 97-31571<br>
+  E-Mail: <a href="mailto:anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a><br>
+  Raum: 008<br>
+  Sprechzeit: Mittwoch 11:00-12:00</p>
+
   <p><b>Kurzbiografie</b><br>
-  Hier kommen nun die üblichen Verdächtigen und Logos dazu.<br>
-  Nicht vergessen, meine Seite zu bookmarken!</p>
+      <div class="table-wrapper">
+        <table>
+          <tbody>
+            <tr>
+              <td>seit 2018</td>
+              <td>seit 2018 Professorin für Empirische Schul- und Unterrichtsforschung an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig</td>
+            </tr>
+            <tr>
+              <td>2013-2018</td>
+              <td>Oberassistentin am Lehrstuhl für Lehr- und Lernforschung, ETH Zürich</td>
+            </tr>
+            <tr>
+              <td>2012-2013</td>
+              <td>2012-2013  Postdoc am Lehrstuhl für Lehr- und Lernforschung, ETH Zürich: Marie-Heim-Vögtlin-Stipendium des Schweizer Nationalfonds</td>
+            </tr>
+            <tr>
+              <td>2011-2012</td>
+              <td>Dozentin mit Forschungsauftrag am Institut für Medien und Schule der Pädagogischen Hochschule Zentralschweiz</td>
+            </tr>
+            <tr>
+              <td>2008-2010</td>
+              <td>Wissenschaftliche Mitarbeiterin in der Abteilung Allgemeine Psychologie der Albert-Ludwigs-Universität Freiburg</td>
+            </tr>
+            <tr>
+              <td>2009</td>
+              <td>Promotion (Dr. phil.), Albert-Ludwigs-Universität Freiburg; ausgezeichnet mit dem Eugen-Fink-Nachwuchsförderpreis (2011)</td>
+            </tr>
+            <tr>
+              <td>2005-2008</td>
+              <td>Stipendiatin im Virtuellen Graduiertenkolleg „Wissenserwerb und Wissensaustausch mit neuen Medien” (DFG)</td>
+            </tr>
+            <tr>
+              <td>2005</td>
+              <td>Diplom (Dipl.-Psych.), Albert-Ludwigs-Universität Freiburg</td>
+            </tr>
+            <tr>
+              <td>2002-2003</td>
+              <td>Studium am Department of Psychology der University of Michigan, Ann Arbor</td>
+            </tr>
+            <tr>
+              <td>1999-2005</td>
+              <td>Studium der Psychologie, Albert-Ludwigs-Universität Freiburg</td>
+            </tr>
+          </tbody>
+        </table>
+      </div></p>
 </div>
 </body>
