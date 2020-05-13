@@ -26,15 +26,11 @@ Prof. Dr. Anne Deiglmayr ist seit 12/2018 Inhaberin der Professur „Empirische 
 </style>
 <script>
 $(document).ready(function(){
-  $('#sobo-einausblenden').click(function(){
-    $('#sonstiges').toggle('slow',
-      function callback(){
-        alert('Umschalten ist abgeschlossen');
-      }
-    );
-  })
+    /* Hier der jQuery-Code */
+    $('#sobo-einausblenden').click(function(){
+      $('#sonstiges2').toggle('slow');
+    })
 });
-</script>
 </script>
 </head>
 <body>
@@ -130,7 +126,7 @@ $(document).ready(function(){
 <p id="sonstigesanzeigen2">
     <a href="#" id="sobo-einausblenden">Kontakt und Kurzbiografie</a></p>
 <div id="sonstiges2" style="display:none">
-  <p><b>Kontakt</p></b>
+  <p><b>Kontakt</b></p>
 
   <p>Telefon: +49 (0) 341 97-31573<br>
   E-Mail: <a href="mailto:gregor.kachel@uni-leipzig.de">gregor.kachel@uni-leipzig.de
