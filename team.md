@@ -384,9 +384,8 @@ Jimdo Page Award Tutorials (Hier den Text ändern)!
 <!--Leistner-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Leistner.jpg" width="130" hight="195"/>Mirjam Leistner</h3>
-<p><b>Lehrkraft für besondere Aufgaben</b></p>>
-<p style="padding-left: 144px;">Mirjam Leistner lehrt als Lehrkraft für besondere Aufgaben im Studiengang Lehramt an der Universität Leipzig im Fachbereich Bildungswissenschaften. 
-<br style="clear: both;"/>
+<p><b>Lehrkraft für besondere Aufgaben</b></p>
+<p style="padding-left: 144px;">Mirjam Leistner lehrt als Lehrkraft für besondere Aufgaben im Studiengang Lehramt an der Universität Leipzig im Fachbereich Bildungswissenschaften.<br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -422,10 +421,11 @@ Jimdo Page Award Tutorials (Hier den Text ändern)!
 <div align="center">
 <span class="title24"Hier Titel eingeben</span>
 </div> 
+  
   <p></b>Telefon:</b> +49 (0) 341 97-31432<br>
   <b>E-Mail:</b> <a href="mirjam.leistner@uni-leipzig.de">mirjam.leistner@uni-leipzig.de</a><br>
-  <b>Raum:</b> 107<br>
- 
+  <b>Raum:</b> 107<br></p>
+
 </div>
 </td>
 </tr>
