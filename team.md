@@ -27,18 +27,18 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 }
 //]]>
 </script>
-</p>
-<table width="100%" align="left" class="tab24" border="0" cellspacing="0" cellpadding="0">
-<tbody>
-<tr bgcolor="#bdbdbd">
-<td width="0%" height="30" style="width: 100%; padding-right: 15px; padding-left: 15px;"><strong>Kontakt und Kurzbiografie</strong></td>
-<td width="33%" align="right" style="width: 33%; padding-right: 15px; padding-left: 15px;"><a name="swaplink" id="swaplink" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink', 'hideme')" onfocus="this.blur()" href="#swap">Einblenden</a></td>
+<table class="tab24" align="left" border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr bgcolor="#BDBDBD">
+<td width="0%" height="30" style="padding-right: 15px; padding-left: 15px;"><b>Kontakt und Kurzbiografie</b></td>
+<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink', 'hideme')" id="swaplink" onfocus="this.blur()" name="swaplink">Einblenden</a>
+</td>
 </tr>
 <tr style="text-align: justify; font-size: 16px; font-weight: normal; background-color: 245,245,245;">
-<td style="width: 52.1%; padding-right: 15px; padding-left: 15px;" colspan="3">
+<td colspan="3" style="padding-right: 15px; padding-left: 15px;">
 <div id="hideme" style="display: none;"><br />
 <div align="left">
- 
+
   <p><strong>Telefon:</strong> +49 (0) 341 97-31571<br /> <strong>E-Mail:</strong> <a href="mailto:anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a><br /> <strong>Raum:</strong> 008<br /> <strong>Sprechzeit:</strong> Mittwoch 11:00-12:00 Uhr</p>
 
   <p><b>Kurzbiografie</b><br>
@@ -88,6 +88,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
           </tbody>
         </table>
       </div>
+
 </div>
 </td>
 </tr>
@@ -99,7 +100,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <p><b>Sekretariat</b><br>
 <p style="padding-left: 144px;">Anne-Katrhin Pagel ist Sekräterin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br style="clear: both;"/>
 
-<<script type="text/javascript">
+<script type="text/javascript">
 //<![CDATA[
 function swap(openlink,closelink, linkid, dataid)
 {
@@ -115,15 +116,15 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 }
 //]]>
 </script>
-</p>
-<table width="100%" align="left" class="tab24" border="0" cellspacing="0" cellpadding="0">
-<tbody>
-<tr bgcolor="#bdbdbd">
-<td width="0%" height="30" style="width: 100%; padding-right: 15px; padding-left: 15px;"><strong>Kontakt und Kurzbiografie</strong></td>
-<td width="33%" align="right" style="width: 33%; padding-right: 15px; padding-left: 15px;"><a name="swaplink1" id="swaplink1" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink1', 'hideme1')" onfocus="this.blur()" href="#swap">Einblenden</a></td>
+<table class="tab24" align="left" border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr bgcolor="#BDBDBD">
+<td width="0%" height="30" style="padding-right: 15px; padding-left: 15px;"><b>Kontakt und Kurzbiografie</b></td>
+<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink1', 'hideme1')" id="swaplink1" onfocus="this.blur()" name="swaplink1">Einblenden</a>
+</td>
 </tr>
 <tr style="text-align: justify; font-size: 16px; font-weight: normal; background-color: 245,245,245;">
-<td style="width: 52.1%; padding-right: 15px; padding-left: 15px;" colspan="3">
+<td colspan="3" style="padding-right: 15px; padding-left: 15px;">
 <div id="hideme1" style="display: none;"><br />
 <div align="left">
 
@@ -152,6 +153,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
         </table>
       </div>
     </p>
+
 </div>
 </td>
 </tr>
