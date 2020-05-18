@@ -40,9 +40,9 @@ $(document).ready(function(){
   <p><b>Kontakt</b></p>
 
   <p>
-  Telefon:    +49 (0) 341 97-31571<br>
-  E-Mail:     <a href="mailto:anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a><br>
-  Raum:       008<br>
+  Telefon:    &nbsp; &nbsp; &nbsp;+49 (0) 341 97-31571<br>
+  E-Mail:     &nbsp; &nbsp; &nbsp; <a href="mailto:anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a><br>
+  Raum:       &nbsp; &nbsp; &nbsp; &nbsp;008<br>
   Sprechzeit: Mittwoch 11:00-12:00 Uhr</p>
 
   <p><b>Kurzbiografie</b><br>
@@ -54,19 +54,19 @@ $(document).ready(function(){
               <td>Professorin für Empirische Schul- und Unterrichtsforschung an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig</td>
             </tr>
             <tr>
-              <td>2013-2018</td>
+              <td>2013 - 2018</td>
               <td>Oberassistentin am Lehrstuhl für Lehr- und Lernforschung, ETH Zürich</td>
             </tr>
             <tr>
-              <td>2012-2013</td>
+              <td>2012 - 2013</td>
               <td>Postdoc am Lehrstuhl für Lehr- und Lernforschung, ETH Zürich: Marie-Heim-Vögtlin-Stipendium des Schweizer Nationalfonds</td>
             </tr>
             <tr>
-              <td>2011-2012</td>
+              <td>2011 - 2012</td>
               <td>Dozentin mit Forschungsauftrag am Institut für Medien und Schule der Pädagogischen Hochschule Zentralschweiz</td>
             </tr>
             <tr>
-              <td>2008-2010</td>
+              <td>2008 - 2010</td>
               <td>Wissenschaftliche Mitarbeiterin in der Abteilung Allgemeine Psychologie der Albert-Ludwigs-Universität Freiburg</td>
             </tr>
             <tr>
@@ -74,7 +74,7 @@ $(document).ready(function(){
               <td>Promotion (Dr. phil.), Albert-Ludwigs-Universität Freiburg; ausgezeichnet mit dem Eugen-Fink-Nachwuchsförderpreis (2011)</td>
             </tr>
             <tr>
-              <td>2005-2008</td>
+              <td>2005 - 2008</td>
               <td>Stipendiatin im Virtuellen Graduiertenkolleg „Wissenserwerb und Wissensaustausch mit neuen Medien” (DFG)</td>
             </tr>
             <tr>
@@ -82,17 +82,16 @@ $(document).ready(function(){
               <td>Diplom (Dipl.-Psych.), Albert-Ludwigs-Universität Freiburg</td>
             </tr>
             <tr>
-              <td>2002-2003</td>
+              <td>2002 - 2003</td>
               <td>Studium am Department of Psychology der University of Michigan, Ann Arbor</td>
             </tr>
             <tr>
-              <td>1999-2005</td>
+              <td>1999 - 2005</td>
               <td>Studium der Psychologie, Albert-Ludwigs-Universität Freiburg</td>
             </tr>
           </tbody>
         </table>
       </div>
-    </p>
 </div>
 </body>
 
@@ -143,11 +142,11 @@ $(document).ready(function(){
               <td>Sekretärin an der Professur für Empirische Schul- und Unterrichtsforschung</td>
             </tr>
             <tr>
-              <td>2006-2019</td>
-              <td>versch. Beschäftigungen an der TU Dresden und Universität Leipzig</td>
+              <td>2006 - 2019</td>
+              <td>verschiedene Beschäftigungen an der TU Dresden und Universität Leipzig</td>
             </tr>
             <tr>
-              <td>2003-2006</td>
+              <td>2003 - 2006</td>
               <td>Ausbildung zur Fremdsprachensekretärin</td>
             </tr>
           </tbody>
@@ -166,11 +165,11 @@ Gregor Kachel leitet das DFG-Projekt SymLit und forscht darin zur Entwicklung de
 <head>
 <script src="https://code.jquery.com/jquery-latest.js"></script>
 <style>
-#sonstigesanzeigen2 {
+#sonstigesanzeigen3 {
   background-color: lightgrey;
   padding: 0.4em;
 }
-#sonstiges2 {
+#sonstiges3 {
   background-color: white;
   padding: 0.4em;
 }
@@ -179,15 +178,15 @@ Gregor Kachel leitet das DFG-Projekt SymLit und forscht darin zur Entwicklung de
 $(document).ready(function(){
     /* Hier der jQuery-Code */
     $('#sobo-einausblenden').click(function(){
-      $('#sonstiges2').toggle('slow');
+      $('#sonstiges3').toggle('slow');
     })
 });
 </script>
 </head>
 <body>
-<p id="sonstigesanzeigen2">
+<p id="sonstigesanzeigen3">
     <a href="#" id="sobo-einausblenden">Kontakt und Kurzbiografie</a></p>
-<div id="sonstiges2" style="display:none">
+<div id="sonstiges3" style="display:none">
   <p><b>Kontakt</b></p>
 
   <p>
@@ -204,7 +203,7 @@ $(document).ready(function(){
 <!--Klatt-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Klatt.jpg" width="130" hight="195"/>Mandy Klatt</h3>
-<p><b>Wissenschaftlicher Mitarbeiterin</b><br>
+<p><b>Wissenschaftliche Mitarbeiterin</b><br>
 Mandy Klatt forscht und lehrt als wissenschaftliche Mitarbeiterin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig. 
 Im Mittelpunkt ihrer Forschungsinteressen stehen neue, multimodale Methoden zur Erforschung von Lehr- und Lernprozessen wie mehrkanalige Prozessmessungen, Eye-Tracking, Audio- und Videografie im Unterricht. Ziel ist es außerdem, automatisierte Analyseverfahren anhand von Beobachtungsdaten zu validieren, um sie für die Unterrichtsforschung nutzbar zu machen. In ihrer Dissertation widmet sie sich u.a. der Fragestellung nach der Expertiseentwicklung von Lehrpersonen.
 Mandy Klatt bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (Modul 02 „Praxis- und Studienfeld Schule“) an. 
@@ -214,11 +213,11 @@ Vor ihrer Beschäftigung an der Universität Leipzig absolvierte sie einen ander
 <head>
 <script src="https://code.jquery.com/jquery-latest.js"></script>
 <style>
-#sonstigesanzeigen2 {
+#sonstigesanzeigen4 {
   background-color: lightgrey;
   padding: 0.4em;
 }
-#sonstiges2 {
+#sonstiges4 {
   background-color: white;
   padding: 0.4em;
 }
@@ -227,15 +226,15 @@ Vor ihrer Beschäftigung an der Universität Leipzig absolvierte sie einen ander
 $(document).ready(function(){
     /* Hier der jQuery-Code */
     $('#sobo-einausblenden').click(function(){
-      $('#sonstiges2').toggle('slow');
+      $('#sonstiges4').toggle('slow');
     })
 });
 </script>
 </head>
 <body>
-<p id="sonstigesanzeigen2">
+<p id="sonstigesanzeigen4">
     <a href="#" id="sobo-einausblenden">Kontakt und Kurzbiografie</a></p>
-<div id="sonstiges2" style="display:none">
+<div id="sonstiges4" style="display:none">
   <p><b>Kontakt</b></p>
 
   <p>
@@ -254,19 +253,19 @@ $(document).ready(function(){
               <td>Wissenschaftliche Mitarbeiterin an der Universität Leipzig, Erziehungswissenschaftliche Fakultät, Professur für Empirische Schul- und Unterrichtsforschung</td>
             </tr>
             <tr>
-              <td>Mai-September 2019</td>
+              <td>Mai - September 2019</td>
               <td>Übersetzungs- und Dolmetschertätigkeit in Frankreich</td>
             </tr>
             <tr>
-              <td>April 2018-April 2019</td>
+              <td>April 2018 - April 2019</td>
               <td>Lehrtätigkeit für Deutsch als Fremdsprache in Frankreich, Sekundarstufe I + II</td>
             </tr>
             <tr>
-              <td>Mai-Oktober 2017</td>
+              <td>Mai - Oktober 2017</td>
               <td>Lehrtätigkeit für Deutsch als Zweitsprache, Flüchtlingsrat Leipzig e.V.</td>
             </tr>
             <tr>
-              <td>Oktober 2011-März 2018</td>
+              <td>Oktober 2011 - März 2018</td>
               <td>Studium Deutsch und Französisch für Höheres Lehramt an Gymnasien an der Universität Leipzig/ 1. Staatsexamen</td>
             </tr>
           </tbody>
