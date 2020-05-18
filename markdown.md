@@ -41,7 +41,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
 <div id="hideme" style="display:none">
 <br /> 
-<div align="left">
+<div align="left"></div>
 
 <p><b>Kontakt</b></p>
 
@@ -137,7 +137,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
 <div id="hideme1" style="display:none">
 <br /> 
-<div align="left">
+<div align="left"></div>
 <p><b>Kontakt</b></p>
 </div> 
 Telefon:    +49 (0) 341 97-31572<br>
