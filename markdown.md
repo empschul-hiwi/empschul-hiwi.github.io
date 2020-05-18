@@ -232,75 +232,9 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
           </tbody>
         </table>
       </div>
-
 </div>
 </td>
 </tr>
 </table>
 
-<!--Pagel-->
-
-<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Pagel.jpg" width="130" hight="195"/>Anne-Kathrin Pagel</h3>
-<p><b>Sekretariat</b><br>
-<p style="padding-left: 144px;">Anne-Katrhin Pagel ist Sekräterin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br style="clear: both;"/>
-
-<script type="text/javascript">
-//<![CDATA[
-function swap(openlink,closelink, linkid, dataid)
-{
-if( document.getElementById(dataid).style.display == 'none')
-{
-document.getElementById(dataid).style.display='inline';
-document.getElementById(linkid).firstChild.nodeValue=closelink;
-} else
-{
-document.getElementById(dataid).style.display='none';
-document.getElementById(linkid).firstChild.nodeValue=openlink;
-}
-}
-//]]>
-</script>
-<table class="tab24" align="left" border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr bgcolor="#BDBDBD">
-<td width="0%" height="30" style="padding-right: 15px; padding-left: 15px;"><b>Kontakt und Kurzbiografie</b></td>
-<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink3', 'hideme3')" id="swaplink3" onfocus="this.blur()" name="swaplink3">Einblenden</a>
-</td>
-</tr>
-<tr style="text-align: justify; font-size: 16px; font-weight: normal; background-color: 245,245,245;">
-<td colspan="3" style="padding-right: 15px; padding-left: 15px;">
-<div id="hideme3" style="display:none">
-<br /> 
-<div align="left">
-
-  <p><b>Telefon:</b> +49 (0) 341 97-31570<br>
-  <b>E-Mail:</b> <a href="mailto:empschul@uni-leipzig.de">empschul@uni-leipzig.de</a><br>
-  <b>Raum:</b> 009<br>
-  <b>Sprechzeit:</b> Mittwoch 09:00-12:00 Uhr</p>
-
-  <p><b>Kurzbiografie</b></p>
-  <div class="table-wrapper">
-        <table>
-          <tbody>
-            <tr>
-              <td>seit 2019</td>
-              <td>Sekretärin an der Professur für Empirische Schul- und Unterrichtsforschung</td>
-            </tr>
-            <tr>
-              <td>2006 - 2019</td>
-              <td>verschiedene Beschäftigungen an der TU Dresden und Universität Leipzig</td>
-            </tr>
-            <tr>
-              <td>2003 - 2006</td>
-              <td>Ausbildung zur Fremdsprachensekretärin</td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-    </p>
-
-</div>
-</td>
-</tr>
-</table>
 
