@@ -39,6 +39,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <td colspan="3" style="padding-right: 15px; padding-left: 15px;">
 <div id="hideme" style="display: none;"><br />
 <div align="left">
+</div>
 
   <p><strong>Telefon:</strong> +49 (0) 341 97-31571<br /> <strong>E-Mail:</strong> <a href="mailto:anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a><br /> <strong>Raum:</strong> 008<br /> <strong>Sprechzeit:</strong> Mittwoch 11:00-12:00 Uhr</p>
 
@@ -90,7 +91,6 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
         </table>
       </div>
 </div>
-</div>
 </td>
 </tr>
 </table>
@@ -113,6 +113,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <td colspan="3" style="padding-right: 15px; padding-left: 15px;">
 <div id="hideme1" style="display: none;"><br />
 <div align="left">
+</div>
 
   <p><b>Telefon:</b> +49 (0) 341 97-31570<br>
   <b>E-Mail:</b> <a href="mailto:empschul@uni-leipzig.de">empschul@uni-leipzig.de</a><br>
@@ -140,7 +141,6 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
       </div>
     </p>
 </div>
-</div>
 </td>
 </tr>
 </table>
@@ -163,6 +163,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <td style="width: 52.1%; padding-right: 15px; padding-left: 15px;" colspan="3">
 <div id="hideme2" style="display: none;"><br />
 <div align="left">
+</div>
 
   <p><b>Telefon:</b> +49 (0) 341 97-31573<br>
   <b>E-Mail:</b> <a href="mailto:gregor.kachel@uni-leipzig.de">gregor.kachel@uni-leipzig.de</a><br>
@@ -171,7 +172,6 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
   <p><b>Kurzbiografie</b></p>
   In Bearbeitung
-</div>
 </div>
 </td>
 </tr>
@@ -199,6 +199,7 @@ Vor ihrer Beschäftigung an der Universität Leipzig absolvierte sie einen ander
 <td style="width: 52.1%; padding-right: 15px; padding-left: 15px;" colspan="3">
 <div id="hideme3" style="display: none;"><br />
 <div align="left">
+</div>
 
   <p></b>Telefon:</b> +49 (0) 341 97-31572<br>
   <b>E-Mail:</b> <a href="mailto:mandy.klatt@uni-leipz.de">mandy.klatt@uni-leipzig.de</a><br>
@@ -233,7 +234,6 @@ Vor ihrer Beschäftigung an der Universität Leipzig absolvierte sie einen ander
         </table>
       </div>
 </div>
-</div>
 </td>
 </tr>
 </table>
@@ -257,6 +257,7 @@ Vor ihrer Beschäftigung an der Universität Leipzig absolvierte sie einen ander
 <td style="width: 52.1%; padding-right: 15px; padding-left: 15px;" colspan="3">
 <div id="hideme4" style="display: none;"><br />
 <div align="left">
+</div>
 
   <p></b>Telefon:</b> ++49 (0) 341 97-31572<br>
   <b>E-Mail:</b> <a href="mailto:franziska.frohberg@uni-leipzig.de">franziska.frohberg@uni-leipzig.de</a><br>
@@ -290,7 +291,6 @@ Vor ihrer Beschäftigung an der Universität Leipzig absolvierte sie einen ander
           </tbody>
         </table>
       </div>
-</div>
 </div>
 </td>
 </tr>
