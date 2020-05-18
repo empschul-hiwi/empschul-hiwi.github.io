@@ -30,6 +30,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
 <b>Kontakt und Weiteres</b>
 </td>
+<td width="34%" align="center"> 
+</td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink', 'hideme')" id="swaplink" onfocus="this.blur()" name="swaplink">Einblenden</a>
 </td>
@@ -121,6 +123,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
 <b>Kontakt und Weiteres</b>
 </td>
+<td width="34%" align="center"> 
+</td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink1', 'hideme1')" id="swaplink1" onfocus="this.blur()" name="swaplink1">Einblenden</a>
 </td>
@@ -188,6 +192,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
 <b>Kontakt und Weiteres</b>
 </td>
+<td width="34%" align="center"> 
+</td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink2', 'hideme2')" id="swaplink2" onfocus="this.blur()" name="swaplink2">Einblenden</a>
 </td>
@@ -239,6 +245,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <tr bgcolor="#BDBDBD">
 <td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
 <b>Kontakt und Weiteres</b>
+</td>
+<td width="34%" align="center"> 
 </td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink3', 'hideme3')" id="swaplink3" onfocus="this.blur()" name="swaplink3">Einblenden</a>
