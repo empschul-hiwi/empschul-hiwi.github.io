@@ -117,12 +117,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 }
 //]]>
 </script>
-<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<table class="tab24" align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr bgcolor="#9C9C9C">
 <td width="33%" height="35" style="padding-left:15px; padding-right:15px;">
 </td>
-<td width="34%" align="center"> 
-Jimdo Page Award Tutorials (Hier den Text ändern)! 
+<td width="34%" align="left"> 
+Kontakt und Kurzbeschreibung
 </td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink', 'hideme')" id="swaplink" onfocus="this.blur()" name="swaplink">Einblenden</a>
@@ -132,11 +132,14 @@ Jimdo Page Award Tutorials (Hier den Text ändern)!
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
 <div id="hideme" style="display:none">
 <br /> 
-<div align="center">
-<span class="title24"Hier Titel eingeben</span>
+<div align="left">
+<p><b>Kontakt</b></p>
 </div> 
 <p>
-Hier können Sie den text einfügen, den Sie angezeigt haben wollen. Auch bilder können Sie mit dem Code zum hinzufügen von Bildern hier reinschreiben!
+Telefon:    +49 (0) 341 97-31572<br>
+E-Mail:     <a href="mailto:mandy.klatt@uni-leipz.de">mandy.klatt@uni-leipzig.de</a><br>
+Raum:       010<br>
+Sprechzeit: Mittwoch 11:00-12:00 Uhr
 </p> 
 </div>
 </td>
