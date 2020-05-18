@@ -41,7 +41,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
 <div id="hideme" style="display:none">
 <br /> 
-<div align="left"></div>
+<div align="left">
 
 <p><b>Kontakt</b></p>
 
@@ -97,7 +97,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
           </tbody>
         </table>
       </div>
-    </p> 
+    </p>
+</div> 
 </div>
 </td>
 </tr>
