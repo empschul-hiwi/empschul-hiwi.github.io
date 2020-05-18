@@ -130,13 +130,12 @@ $(document).ready(function(){
   <p><b>Kontakt</b></p>
 
   <p>Telefon: +49 (0) 341 97-31573<br>
-  E-Mail: <a href="mailto:gregor.kachel@uni-leipzig.de">gregor.kachel@uni-leipzig.de<br>
+  E-Mail: <a href="mailto:gregor.kachel@uni-leipzig.de">gregor.kachel@uni-leipzig.de</a><br>
   Raum: 005<br>
-  Webseite: <a href="https://gregorkachel.github.io">https://gregorkachel.github.io</a>
+  Webseite: <a href="https://gregorkachel.github.io">https://gregorkachel.github.io</a></p>
 
   <p><b>Kurzbiografie</b></p>
   In Bearbeitung
-
 </div>
 </body>
 
