@@ -34,12 +34,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <td width="0%" height="" style="padding-left:15px; padding-right:15px;"></td>
 <td width="0%" align="left"><b>Kontakt und Kurzbiografie</b></td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink1', 'hideme1')" id="swaplink1" onfocus="this.blur()" name="swaplink1">Einblenden</a>
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink', 'hideme')" id="swaplink" onfocus="this.blur()" name="swaplink">Einblenden</a>
 </td>
-</tr> 1
+</tr> 
 <tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: 245,245,245;">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme1" style="display:none">
+<div id="hideme" style="display:none">
 <br /> 
 <div align="left">
 
@@ -102,7 +102,6 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </td>
 </tr>
 </table> 
-
 
 <!--Kachel-->
 
