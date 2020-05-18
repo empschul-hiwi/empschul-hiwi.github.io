@@ -118,24 +118,20 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 //]]>
 </script>
 <table class="tab24" align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#9C9C9C">
-<td width="33%" height="35" style="padding-left:15px; padding-right:15px;">
-</td>
-<td width="0" align="left"> 
-Kontakt und Kurzbeschreibung
-</td>
+<tr bgcolor="white">
+<td width="33%" height="35" style="padding-left:15px; padding-right:15px;"></td>
+<td width="0%" align="left"><b>Kontakt und Kurzbeschreibung</b></td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink', 'hideme')" id="swaplink" onfocus="this.blur()" name="swaplink">Einblenden</a>
 </td>
 </tr> 
-<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: rgb(184,184,184);">
+<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: lightgrey;">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
 <div id="hideme" style="display:none">
 <br /> 
 <div align="left">
 <p><b>Kontakt</b></p>
 </div> 
-<p>
 Telefon:    +49 (0) 341 97-31572<br>
 E-Mail:     <a href="mailto:mandy.klatt@uni-leipz.de">mandy.klatt@uni-leipzig.de</a><br>
 Raum:       010<br>
