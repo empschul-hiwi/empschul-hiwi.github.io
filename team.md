@@ -7,43 +7,39 @@ images: assets/images/Gruppenfoto.jpg
 
 ***
 <!--Deiglmayr-->
+<h3><img width="130" style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Deiglmayr.jpg" hight="195" />Prof. Dr. Anne Deiglmayr</h3>
+<p><b>Inhaberin der Professur</b></p>
+<p style="padding-left: 144px;">Prof. Dr. Anne Deiglmayr ist seit 12/2018 Inhaberin der Professur &bdquo;Empirische Schul- und Unterrichtsforschung&ldquo; an der Erziehungswissenschaftlichen Fakult&auml;t der Universit&auml;t Leipzig. Ihre Forschungsschwerpunkte umfassen u.a. Methoden der mobilen Unterrichtsforschung, die Professionsentwicklung von Lehrpersonen, Lehr- und Lernprozesse beim (computergest&uuml;tzten) kooperativen Lernen, sowie die F&ouml;rderung des Lehrens und Lernens im MINT-Unterricht. Prof. Deiglmayr bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudieng&auml;nge (insbesondere Modul 02 &bdquo;Praxis- und Studienfeld Schule&ldquo;) sowie im Bereich der Erg&auml;nzungsstudien an (insbesondere zu Methoden der empirischen Sozialforschung).<br style="clear: both;" />
 
-<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Deiglmayr.jpg" width="130" hight="195"/>Prof. Dr. Anne Deiglmayr</h3>
-<p><b>Inhaberin der Professur</b><br>
-Prof. Dr. Anne Deiglmayr ist seit 12/2018 Inhaberin der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig. Ihre Forschungsschwerpunkte umfassen u.a. Methoden der mobilen Unterrichtsforschung, die Professionsentwicklung von Lehrpersonen, Lehr- und Lernprozesse beim (computergestützten) kooperativen Lernen, sowie die Förderung des Lehrens und Lernens im MINT-Unterricht. Prof. Deiglmayr bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (insbesondere Modul 02 „Praxis- und Studienfeld Schule“) sowie im Bereich der Ergänzungsstudien an (insbesondere zu Methoden der empirischen Sozialforschung).<br style="clear: both;"/>
-
-<head>
-<script src="https://code.jquery.com/jquery-latest.js"></script>
-<style>
-#sonstigesanzeigen {
-  background-color: lightgrey;
-  padding: 0.4em;
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
 }
-#sonstiges {
-  background-color: white;
-  padding: 0.4em;
 }
-</style>
-<script>
-$(document).ready(function(){
-    /* Hier der jQuery-Code */
-    $('#sobo-einausblenden').click(function(){
-      $('#sonstiges').toggle('slow');
-    })
-});
+//]]>
 </script>
-</head>
-<body>
-<p id="sonstigesanzeigen">
-    <a href="#" id="sobo-einausblenden">Kontakt und Kurzbiografie</a></p>
-<div id="sonstiges" style="display:none">
-  <p><b>Kontakt</b></p>
-
-  <p>
-  Telefon:    +49 (0) 341 97-31571<br>
-  E-Mail:     <a href="mailto:anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a><br>
-  Raum:       008<br>
-  Sprechzeit: Mittwoch 11:00-12:00 Uhr</p>
+</p>
+<table width="100%" align="left" class="tab24" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr bgcolor="#bdbdbd">
+<td width="0%" height="30" style="width: 100%; padding-right: 15px; padding-left: 15px;"><strong>Kontakt und Kurzbiografie</strong></td>
+<td width="33%" align="right" style="width: 33%; padding-right: 15px; padding-left: 15px;"><a name="swaplink" id="swaplink" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink', 'hideme')" onfocus="this.blur()" href="#swap">Einblenden</a></td>
+</tr>
+<tr style="text-align: justify; font-size: 16px; font-weight: normal; background-color: 245,245,245;">
+<td style="width: 52.1%; padding-right: 15px; padding-left: 15px;" colspan="3">
+<div id="hideme" style="display: none;"><br />
+<div align="left">
+ 
+  <p><strong>Telefon:</strong> +49 (0) 341 97-31571<br /> <strong>E-Mail:</strong> <a href="mailto:anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a><br /> <strong>Raum:</strong> 008<br /> <strong>Sprechzeit:</strong> Mittwoch 11:00-12:00 Uhr</p>
 
   <p><b>Kurzbiografie</b><br>
       <div class="table-wrapper">
@@ -92,46 +88,45 @@ $(document).ready(function(){
           </tbody>
         </table>
       </div>
-</div>
-</body>
 
 <!--Pagel-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Pagel.jpg" width="130" hight="195"/>Anne-Kathrin Pagel</h3>
 <p><b>Sekretariat</b><br>
-Anne-Katrhin Pagel ist Sekräterin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br style="clear: both;"/>
+<p style="padding-left: 144px;">Anne-Katrhin Pagel ist Sekräterin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br style="clear: both;"/>
 
-<head>
-<script src="https://code.jquery.com/jquery-latest.js"></script>
-<style>
-#sonstigesanzeigen2 {
-  background-color: lightgrey;
-  padding: 0.4em;
+<<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
 }
-#sonstiges2 {
-  background-color: white;
-  padding: 0.4em;
 }
-</style>
-<script>
-$(document).ready(function(){
-    /* Hier der jQuery-Code */
-    $('#sobo-einausblenden').click(function(){
-      $('#sonstiges2').toggle('slow');
-    })
-});
+//]]>
 </script>
-</head>
-<body>
-<p id="sonstigesanzeigen2">
-    <a href="#" id="sobo-einausblenden">Kontakt und Kurzbiografie</a></p>
-<div id="sonstiges2" style="display:none">
-  <p><b>Kontakt</b></p>
+</p>
+<table width="100%" align="left" class="tab24" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr bgcolor="#bdbdbd">
+<td width="0%" height="30" style="width: 100%; padding-right: 15px; padding-left: 15px;"><strong>Kontakt und Kurzbiografie</strong></td>
+<td width="33%" align="right" style="width: 33%; padding-right: 15px; padding-left: 15px;"><a name="swaplink1" id="swaplink1" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink1', 'hideme1')" onfocus="this.blur()" href="#swap">Einblenden</a></td>
+</tr>
+<tr style="text-align: justify; font-size: 16px; font-weight: normal; background-color: 245,245,245;">
+<td style="width: 52.1%; padding-right: 15px; padding-left: 15px;" colspan="3">
+<div id="hideme1" style="display: none;"><br />
+<div align="left">
 
-  <p>Telefon: +49 (0) 341 97-31570<br>
-  E-Mail:     <a href="mailto:empschul@uni-leipzig.de">empschul@uni-leipzig.de</a><br>
-  Raum:       009<br>
-  Sprechzeit: Mittwoch 09:00-12:00 Uhr</p>
+  <p><b>Telefon:</b> +49 (0) 341 97-31570<br>
+  <b>E-Mail:</b> <a href="mailto:empschul@uni-leipzig.de">empschul@uni-leipzig.de</a><br>
+  <b>Raum:</b> 009<br>
+  <b>Sprechzeit:</b> Mittwoch 09:00-12:00 Uhr</p>
 
   <p><b>Kurzbiografie</b></p>
   <div class="table-wrapper">
@@ -153,124 +148,184 @@ $(document).ready(function(){
         </table>
       </div>
     </p>
-</div>
-</body>
 
 <!--Kachel-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Kachel.jpg" width="130" hight="195"/>Dr. Gregor Kachel</h3>
 <p><b>Wissenschaftlicher Mitarbeiter/PI</b><br>
-Gregor Kachel leitet das DFG-Projekt SymLit und forscht darin zur Entwicklung des graphischen Symbolverständnisses im Vorschulalter. Er ist wissenschaftlicher Mitarbeiter an der Professur für Empirische Schul- und Unterrichtsforschung und Gastwissenschaftler in der Abteilung für Vergleichende Kulturpsychologie am MPI EVA.<br style="clear: both;"/>
+<p style="padding-left: 144px;">Gregor Kachel leitet das DFG-Projekt SymLit und forscht darin zur Entwicklung des graphischen Symbolverständnisses im Vorschulalter. Er ist wissenschaftlicher Mitarbeiter an der Professur für Empirische Schul- und Unterrichtsforschung und Gastwissenschaftler in der Abteilung für Vergleichende Kulturpsychologie am MPI EVA.<br style="clear: both;"/>
 
-<head>
-<script src="https://code.jquery.com/jquery-latest.js"></script>
-<style>
-#sonstigesanzeigen3 {
-  background-color: lightgrey;
-  padding: 0.4em;
+<<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
 }
-#sonstiges3 {
-  background-color: white;
-  padding: 0.4em;
 }
-</style>
-<script>
-$(document).ready(function(){
-    /* Hier der jQuery-Code */
-    $('#sobo-einausblenden').click(function(){
-      $('#sonstiges3').toggle('slow');
-    })
-});
+//]]>
 </script>
-</head>
-<body>
-<p id="sonstigesanzeigen3">
-    <a href="#" id="sobo-einausblenden">Kontakt und Kurzbiografie</a></p>
-<div id="sonstiges3" style="display:none">
-  <p><b>Kontakt</b></p>
+</p>
+<table width="100%" align="left" class="tab24" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr bgcolor="#bdbdbd">
+<td width="0%" height="30" style="width: 100%; padding-right: 15px; padding-left: 15px;"><strong>Kontakt und Kurzbiografie</strong></td>
+<td width="33%" align="right" style="width: 33%; padding-right: 15px; padding-left: 15px;"><a name="swaplink2" id="swaplink2" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink2', 'hideme2')" onfocus="this.blur()" href="#swap">Einblenden</a></td>
+</tr>
+<tr style="text-align: justify; font-size: 16px; font-weight: normal; background-color: 245,245,245;">
+<td style="width: 52.1%; padding-right: 15px; padding-left: 15px;" colspan="3">
+<div id="hideme2" style="display: none;"><br />
+<div align="left">
 
-  <p>
-  Telefon:  +49 (0) 341 97-31573<br>
-  E-Mail:   <a href="mailto:gregor.kachel@uni-leipzig.de">gregor.kachel@uni-leipzig.de</a><br>
-  Raum:     005<br>
-  Webseite: <a href="https://gregorkachel.github.io">https://gregorkachel.github.io</a></p>
+  <p><b>Telefon:</b> +49 (0) 341 97-31573<br>
+  <b>E-Mail:</b> <a href="mailto:gregor.kachel@uni-leipzig.de">gregor.kachel@uni-leipzig.de</a><br>
+  <b>Raum:</b> 005<br>
+  <b>Webseite:</b> <a href="https://gregorkachel.github.io">https://gregorkachel.github.io</a></p>
 
   <p><b>Kurzbiografie</b></p>
   In Bearbeitung
-</div>
-</body>
 
 <!--Klatt-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Klatt.jpg" width="130" hight="195"/>Mandy Klatt</h3>
 <p><b>Wissenschaftliche Mitarbeiterin</b><br>
-Mandy Klatt forscht und lehrt als wissenschaftliche Mitarbeiterin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig. 
+<p style="padding-left: 144px;">Mandy Klatt forscht und lehrt als wissenschaftliche Mitarbeiterin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig. 
 Im Mittelpunkt ihrer Forschungsinteressen stehen neue, multimodale Methoden zur Erforschung von Lehr- und Lernprozessen wie mehrkanalige Prozessmessungen, Eye-Tracking, Audio- und Videografie im Unterricht. Ziel ist es außerdem, automatisierte Analyseverfahren anhand von Beobachtungsdaten zu validieren, um sie für die Unterrichtsforschung nutzbar zu machen. In ihrer Dissertation widmet sie sich u.a. der Fragestellung nach der Expertiseentwicklung von Lehrpersonen.
 Mandy Klatt bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (Modul 02 „Praxis- und Studienfeld Schule“) an. 
 Vor ihrer Beschäftigung an der Universität Leipzig absolvierte sie einen anderthalbjährigen Aufenthalt in Frankreich mit Lehrtätigkeit.
 <br style="clear: both;"/>
 
-<head>
-<script src="https://code.jquery.com/jquery-latest.js"></script>
-<style>
-#sonstigesanzeigen4 {
-  background-color: lightgrey;
-  padding: 0.4em;
+<<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
 }
-#sonstiges4 {
-  background-color: white;
-  padding: 0.4em;
 }
-</style>
-<script>
-$(document).ready(function(){
-    /* Hier der jQuery-Code */
-    $('#sobo-einausblenden').click(function(){
-      $('#sonstiges4').toggle('slow');
-    })
-});
+//]]>
 </script>
-</head>
-<body>
-<p id="sonstigesanzeigen4">
-    <a href="#" id="sobo-einausblenden">Kontakt und Kurzbiografie</a></p>
-<div id="sonstiges4" style="display:none">
-  <p><b>Kontakt</b></p>
+</p>
+<table width="100%" align="left" class="tab24" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr bgcolor="#bdbdbd">
+<td width="0%" height="30" style="width: 100%; padding-right: 15px; padding-left: 15px;"><strong>Kontakt und Kurzbiografie</strong></td>
+<td width="33%" align="right" style="width: 33%; padding-right: 15px; padding-left: 15px;"><a name="swaplink3" id="swaplink3" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink3', 'hideme3')" onfocus="this.blur()" href="#swap">Einblenden</a></td>
+</tr>
+<tr style="text-align: justify; font-size: 16px; font-weight: normal; background-color: 245,245,245;">
+<td style="width: 52.1%; padding-right: 15px; padding-left: 15px;" colspan="3">
+<div id="hideme3" style="display: none;"><br />
+<div align="left">
 
-  <p>
-  Telefon:    +49 (0) 341 97-31572<br>
-  E-Mail:     <a href="mailto:mandy.klatt@uni-leipz.de">mandy.klatt@uni-leipzig.de</a><br>
-  Raum:       010<br>
-  Sprechzeit: Mittwoch 11:00-12:00 Uhr
+  <p></b>Telefon:</b> +49 (0) 341 97-31572<br>
+  <b>E-Mail:</b> <a href="mailto:mandy.klatt@uni-leipz.de">mandy.klatt@uni-leipzig.de</a><br>
+  <b>Raum:</b> 010<br>
+  <b>Sprechzeit:</b> Mittwoch 11:00-12:00 Uhr</p>
   
-
   <p><b>Kurzbiografie</b></p>
  <div class="table-wrapper">
         <table>
           <tbody>
             <tr>
-              <td>seit Oktober 2019</td>
+              <td>seit 10/2019</td>
               <td>Wissenschaftliche Mitarbeiterin an der Universität Leipzig, Erziehungswissenschaftliche Fakultät, Professur für Empirische Schul- und Unterrichtsforschung</td>
             </tr>
             <tr>
-              <td>Mai - September 2019</td>
+              <td>05/2019 - 09/2019</td>
               <td>Übersetzungs- und Dolmetschertätigkeit in Frankreich</td>
             </tr>
             <tr>
-              <td>April 2018 - April 2019</td>
+              <td>04/2018 - 04/2019</td>
               <td>Lehrtätigkeit für Deutsch als Fremdsprache in Frankreich, Sekundarstufe I + II</td>
             </tr>
             <tr>
-              <td>Mai - Oktober 2017</td>
+              <td>05/2017 - 10/2017</td>
               <td>Lehrtätigkeit für Deutsch als Zweitsprache, Flüchtlingsrat Leipzig e.V.</td>
             </tr>
             <tr>
-              <td>Oktober 2011 - März 2018</td>
+              <td>10/2011 - 03/2018</td>
               <td>Studium Deutsch und Französisch für Höheres Lehramt an Gymnasien an der Universität Leipzig/ 1. Staatsexamen</td>
             </tr>
           </tbody>
         </table>
       </div>
-</div>
-</body>
 
+<!--Frohberg-->
+
+<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Klatt.jpg" width="130" hight="195"/>Franziska Frohberg</h3>
+<p><b>Lehrkraft für besondere Aufgaben</b><br>
+<p style="padding-left: 144px;">Franziska Frohberg lehrt und forscht am Institut für Bildungswissenschaften am Lehrstuhl für Empirische Schul- und Unterrichtsforschung an der Universität Leipzig. Sie lehrt in den Modulen 1 und 2 der Bildungswissenschaften. Im Mittelpunkt ihrer Forschungsinteressen stehen Implizite Theorie zu Intelligenz, Veränderung von Mindsets bei Lehrpersonen und deren Einfluss auf Lehr-Lern-Arrangements. 
+<br style="clear: both;"/>
+
+<<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
+</script>
+</p>
+<table width="100%" align="left" class="tab24" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr bgcolor="#bdbdbd">
+<td width="0%" height="30" style="width: 100%; padding-right: 15px; padding-left: 15px;"><strong>Kontakt und Kurzbiografie</strong></td>
+<td width="33%" align="right" style="width: 33%; padding-right: 15px; padding-left: 15px;"><a name="swaplink4" id="swaplink4" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink4', 'hideme4')" onfocus="this.blur()" href="#swap">Einblenden</a></td>
+</tr>
+<tr style="text-align: justify; font-size: 16px; font-weight: normal; background-color: 245,245,245;">
+<td style="width: 52.1%; padding-right: 15px; padding-left: 15px;" colspan="3">
+<div id="hideme4" style="display: none;"><br />
+<div align="left">
+
+  <p></b>Telefon:</b> ++49 (0) 341 97-31572<br>
+  <b>E-Mail:</b> <a href="mailto:franziska.frohberg@uni-leipzig.de">franziska.frohberg@uni-leipzig.de</a><br>
+  <b>Raum:</b> 010<br>
+  <b>Sprechzeit:</b> Dienstag 09:00-10:00 Uhr (Anmeldung per E-Mail)</p>
+  
+  <p><b>Kurzbiografie</b></p>
+ <div class="table-wrapper">
+        <table>
+          <tbody>
+            <tr>
+              <td>seit 08/2019</td>
+              <td>Lehrkraft für besondere Aufgaben im Arbeitsbereich Allgemeine Didaktik</td>
+            </tr>
+            <tr>
+              <td>seit 02/2019</td>
+              <td>Lehrkraft für besondere Aufgaben im Arbeitsbereich Empirische Schul- und Unterrichtsforschung</td>
+            </tr>
+            <tr>
+              <td>2015 - 2018</td>
+              <td>Master Begabungsforschung und Kompetenzentwicklung, Universität Leipzig</td>
+            </tr>
+            <tr>
+              <td>2014 - 2015</td>
+              <td>Integrationspädagogin an der Montessorischule Huckepack Dresden e.V. </td>
+            </tr>
+            <tr>
+              <td>2011 - 2015 </td>
+              <td>Bachelor Pädagogik mit Nebenfach Psychologie, Technische Universität Chemnitz</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
