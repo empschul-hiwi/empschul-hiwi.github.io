@@ -29,11 +29,9 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 //]]>
 </script>
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#9C9C9C">
-<td width="33%" height="35" style="padding-left:15px; padding-right:15px;">
-</td>
-<td width="34%" align="center"> 
-Jimdo Page Award Tutorials (Hier den Text ändern)! 
+<tr bgcolor="#BDBDBD">
+<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Kontakt und Weiteres</b>
 </td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink', 'hideme')" id="swaplink" onfocus="this.blur()" name="swaplink">Einblenden</a>
@@ -123,11 +121,9 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 //]]>
 </script>
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#9C9C9C">
-<td width="33%" height="35" style="padding-left:15px; padding-right:15px;">
-</td>
-<td width="34%" align="center"> 
-Jimdo Page Award Tutorials (Hier den Text ändern)! 
+<tr bgcolor="#BDBDBD">
+<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Kontakt und Weiteres</b>
 </td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink1', 'hideme1')" id="swaplink1" onfocus="this.blur()" name="swaplink1">Einblenden</a>
@@ -193,11 +189,9 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 //]]>
 </script>
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#9C9C9C">
-<td width="33%" height="35" style="padding-left:15px; padding-right:15px;">
-</td>
-<td width="34%" align="center"> 
-Jimdo Page Award Tutorials (Hier den Text ändern)! 
+<tr bgcolor="#BDBDBD">
+<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Kontakt und Weiteres</b>
 </td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink2', 'hideme2')" id="swaplink2" onfocus="this.blur()" name="swaplink2">Einblenden</a>
@@ -248,11 +242,9 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 //]]>
 </script>
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#9C9C9C">
-<td width="33%" height="35" style="padding-left:15px; padding-right:15px;">
-</td>
-<td width="34%" align="center"> 
-Jimdo Page Award Tutorials (Hier den Text ändern)! 
+<tr bgcolor="#BDBDBD">
+<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Kontakt und Weiteres</b>
 </td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink3', 'hideme3')" id="swaplink3" onfocus="this.blur()" name="swaplink3">Einblenden</a>
@@ -327,11 +319,9 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 //]]>
 </script>
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#9C9C9C">
-<td width="33%" height="35" style="padding-left:15px; padding-right:15px;">
-</td>
-<td width="34%" align="center"> 
-Jimdo Page Award Tutorials (Hier den Text ändern)! 
+<tr bgcolor="#BDBDBD">
+<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Kontakt und Weiteres</b>
 </td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink4', 'hideme4')" id="swaplink4" onfocus="this.blur()" name="swaplink4">Einblenden</a>
@@ -404,11 +394,9 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 //]]>
 </script>
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#9C9C9C">
-<td width="33%" height="35" style="padding-left:15px; padding-right:15px;">
-</td>
-<td width="34%" align="center"> 
-Jimdo Page Award Tutorials (Hier den Text ändern)! 
+<tr bgcolor="#BDBDBD">
+<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Kontakt und Weiteres</b>
 </td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink5', 'hideme5')" id="swaplink5" onfocus="this.blur()" name="swaplink5">Einblenden</a>
@@ -454,11 +442,9 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 //]]>
 </script>
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#9C9C9C">
-<td width="33%" height="35" style="padding-left:15px; padding-right:15px;">
-</td>
-<td width="34%" align="center"> 
-Jimdo Page Award Tutorials (Hier den Text ändern)! 
+<tr bgcolor="#BDBDBD">
+<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Kontakt und Weiteres</b>
 </td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink6', 'hideme6')" id="swaplink6" onfocus="this.blur()" name="swaplink6">Einblenden</a>
@@ -539,11 +525,9 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 //]]>
 </script>
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#9C9C9C">
-<td width="33%" height="35" style="padding-left:15px; padding-right:15px;">
-</td>
-<td width="34%" align="center"> 
-Jimdo Page Award Tutorials (Hier den Text ändern)! 
+<tr bgcolor="#BDBDBD">
+<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Kontakt und Weiteres</b>
 </td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink7', 'hideme7')" id="swaplink7" onfocus="this.blur()" name="swaplink7">Einblenden</a>
@@ -613,11 +597,9 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 //]]>
 </script>
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#9C9C9C">
-<td width="33%" height="35" style="padding-left:15px; padding-right:15px;">
-</td>
-<td width="34%" align="center"> 
-Jimdo Page Award Tutorials (Hier den Text ändern)! 
+<tr bgcolor="#BDBDBD">
+<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Kontakt und Weiteres</b>
 </td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink8', 'hideme8')" id="swaplink8" onfocus="this.blur()" name="swaplink8">Einblenden</a>
@@ -660,11 +642,9 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 //]]>
 </script>
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#9C9C9C">
-<td width="33%" height="35" style="padding-left:15px; padding-right:15px;">
-</td>
-<td width="34%" align="center"> 
-Jimdo Page Award Tutorials (Hier den Text ändern)! 
+<tr bgcolor="#BDBDBD">
+<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Kontakt und Weiteres</b>
 </td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink9', 'hideme9')" id="swaplink9" onfocus="this.blur()" name="swaplink9">Einblenden</a>
