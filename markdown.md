@@ -29,14 +29,14 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 //]]>
 </script>
 <table class="tab24" align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="white">
-<td width="33%" height="35" style="padding-left:15px; padding-right:15px;"></td>
-<td width="0%" align="left"><b>Kontakt und Kurzbeschreibung</b></td>
+<tr bgcolor="#BDBDBD">
+<td width="0%" height="35" style="padding-left:15px; padding-right:15px;"></td>
+<td width="0%" align="left"><b>Kontakt und Kurzbiografie</b></td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink', 'hideme')" id="swaplink" onfocus="this.blur()" name="swaplink">Einblenden</a>
 </td>
 </tr> 
-<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: lightgrey;">
+<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: 245,245,245;">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
 <div id="hideme" style="display:none">
 <br /> 
@@ -46,8 +46,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 Telefon:    +49 (0) 341 97-31572<br>
 E-Mail:     <a href="mailto:mandy.klatt@uni-leipz.de">mandy.klatt@uni-leipzig.de</a><br>
 Raum:       010<br>
-Sprechzeit: Mittwoch 11:00-12:00 Uhr
-</p> 
+Sprechzeit: Mittwoch 11:00-12:00 Uhr 
 </div>
 </td>
 </tr>
@@ -59,55 +58,29 @@ Sprechzeit: Mittwoch 11:00-12:00 Uhr
 <p><b>Inhaberin der Professur</b><br>
 Prof. Dr. Anne Deiglmayr ist seit 12/2018 Inhaberin der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig. Ihre Forschungsschwerpunkte umfassen u.a. Methoden der mobilen Unterrichtsforschung, die Professionsentwicklung von Lehrpersonen, Lehr- und Lernprozesse beim (computergestützten) kooperativen Lernen, sowie die Förderung des Lehrens und Lernens im MINT-Unterricht. Prof. Deiglmayr bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (insbesondere Modul 02 „Praxis- und Studienfeld Schule“) sowie im Bereich der Ergänzungsstudien an (insbesondere zu Methoden der empirischen Sozialforschung).<br style="clear: both;"/>
 
-<<script type="text/javascript">
-//<![CDATA[
-function swap(openlink,closelink, linkid, dataid)
-{
-if( document.getElementById(dataid).style.display == 'none')
-{
-document.getElementById(dataid).style.display='inline';
-document.getElementById(linkid).firstChild.nodeValue=closelink;
-} else
-{
-document.getElementById(dataid).style.display='none';
-document.getElementById(linkid).firstChild.nodeValue=openlink;
-}
-}
-//]]>
 </script>
-<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#9C9C9C">
-<td width="33%" height="35" style="padding-left:15px; padding-right:15px;">
-</td>
-<td width="34%" align="center"> 
-Jimdo Page Award Tutorials (Hier den Text ändern)! 
-</td>
+<table class="tab24" align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#BDBDBD">
+<td width="0%" height="35" style="padding-left:15px; padding-right:15px;"></td>
+<td width="0%" align="left"><b>Kontakt und Kurzbiografie</b></td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink', 'hideme')" id="swaplink" onfocus="this.blur()" name="swaplink">Einblenden</a>
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink1', 'hideme1')" id="swaplink1" onfocus="this.blur()" name="swaplink1">Einblenden</a>
 </td>
-</tr> 
-<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: rgb(184,184,184);">
+</tr> 1
+<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: 245,245,245;">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme" style="display:none">
+<div id="hideme1" style="display:none">
 <br /> 
-<div align="center">
-<span class="title24"Hier Titel eingeben</span>
-</div> 
+<div align="left">
 <p>
-Hier können Sie den text einfügen, den Sie angezeigt haben wollen. Auch bilder können Sie mit dem Code zum hinzufügen von Bildern hier reinschreiben!
-</p> 
-</div>
-</td>
-</tr>
-</table> 
-  <p><b>Kontakt</b></p>
+<p><b>Kontakt</b></p>
 
   <p>Telefon: +49 (0) 341 97-31571<br>
   E-Mail: <a href="mailto:anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a><br>
   Raum: 008<br>
   Sprechzeit: Mittwoch 11:00-12:00</p>
 
-  <p><b>Kurzbiografie</b><br>
+<p><b>Kurzbiografie</b><br>
       <div class="table-wrapper">
         <table>
           <tbody>
@@ -154,6 +127,11 @@ Hier können Sie den text einfügen, den Sie angezeigt haben wollen. Auch bilder
           </tbody>
         </table>
       </div>
-    </p>
+    </p> 
 </div>
-</body>
+</td>
+</tr>
+</table> 
+  
+
+  
