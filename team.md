@@ -264,7 +264,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <!--Frohberg-->
 
-<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Klatt.jpg" width="130" hight="195"/>Franziska Frohberg</h3>
+<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Frohberg.jpg" width="130" hight="195"/>Franziska Frohberg</h3>
 <p><b>Lehrkraft für besondere Aufgaben</b><br>
 <p style="padding-left: 144px;">Franziska Frohberg lehrt und forscht am Institut für Bildungswissenschaften am Lehrstuhl für Empirische Schul- und Unterrichtsforschung an der Universität Leipzig. Sie lehrt in den Modulen 1 und 2 der Bildungswissenschaften. Im Mittelpunkt ihrer Forschungsinteressen stehen Implizite Theorie zu Intelligenz, Veränderung von Mindsets bei Lehrpersonen und deren Einfluss auf Lehr-Lern-Arrangements. 
 <br style="clear: both;"/>
