@@ -45,7 +45,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </div> 
   <p><strong>Telefon:</strong> +49 (0) 341 97-31571<br /> <strong>E-Mail:</strong> <a href="mailto:anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a><br /> <strong>Raum:</strong> 008<br /> <strong>Sprechzeit:</strong> Mittwoch 11:00-12:00 Uhr</p>
 
-  <p><b>Kurzbiografie</b></p>>
+  <p><b>Kurzbiografie</b></p>
       <div class="table-wrapper">
         <table>
           <tbody>
@@ -128,12 +128,11 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink1', 'hideme1')" id="swaplink1" onfocus="this.blur()" name="swaplink1">Einblenden</a>
 </td>
 </tr> 
-<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: rgb(184,184,184);">
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme1" style="display:none">
+<div id="hideme" style="display:none">
 <br /> 
 <div align="center">
-<span class="title24"Hier Titel eingeben</span>
 </div> 
 
   <p><b>Telefon:</b> +49 (0) 341 97-31570<br>
@@ -168,7 +167,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <!--Kachel-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Kachel.jpg" width="130" hight="195"/>Dr. Gregor Kachel</h3>
-<p><b>Wissenschaftlicher Mitarbeiter/PI</b></p>>
+<p><b>Wissenschaftlicher Mitarbeiter/PI</b></p>
 <p style="padding-left: 144px;">Gregor Kachel leitet das DFG-Projekt SymLit und forscht darin zur Entwicklung des graphischen Symbolverständnisses im Vorschulalter. Er ist wissenschaftlicher Mitarbeiter an der Professur für Empirische Schul- und Unterrichtsforschung und Gastwissenschaftler in der Abteilung für Vergleichende Kulturpsychologie am MPI EVA.<br style="clear: both;"/>
 
 <script type="text/javascript">
@@ -196,12 +195,11 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink2', 'hideme2')" id="swaplink2" onfocus="this.blur()" name="swaplink2">Einblenden</a>
 </td>
 </tr> 
-<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: rgb(184,184,184);">
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme2" style="display:none">
+<div id="hideme" style="display:none">
 <br /> 
 <div align="center">
-<span class="title24"Hier Titel eingeben</span>
 </div> 
   <p><b>Telefon:</b> +49 (0) 341 97-31573<br>
   <b>E-Mail:</b> <a href="mailto:gregor.kachel@uni-leipzig.de">gregor.kachel@uni-leipzig.de</a><br>
@@ -249,12 +247,11 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink3', 'hideme3')" id="swaplink3" onfocus="this.blur()" name="swaplink3">Einblenden</a>
 </td>
 </tr> 
-<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: rgb(184,184,184);">
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme3" style="display:none">
+<div id="hideme" style="display:none">
 <br /> 
 <div align="center">
-<span class="title24"Hier Titel eingeben</span>
 </div> 
 
   <p></b>Telefon:</b> +49 (0) 341 97-31572<br>
@@ -297,7 +294,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <!--Frohberg-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Frohberg.jpg" width="130" hight="195"/>Franziska Frohberg</h3>
-<p><b>Lehrkraft für besondere Aufgaben</b></p>>
+<p><b>Lehrkraft für besondere Aufgaben</b></p>
 <p style="padding-left: 144px;">Franziska Frohberg lehrt und forscht am Institut für Bildungswissenschaften am Lehrstuhl für Empirische Schul- und Unterrichtsforschung an der Universität Leipzig. Sie lehrt in den Modulen 1 und 2 der Bildungswissenschaften. Im Mittelpunkt ihrer Forschungsinteressen stehen Implizite Theorie zu Intelligenz, Veränderung von Mindsets bei Lehrpersonen und deren Einfluss auf Lehr-Lern-Arrangements. 
 <br style="clear: both;"/>
 
@@ -326,13 +323,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink4', 'hideme4')" id="swaplink4" onfocus="this.blur()" name="swaplink4">Einblenden</a>
 </td>
 </tr> 
-<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: rgb(184,184,184);">
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme4" style="display:none">
+<div id="hideme" style="display:none">
 <br /> 
 <div align="center">
-<span class="title24"Hier Titel eingeben</span>
-</div> 
+</div>  
   <p></b>Telefon:</b> +49 (0) 341 97-31572<br>
   <b>E-Mail:</b> <a href="mailto:franziska.frohberg@uni-leipzig.de">franziska.frohberg@uni-leipzig.de</a><br>
   <b>Raum:</b> 010<br>
@@ -401,12 +397,11 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink5', 'hideme5')" id="swaplink5" onfocus="this.blur()" name="swaplink5">Einblenden</a>
 </td>
 </tr> 
-<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: rgb(184,184,184);">
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme5" style="display:none">
+<div id="hideme" style="display:none">
 <br /> 
 <div align="center">
-<span class="title24"Hier Titel eingeben</span>
 </div> 
   
   <p><b>Telefon:</b> +49 (0) 341 97-31432<br>
@@ -421,7 +416,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <!--De Groote-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/de Groote_Foto.jpg" width="130" hight="195"/>Carola de Groote</h3>
-<p><b>Abgeordnete Lehrerin</b></p>>
+<p><b>Abgeordnete Lehrerin</b></p>
 <p style="padding-left: 144px;">Carola de Groote lehrt als abgeordnete Lehrerin in den Modulen 1 und 2 am Institut für Bildungswissenschaften am Lehrstuhl für Empirische Schul- und Unterrichtsforschung an der Universität Leipzig und bringt hier ihre 25-jährige gymnasiale Lehrtätigkeit ein. Im Mittelpunkt ihrer Forschungsinteressen stehen Begabungsförderung an Regelschulen, begabungsförderlicher Unterricht sowie Schulentwicklung.<br style="clear: both;"/>
 
 <script type="text/javascript">
@@ -449,13 +444,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink6', 'hideme6')" id="swaplink6" onfocus="this.blur()" name="swaplink6">Einblenden</a>
 </td>
 </tr> 
-<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: rgb(184,184,184);">
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme6" style="display:none">
+<div id="hideme" style="display:none">
 <br /> 
 <div align="center">
-<span class="title24"Hier Titel eingeben</span>
-</div> 
+</div>  
   <p></b>Telefon:</b> +49 (0) 341 97-31572<br>
   <b>E-Mail:</b> <a href="mailto:carola.de_groote@uni-leipzig.de">carola.de_groote@uni-leipzig.de</a><br>
   <b>Raum:</b> 010<br>
@@ -496,7 +490,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <!--Eulitz-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Eulitz.jpg" width="130" hight="195"/>Gereon Eulitz</h3>
-<p><b>Lehrer im Hochschuldienst</b></p>>
+<p><b>Lehrer im Hochschuldienst</b></p>
 <p style="padding-left: 144px;">Gereon Eulitz ist Lehrer im Hochschuldienst und gehört der Professur ‚Empirische Schul- und Unterrichtsforschung‘ an. Sein Forschungsinteresse gilt der kooperativen Unterrichtsentwicklung. Das Modul 05-BWI-02 (SPS) "Praxis- und Studienfeld Schule“ ist Schwerpunkt seiner Lehrtätigkeit. Außerdem wirkt er an der Mentorenqualifizierung im Freistaat Sachsen mit.
 <p style="padding-left: 144px;">Arbeitsschwerpunkte und Forschungsinteressen<ul>
     <li>Kooperation von Wissenschaftler*innen und Lehrer*innen im Rahmen didaktischer Entwicklungsforschung</li>
@@ -532,13 +526,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink7', 'hideme7')" id="swaplink7" onfocus="this.blur()" name="swaplink7">Einblenden</a>
 </td>
 </tr> 
-<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: rgb(184,184,184);">
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme7" style="display:none">
+<div id="hideme" style="display:none">
 <br /> 
 <div align="center">
-<span class="title24"Hier Titel eingeben</span>
-</div> 
+</div>  
   <p></b>Telefon:</b> +49 (0) 341 97-31437<br>
   <b>E-Mail:</b> <a href="mailto:gereon.eulitz@uni-leipzig.de">gereon.eulitz@uni-leipzig.de</a><br>
   <b>Raum:</b> 107<br>
@@ -604,12 +597,11 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink8', 'hideme8')" id="swaplink8" onfocus="this.blur()" name="swaplink8">Einblenden</a>
 </td>
 </tr> 
-<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: rgb(184,184,184);">
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme8" style="display:none">
+<div id="hideme" style="display:none">
 <br /> 
 <div align="center">
-<span class="title24"Hier Titel eingeben</span>
 </div> 
   <p><b>E-Mail:</b> <a href="mailto:empschul_hiwi@uni-leipzig.de">empschul_hiwi@uni-leipzig.de</a><br>
   <b>Raum:</b> 009<br></p>
@@ -649,12 +641,11 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink9', 'hideme9')" id="swaplink9" onfocus="this.blur()" name="swaplink9">Einblenden</a>
 </td>
 </tr> 
-<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: rgb(184,184,184);">
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme9" style="display:none">
+<div id="hideme" style="display:none">
 <br /> 
 <div align="center">
-<span class="title24"Hier Titel eingeben</span>
 </div> 
   <p><b>E-Mail:</b> <a href="mailto:empschul_hiwi@uni-leipzig.de">empschul_hiwi@uni-leipzig.de</a><br>
   <b>Raum:</b> 009<br></p>
