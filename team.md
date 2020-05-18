@@ -422,7 +422,7 @@ Jimdo Page Award Tutorials (Hier den Text ändern)!
 <span class="title24"Hier Titel eingeben</span>
 </div> 
   
-  <p></b>Telefon:</b> +49 (0) 341 97-31432<br>
+  <p><b>Telefon:</b> +49 (0) 341 97-31432<br>
   <b>E-Mail:</b> <a href="mirjam.leistner@uni-leipzig.de">mirjam.leistner@uni-leipzig.de</a><br>
   <b>Raum:</b> 107<br></p>
 
@@ -435,9 +435,7 @@ Jimdo Page Award Tutorials (Hier den Text ändern)!
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/de Groote_Foto.jpg" width="130" hight="195"/>Carola de Groote</h3>
 <p><b>Abgeordnete Lehrerin</b></p>>
-<p style="padding-left: 144px;">Carola de Groote lehrt als abgeordnete Lehrerin in den Modulen 1 und 2 am Institut für Bildungswissenschaften am Lehrstuhl für Empirische Schul- und Unterrichtsforschung an der Universität Leipzig und bringt hier ihre 25-jährige gymnasiale Lehrtätigkeit ein. Im Mittelpunkt ihrer Forschungsinteressen stehen Begabungsförderung an Regelschulen, begabungsförderlicher Unterricht sowie Schulentwicklung.
-
-<br style="clear: both;"/>
+<p style="padding-left: 144px;">Carola de Groote lehrt als abgeordnete Lehrerin in den Modulen 1 und 2 am Institut für Bildungswissenschaften am Lehrstuhl für Empirische Schul- und Unterrichtsforschung an der Universität Leipzig und bringt hier ihre 25-jährige gymnasiale Lehrtätigkeit ein. Im Mittelpunkt ihrer Forschungsinteressen stehen Begabungsförderung an Regelschulen, begabungsförderlicher Unterricht sowie Schulentwicklung.<br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -476,7 +474,7 @@ Jimdo Page Award Tutorials (Hier den Text ändern)!
   <p></b>Telefon:</b> +49 (0) 341 97-31572<br>
   <b>E-Mail:</b> <a href="mailto:carola.de_groote@uni-leipzig.de">carola.de_groote@uni-leipzig.de</a><br>
   <b>Raum:</b> 010<br>
-  <b>Sprechzeit:</b> Freitag 15:00-16:00 Uhr
+  <b>Sprechzeit:</b> Freitag 15:00-16:00 Uhr</p>
   
   <p><b>Kurzbiografie</b></p>
  <div class="table-wrapper">
@@ -521,8 +519,7 @@ Jimdo Page Award Tutorials (Hier den Text ändern)!
     <li>Theorie-Praxis-Beziehungen / Innovations- und Transferforschung</li>
     <li>Schul- und Unterrichtsentwicklung in internationalen und interkulturellen Kontexten</li>
     <li>Schulpraktische Studien: Praxis- und Studienfeld Schule (Bildungswissenschaft)</li>
-    <li>Mentorenqualifizierung für LehrerInnen aller Schularten</li>
-</ul>
+    <li>Mentorenqualifizierung für LehrerInnen aller Schularten</li></ul>
 <br style="clear: both;"/>
 
 <script type="text/javascript">
@@ -596,7 +593,7 @@ Jimdo Page Award Tutorials (Hier den Text ändern)!
 <!--Schmidtke-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Schmidtke.jpg" width="130" hight="195"/>Anna Schmidtke</h3>
-<p><b>Studentische Hilfskraft</b></p>>
+<p><b>Studentische Hilfskraft</b></p>
 <p style="padding-left: 144px;">Anna Schmidtke studiert an der Universität Leipzig Höheres Lehramt an Gymnasien mit den Fächern Deutsch und Ethik. Sie ist als studentische Hilfskraft an der Professur für "Empirische Schul- und Unterrichtsforschung tätig".<br style="clear: both;"/>
 
 <script type="text/javascript">
@@ -634,7 +631,7 @@ Jimdo Page Award Tutorials (Hier den Text ändern)!
 <span class="title24"Hier Titel eingeben</span>
 </div> 
   <p><b>E-Mail:</b> <a href="mailto:empschul_hiwi@uni-leipzig.de">empschul_hiwi@uni-leipzig.de</a><br>
-  <b>Raum:</b> 009<br>
+  <b>Raum:</b> 009<br></p>
 </div>
 </td>
 </tr>
@@ -643,7 +640,7 @@ Jimdo Page Award Tutorials (Hier den Text ändern)!
 <!--Lugovaya-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Lugovaya.jpg" width="130" hight="195"/>Anna Lugovaya</h3>
-<p><b>Studentische Hilfskraft</b></p>>
+<p><b>Studentische Hilfskraft</b></p>
 <p style="padding-left: 144px;">Anna Lugovaya studiert Lehramt an Grundschulen mit den Kernfach Ethik und dem Lehramtserweiterungsfach Deutsch als Zweitsprache. An der Professur "Empirische Schul- und Unterrichtsforschung" ist sie als studentische Hilfskraft tätig. <br style="clear: both;"/>
 
 <script type="text/javascript">
@@ -681,7 +678,7 @@ Jimdo Page Award Tutorials (Hier den Text ändern)!
 <span class="title24"Hier Titel eingeben</span>
 </div> 
   <p><b>E-Mail:</b> <a href="mailto:empschul_hiwi@uni-leipzig.de">empschul_hiwi@uni-leipzig.de</a><br>
-  <b>Raum:</b> 009<br>
+  <b>Raum:</b> 009<br></p>
 </div>
 </td>
 </tr>
