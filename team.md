@@ -130,7 +130,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </tr> 
 <tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme" style="display:none">
+<div id="hideme1" style="display:none">
 <br /> 
 <div align="center">
 </div> 
