@@ -96,6 +96,7 @@ $(document).ready(function(){
 </body>
 
 <!--Kachel-->
+***
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Kachel.jpg" width="130" hight="195"/>Dr. Gregor Kachel</h3>
 <p><b>Wissenschaftlicher Mitarbeiter/PI</b><br>
