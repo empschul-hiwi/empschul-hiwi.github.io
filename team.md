@@ -7,9 +7,9 @@ images: assets/images/Gruppenfoto.jpg
 
 ***
 <!--Deiglmayr-->
-<h3><img width="130" style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Deiglmayr.jpg" hight="195" />Prof. Dr. Anne Deiglmayr</h3>
+<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Deiglmayr.jpg" width="130" hight="195" />Prof. Dr. Anne Deiglmayr</h3>
 <p><b>Inhaberin der Professur</b></p>
-<p style="padding-left: 144px;">Prof. Dr. Anne Deiglmayr ist seit 12/2018 Inhaberin der Professur &bdquo;Empirische Schul- und Unterrichtsforschung&ldquo; an der Erziehungswissenschaftlichen Fakult&auml;t der Universit&auml;t Leipzig. Ihre Forschungsschwerpunkte umfassen u.a. Methoden der mobilen Unterrichtsforschung, die Professionsentwicklung von Lehrpersonen, Lehr- und Lernprozesse beim (computergest&uuml;tzten) kooperativen Lernen, sowie die F&ouml;rderung des Lehrens und Lernens im MINT-Unterricht. Prof. Deiglmayr bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudieng&auml;nge (insbesondere Modul 02 &bdquo;Praxis- und Studienfeld Schule&ldquo;) sowie im Bereich der Erg&auml;nzungsstudien an (insbesondere zu Methoden der empirischen Sozialforschung).<br style="clear: both;" />
+<p style="padding-left: 144px;">Prof. Dr. Anne Deiglmayr ist seit 12/2018 Inhaberin der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig. Ihre Forschungsschwerpunkte umfassen u.a. Methoden der mobilen Unterrichtsforschung, die Professionsentwicklung von Lehrpersonen, Lehr- und Lernprozesse beim (computergestützten) kooperativen Lernen, sowie die Förderung des Lehrens und Lernens im MINT-Unterricht. Prof. Deiglmayr bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (insbesondere Modul 02 „Praxis- und Studienfeld Schule“) sowie im Bereich der Ergänzungsstudien an (insbesondere zu Methoden der empirischen Sozialforschung).<br style="clear: both;" />
 
 <script type="text/javascript">
 //<![CDATA[
@@ -100,21 +100,6 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <p><b>Sekretariat</b><br>
 <p style="padding-left: 144px;">Anne-Katrhin Pagel ist Sekräterin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br style="clear: both;"/>
 
-<script type="text/javascript">
-//<![CDATA[
-function swap(openlink,closelink, linkid, dataid)
-{
-if( document.getElementById(dataid).style.display == 'none')
-{
-document.getElementById(dataid).style.display='inline';
-document.getElementById(linkid).firstChild.nodeValue=closelink;
-} else
-{
-document.getElementById(dataid).style.display='none';
-document.getElementById(linkid).firstChild.nodeValue=openlink;
-}
-}
-//]]>
 </script>
 <table class="tab24" align="left" border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr bgcolor="#BDBDBD">
@@ -165,21 +150,6 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <p><b>Wissenschaftlicher Mitarbeiter/PI</b><br>
 <p style="padding-left: 144px;">Gregor Kachel leitet das DFG-Projekt SymLit und forscht darin zur Entwicklung des graphischen Symbolverständnisses im Vorschulalter. Er ist wissenschaftlicher Mitarbeiter an der Professur für Empirische Schul- und Unterrichtsforschung und Gastwissenschaftler in der Abteilung für Vergleichende Kulturpsychologie am MPI EVA.<br style="clear: both;"/>
 
-<<script type="text/javascript">
-//<![CDATA[
-function swap(openlink,closelink, linkid, dataid)
-{
-if( document.getElementById(dataid).style.display == 'none')
-{
-document.getElementById(dataid).style.display='inline';
-document.getElementById(linkid).firstChild.nodeValue=closelink;
-} else
-{
-document.getElementById(dataid).style.display='none';
-document.getElementById(linkid).firstChild.nodeValue=openlink;
-}
-}
-//]]>
 </script>
 </p>
 <table width="100%" align="left" class="tab24" border="0" cellspacing="0" cellpadding="0">
@@ -215,21 +185,6 @@ Mandy Klatt bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen
 Vor ihrer Beschäftigung an der Universität Leipzig absolvierte sie einen anderthalbjährigen Aufenthalt in Frankreich mit Lehrtätigkeit.
 <br style="clear: both;"/>
 
-<<script type="text/javascript">
-//<![CDATA[
-function swap(openlink,closelink, linkid, dataid)
-{
-if( document.getElementById(dataid).style.display == 'none')
-{
-document.getElementById(dataid).style.display='inline';
-document.getElementById(linkid).firstChild.nodeValue=closelink;
-} else
-{
-document.getElementById(dataid).style.display='none';
-document.getElementById(linkid).firstChild.nodeValue=openlink;
-}
-}
-//]]>
 </script>
 </p>
 <table width="100%" align="left" class="tab24" border="0" cellspacing="0" cellpadding="0">
@@ -287,21 +242,6 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <p style="padding-left: 144px;">Franziska Frohberg lehrt und forscht am Institut für Bildungswissenschaften am Lehrstuhl für Empirische Schul- und Unterrichtsforschung an der Universität Leipzig. Sie lehrt in den Modulen 1 und 2 der Bildungswissenschaften. Im Mittelpunkt ihrer Forschungsinteressen stehen Implizite Theorie zu Intelligenz, Veränderung von Mindsets bei Lehrpersonen und deren Einfluss auf Lehr-Lern-Arrangements. 
 <br style="clear: both;"/>
 
-<<script type="text/javascript">
-//<![CDATA[
-function swap(openlink,closelink, linkid, dataid)
-{
-if( document.getElementById(dataid).style.display == 'none')
-{
-document.getElementById(dataid).style.display='inline';
-document.getElementById(linkid).firstChild.nodeValue=closelink;
-} else
-{
-document.getElementById(dataid).style.display='none';
-document.getElementById(linkid).firstChild.nodeValue=openlink;
-}
-}
-//]]>
 </script>
 </p>
 <table width="100%" align="left" class="tab24" border="0" cellspacing="0" cellpadding="0">
