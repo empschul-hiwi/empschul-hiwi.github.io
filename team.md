@@ -344,7 +344,7 @@ Jimdo Page Award Tutorials (Hier den Text ändern)!
 <div align="center">
 <span class="title24"Hier Titel eingeben</span>
 </div> 
-  <p></b>Telefon:</b> ++49 (0) 341 97-31572<br>
+  <p></b>Telefon:</b> +49 (0) 341 97-31572<br>
   <b>E-Mail:</b> <a href="mailto:franziska.frohberg@uni-leipzig.de">franziska.frohberg@uni-leipzig.de</a><br>
   <b>Raum:</b> 010<br>
   <b>Sprechzeit:</b> Dienstag 09:00-10:00 Uhr (Anmeldung per E-Mail)</p>
@@ -376,6 +376,312 @@ Jimdo Page Award Tutorials (Hier den Text ändern)!
           </tbody>
         </table>
       </div>
+</div>
+</td>
+</tr>
+</table>
+
+<!--Leistner-->
+
+<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Leistner.jpg" width="130" hight="195"/>Mirjam Leistner</h3>
+<p><b>Lehrkraft für besondere Aufgaben</b></p>>
+<p style="padding-left: 144px;">Mirjam Leistner lehrt als Lehrkraft für besondere Aufgaben im Studiengang Lehramt an der Universität Leipzig im Fachbereich Bildungswissenschaften. 
+<br style="clear: both;"/>
+
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
+</script>
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#9C9C9C">
+<td width="33%" height="35" style="padding-left:15px; padding-right:15px;">
+</td>
+<td width="34%" align="center"> 
+Jimdo Page Award Tutorials (Hier den Text ändern)! 
+</td>
+<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink5', 'hideme5')" id="swaplink5" onfocus="this.blur()" name="swaplink5">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: rgb(184,184,184);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme5" style="display:none">
+<br /> 
+<div align="center">
+<span class="title24"Hier Titel eingeben</span>
+</div> 
+  <p></b>Telefon:</b> +49 (0) 341 97-31432<br>
+  <b>E-Mail:</b> <a href="mirjam.leistner@uni-leipzig.de">mirjam.leistner@uni-leipzig.de</a><br>
+  <b>Raum:</b> 107<br>
+ 
+</div>
+</td>
+</tr>
+</table>
+
+<!--De Groote-->
+
+<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/de Groote_Foto.jpg" width="130" hight="195"/>Carola de Groote</h3>
+<p><b>Abgeordnete Lehrerin</b></p>>
+<p style="padding-left: 144px;">Carola de Groote lehrt als abgeordnete Lehrerin in den Modulen 1 und 2 am Institut für Bildungswissenschaften am Lehrstuhl für Empirische Schul- und Unterrichtsforschung an der Universität Leipzig und bringt hier ihre 25-jährige gymnasiale Lehrtätigkeit ein. Im Mittelpunkt ihrer Forschungsinteressen stehen Begabungsförderung an Regelschulen, begabungsförderlicher Unterricht sowie Schulentwicklung.
+
+<br style="clear: both;"/>
+
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
+</script>
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#9C9C9C">
+<td width="33%" height="35" style="padding-left:15px; padding-right:15px;">
+</td>
+<td width="34%" align="center"> 
+Jimdo Page Award Tutorials (Hier den Text ändern)! 
+</td>
+<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink6', 'hideme6')" id="swaplink6" onfocus="this.blur()" name="swaplink6">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: rgb(184,184,184);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme6" style="display:none">
+<br /> 
+<div align="center">
+<span class="title24"Hier Titel eingeben</span>
+</div> 
+  <p></b>Telefon:</b> +49 (0) 341 97-31572<br>
+  <b>E-Mail:</b> <a href="mailto:carola.de_groote@uni-leipzig.de">carola.de_groote@uni-leipzig.de</a><br>
+  <b>Raum:</b> 010<br>
+  <b>Sprechzeit:</b> Freitag 15:00-16:00 Uhr
+  
+  <p><b>Kurzbiografie</b></p>
+ <div class="table-wrapper">
+        <table>
+          <tbody>
+            <tr>
+              <td>seit 08/2019</td>
+              <td>Abgeordnete Lehrkraft am Arbeitsbereich Empirische Schul- und Unterrichtsforschung</td>
+            </tr>
+            <tr>
+              <td>seit 08/2006</td>
+              <td>Immanuel-Kant-Gymnasium Leipzig, Lehrerin für die Fächer Deutsch und Englisch</td>
+            </tr>
+            <tr>
+              <td>08/1995 - 07/2006</td>
+              <td>Gymnasium Engelsdorf, Lehrerin für die Fächer Deutsch und Englisch</td>
+            </tr>
+            <tr>
+              <td>08/1993 - 07/1995</td>
+              <td>Werner-Heisenberg-Gymnasium Leipzig, Vorbereitungsdienst für das Höhere Lehramt an Gymnasien; Fachkombination Deutsch und Englisch; 2. Staatsexamen</td>
+            </tr>
+            <tr>
+              <td>10/1987-07/1993</td>
+              <td>Karl-Marx-Universität Leipzig (KMU)/ Universität Leipzig – Alma Mater Lipsiensis, Lehramtsstudium der Fächer Deutsch und Englisch für das Höhere Lehramt an Gymnasien; Erstes Staatsexamen</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+</div>
+</td>
+</tr>
+</table>
+
+<!--Eulitz-->
+
+<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Eulitz.jpg" width="130" hight="195"/>Gereon Eulitz</h3>
+<p><b>Lehrer im Hochschuldienst</b></p>>
+<p style="padding-left: 144px;">Gereon Eulitz ist Lehrer im Hochschuldienst und gehört der Professur ‚Empirische Schul- und Unterrichtsforschung‘ an. Sein Forschungsinteresse gilt der kooperativen Unterrichtsentwicklung. Das Modul 05-BWI-02 (SPS) "Praxis- und Studienfeld Schule“ ist Schwerpunkt seiner Lehrtätigkeit. Außerdem wirkt er an der Mentorenqualifizierung im Freistaat Sachsen mit.
+<p style="padding-left: 144px;">Arbeitsschwerpunkte und Forschungsinteressen<ul>
+    <li>Kooperation von Wissenschaftler*innen und Lehrer*innen im Rahmen didaktischer Entwicklungsforschung</li>
+    <li>Unterrichtsentwicklung und Unterrichtsforschung, insbesondere kooperative Formate (z.B. Design-Based Research, Lesson Study, Professional Learning Communities</li>
+    <li>Theorie-Praxis-Beziehungen / Innovations- und Transferforschung</li>
+    <li>Schul- und Unterrichtsentwicklung in internationalen und interkulturellen Kontexten</li>
+    <li>Schulpraktische Studien: Praxis- und Studienfeld Schule (Bildungswissenschaft)</li>
+    <li>Mentorenqualifizierung für LehrerInnen aller Schularten</li>
+</ul>
+<br style="clear: both;"/>
+
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
+</script>
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#9C9C9C">
+<td width="33%" height="35" style="padding-left:15px; padding-right:15px;">
+</td>
+<td width="34%" align="center"> 
+Jimdo Page Award Tutorials (Hier den Text ändern)! 
+</td>
+<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink7', 'hideme7')" id="swaplink7" onfocus="this.blur()" name="swaplink7">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: rgb(184,184,184);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme7" style="display:none">
+<br /> 
+<div align="center">
+<span class="title24"Hier Titel eingeben</span>
+</div> 
+  <p></b>Telefon:</b> +49 (0) 341 97-31437<br>
+  <b>E-Mail:</b> <a href="mailto:gereon.eulitz@uni-leipzig.de">gereon.eulitz@uni-leipzig.de</a><br>
+  <b>Raum:</b> 107<br>
+  <b>Sprechzeit:</b> Anmeldung per E-Mail</p>
+  
+  <p><b>Kurzbiografie</b></p>
+ <div class="table-wrapper">
+        <table>
+          <tbody>
+            <tr>
+              <td>seit WiSe 2019/20</td>
+              <td>Mitarbeit im Arbeitsbereich 'Empirische Schul- und Unterrichtsforschung'</td>
+            </tr>
+            <tr>
+              <td>seit WiSe 2017/18</td>
+              <td>Doktorand bei Prof. Dr. Hallitzky / Arbeitstitel  "Die interprofessionelle Kooperation von Lehrkräften und Forschenden im Rahmen des Design-Based Research-Ansatzes"</td>
+            </tr>
+            <tr>
+              <td>seit WiSe 2016/17</td>
+              <td>Mitarbeit im Arbeitsbereich 'Allgemeine Didaktik & Schulpädagogik des Sekundarbereichs'</td>
+            </tr>
+            <tr>
+              <td>seit WiSe 2014/15</td>
+              <td>Lehrer im Hochschuldienst / ZLS der Universität Leipzig
+              Professur International und interkulturell vergleichende Bildungswissenschaft</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+</div>
+</td>
+</tr>
+</table>
+
+<!--Schmidtke-->
+
+<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Schmidtke.jpg" width="130" hight="195"/>Anna Schmidtke</h3>
+<p><b>Studentische Hilfskraft</b></p>>
+<p style="padding-left: 144px;">Anna Schmidtke studiert an der Universität Leipzig Höheres Lehramt an Gymnasien mit den Fächern Deutsch und Ethik. Sie ist als studentische Hilfskraft an der Professur für "Empirische Schul- und Unterrichtsforschung tätig".<br style="clear: both;"/>
+
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
+</script>
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#9C9C9C">
+<td width="33%" height="35" style="padding-left:15px; padding-right:15px;">
+</td>
+<td width="34%" align="center"> 
+Jimdo Page Award Tutorials (Hier den Text ändern)! 
+</td>
+<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink8', 'hideme8')" id="swaplink8" onfocus="this.blur()" name="swaplink8">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: rgb(184,184,184);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme8" style="display:none">
+<br /> 
+<div align="center">
+<span class="title24"Hier Titel eingeben</span>
+</div> 
+  <p><b>E-Mail:</b> <a href="mailto:empschul_hiwi@uni-leipzig.de">empschul_hiwi@uni-leipzig.de</a><br>
+  <b>Raum:</b> 009<br>
+</div>
+</td>
+</tr>
+</table>
+  
+<!--Lugovaya-->
+
+<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Lugovaya.jpg" width="130" hight="195"/>Anna Lugovaya</h3>
+<p><b>Studentische Hilfskraft</b></p>>
+<p style="padding-left: 144px;">Anna Lugovaya studiert Lehramt an Grundschulen mit den Kernfach Ethik und dem Lehramtserweiterungsfach Deutsch als Zweitsprache. An der Professur "Empirische Schul- und Unterrichtsforschung" ist sie als studentische Hilfskraft tätig. <br style="clear: both;"/>
+
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
+</script>
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#9C9C9C">
+<td width="33%" height="35" style="padding-left:15px; padding-right:15px;">
+</td>
+<td width="34%" align="center"> 
+Jimdo Page Award Tutorials (Hier den Text ändern)! 
+</td>
+<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink9', 'hideme9')" id="swaplink9" onfocus="this.blur()" name="swaplink9">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: rgb(184,184,184);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme9" style="display:none">
+<br /> 
+<div align="center">
+<span class="title24"Hier Titel eingeben</span>
+</div> 
+  <p><b>E-Mail:</b> <a href="mailto:empschul_hiwi@uni-leipzig.de">empschul_hiwi@uni-leipzig.de</a><br>
+  <b>Raum:</b> 009<br>
 </div>
 </td>
 </tr>
