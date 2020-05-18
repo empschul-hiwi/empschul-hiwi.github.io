@@ -39,10 +39,11 @@ $(document).ready(function(){
 <div id="sonstiges" style="display:none">
   <p><b>Kontakt</b></p>
 
-  <p>Telefon: +49 (0) 341 97-31571<br>
-  E-Mail: <a href="mailto:anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a><br>
-  Raum: 008<br>
-  Sprechzeit: Mittwoch 11:00-12:00</p>
+  <p>
+  Telefon:    +49 (0) 341 97-31571<br>
+  E-Mail:     <a href="mailto:anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a><br>
+  Raum:       008<br>
+  Sprechzeit: Mittwoch 11:00-12:00 Uhr</p>
 
   <p><b>Kurzbiografie</b><br>
       <div class="table-wrapper">
@@ -50,7 +51,7 @@ $(document).ready(function(){
           <tbody>
             <tr>
               <td>seit 2018</td>
-              <td>seit 2018 Professorin für Empirische Schul- und Unterrichtsforschung an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig</td>
+              <td>Professorin für Empirische Schul- und Unterrichtsforschung an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig</td>
             </tr>
             <tr>
               <td>2013-2018</td>
@@ -58,7 +59,7 @@ $(document).ready(function(){
             </tr>
             <tr>
               <td>2012-2013</td>
-              <td>2012-2013  Postdoc am Lehrstuhl für Lehr- und Lernforschung, ETH Zürich: Marie-Heim-Vögtlin-Stipendium des Schweizer Nationalfonds</td>
+              <td>Postdoc am Lehrstuhl für Lehr- und Lernforschung, ETH Zürich: Marie-Heim-Vögtlin-Stipendium des Schweizer Nationalfonds</td>
             </tr>
             <tr>
               <td>2011-2012</td>
@@ -95,7 +96,67 @@ $(document).ready(function(){
 </div>
 </body>
 
-***
+<!--Pagel-->
+
+<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Pagel.jpg" width="130" hight="195"/>Anne-Kathrin Pagel</h3>
+<p><b>Sekretariat</b><br>
+Anne-Katrhin Pagel ist Sekräterin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br style="clear: both;"/>
+
+<head>
+<script src="https://code.jquery.com/jquery-latest.js"></script>
+<style>
+#sonstigesanzeigen2 {
+  background-color: lightgrey;
+  padding: 0.4em;
+}
+#sonstiges2 {
+  background-color: white;
+  padding: 0.4em;
+}
+</style>
+<script>
+$(document).ready(function(){
+    /* Hier der jQuery-Code */
+    $('#sobo-einausblenden').click(function(){
+      $('#sonstiges2').toggle('slow');
+    })
+});
+</script>
+</head>
+<body>
+<p id="sonstigesanzeigen2">
+    <a href="#" id="sobo-einausblenden">Kontakt und Kurzbiografie</a></p>
+<div id="sonstiges2" style="display:none">
+  <p><b>Kontakt</b></p>
+
+  <p>Telefon: +49 (0) 341 97-31570<br>
+  E-Mail:     <a href="mailto:empschul@uni-leipzig.de">empschul@uni-leipzig.de</a><br>
+  Raum:       009<br>
+  Sprechzeit: Mittwoch 09:00-12:00 Uhr</p>
+
+  <p><b>Kurzbiografie</b></p>
+  <div class="table-wrapper">
+        <table>
+          <tbody>
+            <tr>
+              <td>seit 2019</td>
+              <td>Sekretärin an der Professur für Empirische Schul- und Unterrichtsforschung</td>
+            </tr>
+            <tr>
+              <td>2006-2019</td>
+              <td>versch. Beschäftigungen an der TU Dresden und Universität Leipzig</td>
+            </tr>
+            <tr>
+              <td>2003-2006</td>
+              <td>Ausbildung zur Fremdsprachensekretärin</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </p>
+</div>
+</body>
+
 <!--Kachel-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Kachel.jpg" width="130" hight="195"/>Dr. Gregor Kachel</h3>
@@ -129,9 +190,10 @@ $(document).ready(function(){
 <div id="sonstiges2" style="display:none">
   <p><b>Kontakt</b></p>
 
-  <p>Telefon: +49 (0) 341 97-31573<br>
-  E-Mail: <a href="mailto:gregor.kachel@uni-leipzig.de">gregor.kachel@uni-leipzig.de</a><br>
-  Raum: 005<br>
+  <p>
+  Telefon:  +49 (0) 341 97-31573<br>
+  E-Mail:   <a href="mailto:gregor.kachel@uni-leipzig.de">gregor.kachel@uni-leipzig.de</a><br>
+  Raum:     005<br>
   Webseite: <a href="https://gregorkachel.github.io">https://gregorkachel.github.io</a></p>
 
   <p><b>Kurzbiografie</b></p>
@@ -139,4 +201,77 @@ $(document).ready(function(){
 </div>
 </body>
 
+<!--Klatt-->
+
+<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Klatt.jpg" width="130" hight="195"/>Mandy Klatt</h3>
+<p><b>Wissenschaftlicher Mitarbeiterin</b><br>
+Mandy Klatt forscht und lehrt als wissenschaftliche Mitarbeiterin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig. 
+Im Mittelpunkt ihrer Forschungsinteressen stehen neue, multimodale Methoden zur Erforschung von Lehr- und Lernprozessen wie mehrkanalige Prozessmessungen, Eye-Tracking, Audio- und Videografie im Unterricht. Ziel ist es außerdem, automatisierte Analyseverfahren anhand von Beobachtungsdaten zu validieren, um sie für die Unterrichtsforschung nutzbar zu machen. In ihrer Dissertation widmet sie sich u.a. der Fragestellung nach der Expertiseentwicklung von Lehrpersonen.
+Mandy Klatt bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (Modul 02 „Praxis- und Studienfeld Schule“) an. 
+Vor ihrer Beschäftigung an der Universität Leipzig absolvierte sie einen anderthalbjährigen Aufenthalt in Frankreich mit Lehrtätigkeit.
+<br style="clear: both;"/>
+
+<head>
+<script src="https://code.jquery.com/jquery-latest.js"></script>
+<style>
+#sonstigesanzeigen2 {
+  background-color: lightgrey;
+  padding: 0.4em;
+}
+#sonstiges2 {
+  background-color: white;
+  padding: 0.4em;
+}
+</style>
+<script>
+$(document).ready(function(){
+    /* Hier der jQuery-Code */
+    $('#sobo-einausblenden').click(function(){
+      $('#sonstiges2').toggle('slow');
+    })
+});
+</script>
+</head>
+<body>
+<p id="sonstigesanzeigen2">
+    <a href="#" id="sobo-einausblenden">Kontakt und Kurzbiografie</a></p>
+<div id="sonstiges2" style="display:none">
+  <p><b>Kontakt</b></p>
+
+  <p>
+  Telefon:    +49 (0) 341 97-31572<br>
+  E-Mail:     <a href="mailto:mandy.klatt@uni-leipz.de">mandy.klatt@uni-leipzig.de</a><br>
+  Raum:       010<br>
+  Sprechzeit: Mittwoch 11:00-12:00 Uhr
+  
+
+  <p><b>Kurzbiografie</b></p>
+ <div class="table-wrapper">
+        <table>
+          <tbody>
+            <tr>
+              <td>seit Oktober 2019</td>
+              <td>Wissenschaftliche Mitarbeiterin an der Universität Leipzig, Erziehungswissenschaftliche Fakultät, Professur für Empirische Schul- und Unterrichtsforschung</td>
+            </tr>
+            <tr>
+              <td>Mai-September 2019</td>
+              <td>Übersetzungs- und Dolmetschertätigkeit in Frankreich</td>
+            </tr>
+            <tr>
+              <td>April 2018-April 2019</td>
+              <td>Lehrtätigkeit für Deutsch als Fremdsprache in Frankreich, Sekundarstufe I + II</td>
+            </tr>
+            <tr>
+              <td>Mai-Oktober 2017</td>
+              <td>Lehrtätigkeit für Deutsch als Zweitsprache, Flüchtlingsrat Leipzig e.V.</td>
+            </tr>
+            <tr>
+              <td>Oktober 2011-März 2018</td>
+              <td>Studium Deutsch und Französisch für Höheres Lehramt an Gymnasien an der Universität Leipzig/ 1. Staatsexamen</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+</div>
+</body>
 
