@@ -28,22 +28,27 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 }
 //]]>
 </script>
-<table class="tab24" align="left" border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr bgcolor="#BDBDBD">
-<td width="0%" height="30" style="padding-right: 15px; padding-left: 15px;"><b>Kontakt und Kurzbiografie</b></td>
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#9C9C9C">
+<td width="33%" height="35" style="padding-left:15px; padding-right:15px;">
+</td>
+<td width="34%" align="center"> 
+Jimdo Page Award Tutorials (Hier den Text ändern)! 
+</td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink', 'hideme')" id="swaplink" onfocus="this.blur()" name="swaplink">Einblenden</a>
 </td>
-</tr>
-<tr style="text-align: justify; font-size: 16px; font-weight: normal; background-color: 245,245,245;">
-<td colspan="3" style="padding-right: 15px; padding-left: 15px;">
-<div id="hideme" style="display: none;"><br />
-<div align="left">
-</div>
-
+</tr> 
+<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: rgb(184,184,184);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme" style="display:none">
+<br /> 
+<div align="center">
+<span class="title24"Hier Titel eingeben</span>
+</div> 
   <p><strong>Telefon:</strong> +49 (0) 341 97-31571<br /> <strong>E-Mail:</strong> <a href="mailto:anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a><br /> <strong>Raum:</strong> 008<br /> <strong>Sprechzeit:</strong> Mittwoch 11:00-12:00 Uhr</p>
 
-  <p><b>Kurzbiografie</b><br>
+  <p><b>Kurzbiografie</b></p>>
       <div class="table-wrapper">
         <table>
           <tbody>
@@ -93,27 +98,48 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </div>
 </td>
 </tr>
-</table>
+</table> 
 
 <!--Pagel-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Pagel.jpg" width="130" hight="195"/>Anne-Kathrin Pagel</h3>
-<p><b>Sekretariat</b><br>
+<p><b>Sekretariat</b></p>
 <p style="padding-left: 144px;">Anne-Katrhin Pagel ist Sekräterin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br style="clear: both;"/>
 
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
 </script>
-<table class="tab24" align="left" border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr bgcolor="#BDBDBD">
-<td width="0%" height="30" style="padding-right: 15px; padding-left: 15px;"><b>Kontakt und Kurzbiografie</b></td>
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#9C9C9C">
+<td width="33%" height="35" style="padding-left:15px; padding-right:15px;">
+</td>
+<td width="34%" align="center"> 
+Jimdo Page Award Tutorials (Hier den Text ändern)! 
+</td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink1', 'hideme1')" id="swaplink1" onfocus="this.blur()" name="swaplink1">Einblenden</a>
 </td>
-</tr>
-<tr style="text-align: justify; font-size: 16px; font-weight: normal; background-color: 245,245,245;">
-<td colspan="3" style="padding-right: 15px; padding-left: 15px;">
-<div id="hideme1" style="display: none;"><br />
-<div align="left">
-</div>
+</tr> 
+<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: rgb(184,184,184);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme1" style="display:none">
+<br /> 
+<div align="center">
+<span class="title24"Hier Titel eingeben</span>
+</div> 
 
   <p><b>Telefon:</b> +49 (0) 341 97-31570<br>
   <b>E-Mail:</b> <a href="mailto:empschul@uni-leipzig.de">empschul@uni-leipzig.de</a><br>
@@ -139,7 +165,6 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
           </tbody>
         </table>
       </div>
-    </p>
 </div>
 </td>
 </tr>
@@ -148,23 +173,43 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <!--Kachel-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Kachel.jpg" width="130" hight="195"/>Dr. Gregor Kachel</h3>
-<p><b>Wissenschaftlicher Mitarbeiter/PI</b><br>
+<p><b>Wissenschaftlicher Mitarbeiter/PI</b></p>>
 <p style="padding-left: 144px;">Gregor Kachel leitet das DFG-Projekt SymLit und forscht darin zur Entwicklung des graphischen Symbolverständnisses im Vorschulalter. Er ist wissenschaftlicher Mitarbeiter an der Professur für Empirische Schul- und Unterrichtsforschung und Gastwissenschaftler in der Abteilung für Vergleichende Kulturpsychologie am MPI EVA.<br style="clear: both;"/>
 
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
 </script>
-</p>
-<table width="100%" align="left" class="tab24" border="0" cellspacing="0" cellpadding="0">
-<tbody>
-<tr bgcolor="#bdbdbd">
-<td width="0%" height="30" style="width: 100%; padding-right: 15px; padding-left: 15px;"><strong>Kontakt und Kurzbiografie</strong></td>
-<td width="33%" align="right" style="width: 33%; padding-right: 15px; padding-left: 15px;"><a name="swaplink2" id="swaplink2" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink2', 'hideme2')" onfocus="this.blur()" href="#swap">Einblenden</a></td>
-</tr>
-<tr style="text-align: justify; font-size: 16px; font-weight: normal; background-color: 245,245,245;">
-<td style="width: 52.1%; padding-right: 15px; padding-left: 15px;" colspan="3">
-<div id="hideme2" style="display: none;"><br />
-<div align="left">
-</div>
-
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#9C9C9C">
+<td width="33%" height="35" style="padding-left:15px; padding-right:15px;">
+</td>
+<td width="34%" align="center"> 
+Jimdo Page Award Tutorials (Hier den Text ändern)! 
+</td>
+<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink2', 'hideme2')" id="swaplink2" onfocus="this.blur()" name="swaplink2">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: rgb(184,184,184);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme2" style="display:none">
+<br /> 
+<div align="center">
+<span class="title24"Hier Titel eingeben</span>
+</div> 
   <p><b>Telefon:</b> +49 (0) 341 97-31573<br>
   <b>E-Mail:</b> <a href="mailto:gregor.kachel@uni-leipzig.de">gregor.kachel@uni-leipzig.de</a><br>
   <b>Raum:</b> 005<br>
@@ -172,6 +217,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
   <p><b>Kurzbiografie</b></p>
   In Bearbeitung
+
 </div>
 </td>
 </tr>
@@ -180,26 +226,45 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <!--Klatt-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Klatt.jpg" width="130" hight="195"/>Mandy Klatt</h3>
-<p><b>Wissenschaftliche Mitarbeiterin</b><br>
-<p style="padding-left: 144px;">Mandy Klatt forscht und lehrt als wissenschaftliche Mitarbeiterin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig. 
-Im Mittelpunkt ihrer Forschungsinteressen stehen neue, multimodale Methoden zur Erforschung von Lehr- und Lernprozessen wie mehrkanalige Prozessmessungen, Eye-Tracking, Audio- und Videografie im Unterricht. Ziel ist es außerdem, automatisierte Analyseverfahren anhand von Beobachtungsdaten zu validieren, um sie für die Unterrichtsforschung nutzbar zu machen. In ihrer Dissertation widmet sie sich u.a. der Fragestellung nach der Expertiseentwicklung von Lehrpersonen.
+<p><b>Wissenschaftliche Mitarbeiterin</b></p>
+<p style="padding-left: 144px;">Mandy Klatt forscht und lehrt als wissenschaftliche Mitarbeiterin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.Im Mittelpunkt ihrer Forschungsinteressen stehen neue, multimodale Methoden zur Erforschung von Lehr- und Lernprozessen wie mehrkanalige Prozessmessungen, Eye-Tracking, Audio- und Videografie im Unterricht. Ziel ist es außerdem, automatisierte Analyseverfahren anhand von Beobachtungsdaten zu validieren, um sie für die Unterrichtsforschung nutzbar zu machen. In ihrer Dissertation widmet sie sich u.a. der Fragestellung nach der Expertiseentwicklung von Lehrpersonen.
 Mandy Klatt bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (Modul 02 „Praxis- und Studienfeld Schule“) an. 
-Vor ihrer Beschäftigung an der Universität Leipzig absolvierte sie einen anderthalbjährigen Aufenthalt in Frankreich mit Lehrtätigkeit.
-<br style="clear: both;"/>
+Vor ihrer Beschäftigung an der Universität Leipzig absolvierte sie einen anderthalbjährigen Aufenthalt in Frankreich mit Lehrtätigkeit.<br style="clear: both;"/>
 
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
 </script>
-</p>
-<table width="100%" align="left" class="tab24" border="0" cellspacing="0" cellpadding="0">
-<tbody>
-<tr bgcolor="#bdbdbd">
-<td width="0%" height="30" style="width: 100%; padding-right: 15px; padding-left: 15px;"><strong>Kontakt und Kurzbiografie</strong></td>
-<td width="33%" align="right" style="width: 33%; padding-right: 15px; padding-left: 15px;"><a name="swaplink3" id="swaplink3" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink3', 'hideme3')" onfocus="this.blur()" href="#swap">Einblenden</a></td>
-</tr>
-<tr style="text-align: justify; font-size: 16px; font-weight: normal; background-color: 245,245,245;">
-<td style="width: 52.1%; padding-right: 15px; padding-left: 15px;" colspan="3">
-<div id="hideme3" style="display: none;"><br />
-<div align="left">
-</div>
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#9C9C9C">
+<td width="33%" height="35" style="padding-left:15px; padding-right:15px;">
+</td>
+<td width="34%" align="center"> 
+Jimdo Page Award Tutorials (Hier den Text ändern)! 
+</td>
+<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink3', 'hideme3')" id="swaplink3" onfocus="this.blur()" name="swaplink3">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: rgb(184,184,184);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme3" style="display:none">
+<br /> 
+<div align="center">
+<span class="title24"Hier Titel eingeben</span>
+</div> 
 
   <p></b>Telefon:</b> +49 (0) 341 97-31572<br>
   <b>E-Mail:</b> <a href="mailto:mandy.klatt@uni-leipz.de">mandy.klatt@uni-leipzig.de</a><br>
@@ -207,7 +272,7 @@ Vor ihrer Beschäftigung an der Universität Leipzig absolvierte sie einen ander
   <b>Sprechzeit:</b> Mittwoch 11:00-12:00 Uhr</p>
   
   <p><b>Kurzbiografie</b></p>
- <div class="table-wrapper">
+  <div class="table-wrapper">
         <table>
           <tbody>
             <tr>
@@ -241,24 +306,44 @@ Vor ihrer Beschäftigung an der Universität Leipzig absolvierte sie einen ander
 <!--Frohberg-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Frohberg.jpg" width="130" hight="195"/>Franziska Frohberg</h3>
-<p><b>Lehrkraft für besondere Aufgaben</b><br>
+<p><b>Lehrkraft für besondere Aufgaben</b></p>>
 <p style="padding-left: 144px;">Franziska Frohberg lehrt und forscht am Institut für Bildungswissenschaften am Lehrstuhl für Empirische Schul- und Unterrichtsforschung an der Universität Leipzig. Sie lehrt in den Modulen 1 und 2 der Bildungswissenschaften. Im Mittelpunkt ihrer Forschungsinteressen stehen Implizite Theorie zu Intelligenz, Veränderung von Mindsets bei Lehrpersonen und deren Einfluss auf Lehr-Lern-Arrangements. 
 <br style="clear: both;"/>
 
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
 </script>
-</p>
-<table width="100%" align="left" class="tab24" border="0" cellspacing="0" cellpadding="0">
-<tbody>
-<tr bgcolor="#bdbdbd">
-<td width="0%" height="30" style="width: 100%; padding-right: 15px; padding-left: 15px;"><strong>Kontakt und Kurzbiografie</strong></td>
-<td width="33%" align="right" style="width: 33%; padding-right: 15px; padding-left: 15px;"><a name="swaplink4" id="swaplink4" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink4', 'hideme4')" onfocus="this.blur()" href="#swap">Einblenden</a></td>
-</tr>
-<tr style="text-align: justify; font-size: 16px; font-weight: normal; background-color: 245,245,245;">
-<td style="width: 52.1%; padding-right: 15px; padding-left: 15px;" colspan="3">
-<div id="hideme4" style="display: none;"><br />
-<div align="left">
-</div>
-
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#9C9C9C">
+<td width="33%" height="35" style="padding-left:15px; padding-right:15px;">
+</td>
+<td width="34%" align="center"> 
+Jimdo Page Award Tutorials (Hier den Text ändern)! 
+</td>
+<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink4', 'hideme4')" id="swaplink4" onfocus="this.blur()" name="swaplink4">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: rgb(184,184,184);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme4" style="display:none">
+<br /> 
+<div align="center">
+<span class="title24"Hier Titel eingeben</span>
+</div> 
   <p></b>Telefon:</b> ++49 (0) 341 97-31572<br>
   <b>E-Mail:</b> <a href="mailto:franziska.frohberg@uni-leipzig.de">franziska.frohberg@uni-leipzig.de</a><br>
   <b>Raum:</b> 010<br>
