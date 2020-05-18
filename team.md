@@ -37,12 +37,11 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink', 'hideme')" id="swaplink" onfocus="this.blur()" name="swaplink">Einblenden</a>
 </td>
 </tr> 
-<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: rgb(184,184,184);">
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
 <div id="hideme" style="display:none">
 <br /> 
 <div align="center">
-<span class="title24"Hier Titel eingeben</span>
 </div> 
   <p><strong>Telefon:</strong> +49 (0) 341 97-31571<br /> <strong>E-Mail:</strong> <a href="mailto:anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a><br /> <strong>Raum:</strong> 008<br /> <strong>Sprechzeit:</strong> Mittwoch 11:00-12:00 Uhr</p>
 
