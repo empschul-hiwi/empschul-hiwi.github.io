@@ -121,7 +121,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <tr bgcolor="#9C9C9C">
 <td width="33%" height="35" style="padding-left:15px; padding-right:15px;">
 </td>
-<td width="34%" align="left"> 
+<td width="0" align="left"> 
 Kontakt und Kurzbeschreibung
 </td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
