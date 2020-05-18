@@ -8,7 +8,9 @@ images: assets/images/Gruppenfoto.jpg
 ***
 <!--Deiglmayr-->
 
-<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Deiglmayr.jpg" width="130" hight="195"/>Prof. Dr. Anne Deiglmayr</h3><p><i>Inhaberin der Professur</i></p><p>Prof. Dr. Anne Deiglmayr ist seit 12/2018 Inhaberin der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig. Ihre Forschungsschwerpunkte umfassen u.a. Methoden der mobilen Unterrichtsforschung, die Professionsentwicklung von Lehrpersonen, Lehr- und Lernprozesse beim (computergestützten) kooperativen Lernen, sowie die Förderung des Lehrens und Lernens im MINT-Unterricht. Prof. Deiglmayr bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (insbesondere Modul 02 „Praxis- und Studienfeld Schule“) sowie im Bereich der Ergänzungsstudien an (insbesondere zu Methoden der empirischen Sozialforschung).</p><br style="clear: both;" />
+<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Deiglmayr.jpg" width="130" hight="195"/>Prof. Dr. Anne Deiglmayr</h3>
+<p><b>Inhaberin der Professur</b><br>
+Prof. Dr. Anne Deiglmayr ist seit 12/2018 Inhaberin der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig. Ihre Forschungsschwerpunkte umfassen u.a. Methoden der mobilen Unterrichtsforschung, die Professionsentwicklung von Lehrpersonen, Lehr- und Lernprozesse beim (computergestützten) kooperativen Lernen, sowie die Förderung des Lehrens und Lernens im MINT-Unterricht. Prof. Deiglmayr bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (insbesondere Modul 02 „Praxis- und Studienfeld Schule“) sowie im Bereich der Ergänzungsstudien an (insbesondere zu Methoden der empirischen Sozialforschung).<br style="clear: both;"/>
 
 <head>
 <script src="https://code.jquery.com/jquery-latest.js"></script>
@@ -33,11 +35,11 @@ $(document).ready(function(){
 </head>
 <body>
 <p id="sonstigesanzeigen">
-    <a href="#" id="sobo-einausblenden">Kontakt und Kurzbiografie</a>
-</p>
+    <a href="#" id="sobo-einausblenden">Kontakt und Kurzbiografie</a></p>
 <div id="sonstiges" style="display:none">
-  <p><b>Kontakt</b><br>
-  Telefon: +49 (0) 341 97-31571<br>
+  <p><b>Kontakt</b></p>
+
+  <p>Telefon: +49 (0) 341 97-31571<br>
   E-Mail: <a href="mailto:anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a><br>
   Raum: 008<br>
   Sprechzeit: Mittwoch 11:00-12:00</p>
@@ -88,7 +90,52 @@ $(document).ready(function(){
             </tr>
           </tbody>
         </table>
-      </div></p>
+      </div>
+    </p>
+</div>
+</body>
+
+<!--Kachel-->
+
+<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Kachel.jpg" width="130" hight="195"/>Dr. Gregor Kachel</h3>
+<p><b>Wissenschaftlicher Mitarbeiter/PI</b><br>
+Gregor Kachel leitet das DFG-Projekt SymLit und forscht darin zur Entwicklung des graphischen Symbolverständnisses im Vorschulalter. Er ist wissenschaftlicher Mitarbeiter an der Professur für Empirische Schul- und Unterrichtsforschung und Gastwissenschaftler in der Abteilung für Vergleichende Kulturpsychologie am MPI EVA.<br style="clear: both;"/>
+
+<head>
+<script src="https://code.jquery.com/jquery-latest.js"></script>
+<style>
+#sonstigesanzeigen2 {
+  background-color: lightgrey;
+  padding: 0.4em;
+}
+#sonstiges2 {
+  background-color: white;
+  padding: 0.4em;
+}
+</style>
+<script>
+$(document).ready(function(){
+    /* Hier der jQuery-Code */
+    $('#sobo-einausblenden').click(function(){
+      $('#sonstiges2').toggle('slow');
+    })
+});
+</script>
+</head>
+<body>
+<p id="sonstigesanzeigen2">
+    <a href="#" id="sobo-einausblenden">Kontakt und Kurzbiografie</a></p>
+<div id="sonstiges2" style="display:none">
+  <p><b>Kontakt</b></p>
+
+  <p>Telefon: +49 (0) 341 97-31573<br>
+  E-Mail: <a href="mailto:gregor.kachel@uni-leipzig.de">gregor.kachel@uni-leipzig.de
+  Raum: 005<br>
+  Webseite: <a href="https://gregorkachel.github.io">https://gregorkachel.github.io</a>
+
+  <p><b>Kurzbiografie</b></p>
+  In Bearbeitung
+
 </div>
 </body>
 
