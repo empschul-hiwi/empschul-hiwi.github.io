@@ -40,9 +40,9 @@ $(document).ready(function(){
   <p><b>Kontakt</b></p>
 
   <p>
-  Telefon:    &nbsp; &nbsp; &nbsp;+49 (0) 341 97-31571<br>
-  E-Mail:     &nbsp; &nbsp; &nbsp; <a href="mailto:anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a><br>
-  Raum:       &nbsp; &nbsp; &nbsp; &nbsp;008<br>
+  Telefon:    +49 (0) 341 97-31571<br>
+  E-Mail:     <a href="mailto:anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a><br>
+  Raum:       008<br>
   Sprechzeit: Mittwoch 11:00-12:00 Uhr</p>
 
   <p><b>Kurzbiografie</b><br>
