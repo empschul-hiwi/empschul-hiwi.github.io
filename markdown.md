@@ -61,7 +61,7 @@ Prof. Dr. Anne Deiglmayr ist seit 12/2018 Inhaberin der Professur „Empirische 
 </script>
 <table class="tab24" align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr bgcolor="#BDBDBD">
-<td width="0%" height="35" style="padding-left:15px; padding-right:15px;"></td>
+<td width="0%" height="" style="padding-left:15px; padding-right:15px;"></td>
 <td width="0%" align="left"><b>Kontakt und Kurzbiografie</b></td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink1', 'hideme1')" id="swaplink1" onfocus="this.blur()" name="swaplink1">Einblenden</a>
