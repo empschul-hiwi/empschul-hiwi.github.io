@@ -6,37 +6,100 @@ title: Team
 <p>Kurzankündigung</p>
 
 ***
-<!--Deiglmayr-->
+<!--Kachel-->
+
+<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Kachel.jpg" width="130" hight="195"/>Dr. Gregor Kachel</h3>
+<p><b>Wissenschaftlicher Mitarbeiter/PI</b><br>
+Gregor Kachel leitet das DFG-Projekt SymLit und forscht darin zur Entwicklung des graphischen Symbolverständnisses im Vorschulalter. Er ist wissenschaftlicher Mitarbeiter an der Professur für Empirische Schul- und Unterrichtsforschung und Gastwissenschaftler in der Abteilung für Vergleichende Kulturpsychologie am MPI EVA.<br style="clear: both;"/>
+
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
+</script>
+<table class="tab24" align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="white">
+<td width="33%" height="35" style="padding-left:15px; padding-right:15px;"></td>
+<td width="0%" align="left"><b>Kontakt und Kurzbeschreibung</b></td>
+<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink', 'hideme')" id="swaplink" onfocus="this.blur()" name="swaplink">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: lightgrey;">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme" style="display:none">
+<br /> 
+<div align="left">
+<p><b>Kontakt</b></p>
+</div> 
+Telefon:    +49 (0) 341 97-31572<br>
+E-Mail:     <a href="mailto:mandy.klatt@uni-leipz.de">mandy.klatt@uni-leipzig.de</a><br>
+Raum:       010<br>
+Sprechzeit: Mittwoch 11:00-12:00 Uhr
+</p> 
+</div>
+</td>
+</tr>
+</table> 
+
+<!--Deiglmay-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Deiglmayr.jpg" width="130" hight="195"/>Prof. Dr. Anne Deiglmayr</h3>
 <p><b>Inhaberin der Professur</b><br>
 Prof. Dr. Anne Deiglmayr ist seit 12/2018 Inhaberin der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig. Ihre Forschungsschwerpunkte umfassen u.a. Methoden der mobilen Unterrichtsforschung, die Professionsentwicklung von Lehrpersonen, Lehr- und Lernprozesse beim (computergestützten) kooperativen Lernen, sowie die Förderung des Lehrens und Lernens im MINT-Unterricht. Prof. Deiglmayr bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (insbesondere Modul 02 „Praxis- und Studienfeld Schule“) sowie im Bereich der Ergänzungsstudien an (insbesondere zu Methoden der empirischen Sozialforschung).<br style="clear: both;"/>
 
-<head>
-<script src="https://code.jquery.com/jquery-latest.js"></script>
-<style>
-#sonstigesanzeigen {
-  background-color: lightgrey;
-  padding: 0.4em;
+<<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
 }
-#sonstiges {
-  background-color: white;
-  padding: 0.4em;
 }
-</style>
-<script>
-$(document).ready(function(){
-    /* Hier der jQuery-Code */
-    $('#sobo-einausblenden').click(function(){
-      $('#sonstiges').toggle('slow');
-    })
-});
+//]]>
 </script>
-</head>
-<body>
-<p id="sonstigesanzeigen">
-    <a href="#" id="sobo-einausblenden">Kontakt und Kurzbiografie</a></p>
-<div id="sonstiges" style="display:none">
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#9C9C9C">
+<td width="33%" height="35" style="padding-left:15px; padding-right:15px;">
+</td>
+<td width="34%" align="center"> 
+Jimdo Page Award Tutorials (Hier den Text ändern)! 
+</td>
+<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink', 'hideme')" id="swaplink" onfocus="this.blur()" name="swaplink">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: rgb(184,184,184);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme" style="display:none">
+<br /> 
+<div align="center">
+<span class="title24"Hier Titel eingeben</span>
+</div> 
+<p>
+Hier können Sie den text einfügen, den Sie angezeigt haben wollen. Auch bilder können Sie mit dem Code zum hinzufügen von Bildern hier reinschreiben!
+</p> 
+</div>
+</td>
+</tr>
+</table> 
   <p><b>Kontakt</b></p>
 
   <p>Telefon: +49 (0) 341 97-31571<br>
@@ -94,50 +157,3 @@ $(document).ready(function(){
     </p>
 </div>
 </body>
-
-<!--Kachel-->
-
-<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Kachel.jpg" width="130" hight="195"/>Dr. Gregor Kachel</h3>
-<p><b>Wissenschaftlicher Mitarbeiter/PI</b><br>
-Gregor Kachel leitet das DFG-Projekt SymLit und forscht darin zur Entwicklung des graphischen Symbolverständnisses im Vorschulalter. Er ist wissenschaftlicher Mitarbeiter an der Professur für Empirische Schul- und Unterrichtsforschung und Gastwissenschaftler in der Abteilung für Vergleichende Kulturpsychologie am MPI EVA.<br style="clear: both;"/>
-
-<script type="text/javascript">
-//<![CDATA[
-function swap(openlink,closelink, linkid, dataid)
-{
-if( document.getElementById(dataid).style.display == 'none')
-{
-document.getElementById(dataid).style.display='inline';
-document.getElementById(linkid).firstChild.nodeValue=closelink;
-} else
-{
-document.getElementById(dataid).style.display='none';
-document.getElementById(linkid).firstChild.nodeValue=openlink;
-}
-}
-//]]>
-</script>
-<table class="tab24" align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="white">
-<td width="33%" height="35" style="padding-left:15px; padding-right:15px;"></td>
-<td width="0%" align="left"><b>Kontakt und Kurzbeschreibung</b></td>
-<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink', 'hideme')" id="swaplink" onfocus="this.blur()" name="swaplink">Einblenden</a>
-</td>
-</tr> 
-<tr style=" text-align: justify; font-size: 16px; font-weight: normal; background-color: lightgrey;">
-<td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme" style="display:none">
-<br /> 
-<div align="left">
-<p><b>Kontakt</b></p>
-</div> 
-Telefon:    +49 (0) 341 97-31572<br>
-E-Mail:     <a href="mailto:mandy.klatt@uni-leipz.de">mandy.klatt@uni-leipzig.de</a><br>
-Raum:       010<br>
-Sprechzeit: Mittwoch 11:00-12:00 Uhr
-</p> 
-</div>
-</td>
-</tr>
-</table> 
