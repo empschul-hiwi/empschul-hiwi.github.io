@@ -7,6 +7,7 @@ images: assets/images/Gruppenfoto.jpg
 
 ***
 <!--Deiglmayr-->
+
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Deiglmayr.jpg" width="130" hight="195" />Prof. Dr. Anne Deiglmayr</h3>
 <p><b>Inhaberin der Professur</b></p>
 <p style="padding-left: 144px;">Prof. Dr. Anne Deiglmayr ist seit 12/2018 Inhaberin der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig. Ihre Forschungsschwerpunkte umfassen u.a. Methoden der mobilen Unterrichtsforschung, die Professionsentwicklung von Lehrpersonen, Lehr- und Lernprozesse beim (computergestützten) kooperativen Lernen, sowie die Förderung des Lehrens und Lernens im MINT-Unterricht. Prof. Deiglmayr bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (insbesondere Modul 02 „Praxis- und Studienfeld Schule“) sowie im Bereich der Ergänzungsstudien an (insbesondere zu Methoden der empirischen Sozialforschung).<br style="clear: both;" />
@@ -88,7 +89,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
           </tbody>
         </table>
       </div>
-
+</div>
 </div>
 </td>
 </tr>
@@ -138,7 +139,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
         </table>
       </div>
     </p>
-
+</div>
 </div>
 </td>
 </tr>
@@ -170,6 +171,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
   <p><b>Kurzbiografie</b></p>
   In Bearbeitung
+</div>
 </div>
 </td>
 </tr>
@@ -231,6 +233,7 @@ Vor ihrer Beschäftigung an der Universität Leipzig absolvierte sie einen ander
         </table>
       </div>
 </div>
+</div>
 </td>
 </tr>
 </table>
@@ -287,6 +290,7 @@ Vor ihrer Beschäftigung an der Universität Leipzig absolvierte sie einen ander
           </tbody>
         </table>
       </div>
+</div>
 </div>
 </td>
 </tr>
