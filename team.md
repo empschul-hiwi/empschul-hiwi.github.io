@@ -88,6 +88,10 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
           </tbody>
         </table>
       </div>
+</div>
+</td>
+</tr>
+</table>
 
 <!--Pagel-->
 
@@ -148,6 +152,10 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
         </table>
       </div>
     </p>
+</div>
+</td>
+</tr>
+</table>
 
 <!--Kachel-->
 
@@ -190,6 +198,10 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
   <p><b>Kurzbiografie</b></p>
   In Bearbeitung
+</div>
+</td>
+</tr>
+</table>
 
 <!--Klatt-->
 
@@ -261,6 +273,10 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
           </tbody>
         </table>
       </div>
+</div>
+</td>
+</tr>
+</table>
 
 <!--Frohberg-->
 
@@ -329,3 +345,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
           </tbody>
         </table>
       </div>
+</div>
+</td>
+</tr>
+</table>
