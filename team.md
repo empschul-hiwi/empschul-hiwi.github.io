@@ -3,18 +3,14 @@ layout: page
 title: Team
 images: assets/images/Gruppenfoto.jpg
 ---
-<h3><img style=
-.bo {width: 150px; height:150px; border-radius:50%; }
-.boimg-1 {background: img src="assets/images/Deiglmayr.jpg"; }
-.botext { margin-top:30%; text-align:center; }>
-Anne Deiglmayr</h3>
-
 ***
 <!--Deiglmayr-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Deiglmayr.jpg" width="130" hight="195" />Prof. Dr. Anne Deiglmayr</h3>
 <p><b>Inhaberin der Professur</b></p>
-<p style="padding-left: 144px;">Prof. Dr. Anne Deiglmayr ist seit 12/2018 Inhaberin der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig. Ihre Forschungsschwerpunkte umfassen u.a. Methoden der mobilen Unterrichtsforschung, die Professionsentwicklung von Lehrpersonen, Lehr- und Lernprozesse beim (computergestützten) kooperativen Lernen, sowie die Förderung des Lehrens und Lernens im MINT-Unterricht. Prof. Deiglmayr bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (insbesondere Modul 02 „Praxis- und Studienfeld Schule“) sowie im Bereich der Ergänzungsstudien an (insbesondere zu Methoden der empirischen Sozialforschung).<br style="clear: both;" />
+<p style="padding-left: 144px;">Prof. Dr. Anne Deiglmayr ist seit 12/2018 Inhaberin der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br>
+Ihre Forschungsschwerpunkte umfassen u.a. Methoden der mobilen Unterrichtsforschung, die Professionsentwicklung von Lehrpersonen, Lehr- und Lernprozesse beim (computergestützten) kooperativen Lernen, sowie die Förderung des Lehrens und Lernens im MINT-Unterricht.<br>
+Prof. Deiglmayr bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (insbesondere Modul 02 „Praxis- und Studienfeld Schule“) sowie im Bereich der Ergänzungsstudien an (insbesondere zu Methoden der empirischen Sozialforschung).<br style="clear: both;" />
 
 <script type="text/javascript">
 //<![CDATA[
@@ -47,7 +43,11 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <br /> 
 <div align="center">
 </div> 
-  <p><strong>Telefon:</strong> +49 (0) 341 97-31571<br /> <strong>E-Mail:</strong> <a href="mailto:anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a><br /> <strong>Raum:</strong> 008<br /> <strong>Sprechzeit:</strong> Mittwoch 11:00-12:00 Uhr</p>
+  <p>
+    <strong>Telefon:</strong> +49 (0) 341 97-31571<br /> 
+    <strong>E-Mail:</strong> <a href="mailto:anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a><br /> 
+    <strong>Raum:</strong> 008<br /> 
+    <strong>Sprechzeit:</strong> Mittwoch 11:00-12:00 Uhr</p>
 
   <p><b>Kurzbiografie</b></p>
       <div class="table-wrapper">
@@ -58,19 +58,19 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
               <td>Professorin für Empirische Schul- und Unterrichtsforschung an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig</td>
             </tr>
             <tr>
-              <td>2013 - 2018</td>
+              <td>2013-2018</td>
               <td>Oberassistentin am Lehrstuhl für Lehr- und Lernforschung, ETH Zürich</td>
             </tr>
             <tr>
-              <td>2012 - 2013</td>
+              <td>2012-2013</td>
               <td>Postdoc am Lehrstuhl für Lehr- und Lernforschung, ETH Zürich: Marie-Heim-Vögtlin-Stipendium des Schweizer Nationalfonds</td>
             </tr>
             <tr>
-              <td>2011 - 2012</td>
+              <td>2011-2012</td>
               <td>Dozentin mit Forschungsauftrag am Institut für Medien und Schule der Pädagogischen Hochschule Zentralschweiz</td>
             </tr>
             <tr>
-              <td>2008 - 2010</td>
+              <td>2008-2010</td>
               <td>Wissenschaftliche Mitarbeiterin in der Abteilung Allgemeine Psychologie der Albert-Ludwigs-Universität Freiburg</td>
             </tr>
             <tr>
@@ -78,7 +78,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
               <td>Promotion (Dr. phil.), Albert-Ludwigs-Universität Freiburg; ausgezeichnet mit dem Eugen-Fink-Nachwuchsförderpreis (2011)</td>
             </tr>
             <tr>
-              <td>2005 - 2008</td>
+              <td>2005-2008</td>
               <td>Stipendiatin im Virtuellen Graduiertenkolleg „Wissenserwerb und Wissensaustausch mit neuen Medien” (DFG)</td>
             </tr>
             <tr>
@@ -86,16 +86,20 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
               <td>Diplom (Dipl.-Psych.), Albert-Ludwigs-Universität Freiburg</td>
             </tr>
             <tr>
-              <td>2002 - 2003</td>
+              <td>2002-2003</td>
               <td>Studium am Department of Psychology der University of Michigan, Ann Arbor</td>
             </tr>
             <tr>
-              <td>1999 - 2005</td>
+              <td>1999-2005</td>
               <td>Studium der Psychologie, Albert-Ludwigs-Universität Freiburg</td>
             </tr>
           </tbody>
         </table>
       </div>
+
+  <p><b>Publikationen und Vorträge</b></p>
+  In Bearbeitung
+
 </div>
 </td>
 </tr>
@@ -153,11 +157,11 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
               <td>Sekretärin an der Professur für Empirische Schul- und Unterrichtsforschung</td>
             </tr>
             <tr>
-              <td>2006 - 2019</td>
+              <td>2006-2019</td>
               <td>verschiedene Beschäftigungen an der TU Dresden und Universität Leipzig</td>
             </tr>
             <tr>
-              <td>2003 - 2006</td>
+              <td>2003-2006</td>
               <td>Ausbildung zur Fremdsprachensekretärin</td>
             </tr>
           </tbody>
@@ -171,7 +175,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <!--Kachel-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Kachel.jpg" width="130" hight="195"/>Dr. Gregor Kachel</h3>
-<p><b>Wissenschaftlicher Mitarbeiter/PI</b></p>
+<p><b>Wissenschaftlicher Mitarbeiter/ PI</b></p>
 <p style="padding-left: 144px;">Gregor Kachel leitet das DFG-Projekt SymLit und forscht darin zur Entwicklung des graphischen Symbolverständnisses im Vorschulalter. Er ist wissenschaftlicher Mitarbeiter an der Professur für Empirische Schul- und Unterrichtsforschung und Gastwissenschaftler in der Abteilung für Vergleichende Kulturpsychologie am MPI EVA.<br style="clear: both;"/>
 
 <script type="text/javascript">
@@ -210,7 +214,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
   <b>Raum:</b> 005<br>
   <b>Webseite:</b> <a href="https://gregorkachel.github.io">https://gregorkachel.github.io</a></p>
 
-  <p><b>Kurzbiografie</b></p>
+  <p><b>Publikationen</b></p>
   In Bearbeitung
 
 </div>
@@ -222,8 +226,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Klatt.jpg" width="130" hight="195"/>Mandy Klatt</h3>
 <p><b>Wissenschaftliche Mitarbeiterin</b></p>
-<p style="padding-left: 144px;">Mandy Klatt forscht und lehrt als wissenschaftliche Mitarbeiterin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.Im Mittelpunkt ihrer Forschungsinteressen stehen neue, multimodale Methoden zur Erforschung von Lehr- und Lernprozessen wie mehrkanalige Prozessmessungen, Eye-Tracking, Audio- und Videografie im Unterricht. Ziel ist es außerdem, automatisierte Analyseverfahren anhand von Beobachtungsdaten zu validieren, um sie für die Unterrichtsforschung nutzbar zu machen. In ihrer Dissertation widmet sie sich u.a. der Fragestellung nach der Expertiseentwicklung von Lehrpersonen.
-Mandy Klatt bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (Modul 02 „Praxis- und Studienfeld Schule“) an. 
+<p style="padding-left: 144px;">Mandy Klatt forscht und lehrt als wissenschaftliche Mitarbeiterin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.Im Mittelpunkt ihrer Forschungsinteressen stehen neue, multimodale Methoden zur Erforschung von Lehr- und Lernprozessen wie mehrkanalige Prozessmessungen, Eye-Tracking, Audio- und Videografie im Unterricht. Ziel ist es außerdem, automatisierte Analyseverfahren anhand von Beobachtungsdaten zu validieren, um sie für die Unterrichtsforschung nutzbar zu machen. In ihrer Dissertation widmet sie sich u.a. der Fragestellung nach der Expertiseentwicklung von Lehrpersonen.<br>
+Mandy Klatt bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (Modul 02 „Praxis- und Studienfeld Schule“) an.<br>
 Vor ihrer Beschäftigung an der Universität Leipzig absolvierte sie einen anderthalbjährigen Aufenthalt in Frankreich mit Lehrtätigkeit.<br style="clear: both;"/>
 
 <script type="text/javascript">
@@ -258,7 +262,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <div align="center">
 </div> 
 
-  <p></b>Telefon:</b> +49 (0) 341 97-31572<br>
+  <p><b>Telefon:</b> +49 (0) 341 97-31572<br>
   <b>E-Mail:</b> <a href="mailto:mandy.klatt@uni-leipz.de">mandy.klatt@uni-leipzig.de</a><br>
   <b>Raum:</b> 010<br>
   <b>Sprechzeit:</b> Mittwoch 11:00-12:00 Uhr</p>
@@ -272,19 +276,19 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
               <td>Wissenschaftliche Mitarbeiterin an der Universität Leipzig, Erziehungswissenschaftliche Fakultät, Professur für Empirische Schul- und Unterrichtsforschung</td>
             </tr>
             <tr>
-              <td>05/2019 - 09/2019</td>
+              <td>05/2019-09/2019</td>
               <td>Übersetzungs- und Dolmetschertätigkeit in Frankreich</td>
             </tr>
             <tr>
-              <td>04/2018 - 04/2019</td>
+              <td>04/2018-04/2019</td>
               <td>Lehrtätigkeit für Deutsch als Fremdsprache in Frankreich, Sekundarstufe I + II</td>
             </tr>
             <tr>
-              <td>05/2017 - 10/2017</td>
+              <td>05/2017-10/2017</td>
               <td>Lehrtätigkeit für Deutsch als Zweitsprache, Flüchtlingsrat Leipzig e.V.</td>
             </tr>
             <tr>
-              <td>10/2011 - 03/2018</td>
+              <td>10/2011-03/2018</td>
               <td>Studium Deutsch und Französisch für Höheres Lehramt an Gymnasien an der Universität Leipzig/ 1. Staatsexamen</td>
             </tr>
           </tbody>
@@ -299,7 +303,9 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Frohberg.jpg" width="130" hight="195"/>Franziska Frohberg</h3>
 <p><b>Lehrkraft für besondere Aufgaben</b></p>
-<p style="padding-left: 144px;">Franziska Frohberg lehrt und forscht am Institut für Bildungswissenschaften am Lehrstuhl für Empirische Schul- und Unterrichtsforschung an der Universität Leipzig. Sie lehrt in den Modulen 1 und 2 der Bildungswissenschaften. Im Mittelpunkt ihrer Forschungsinteressen stehen Implizite Theorie zu Intelligenz, Veränderung von Mindsets bei Lehrpersonen und deren Einfluss auf Lehr-Lern-Arrangements. 
+<p style="padding-left: 144px;">Franziska Frohberg lehrt und forscht am Institut für Bildungswissenschaften am Lehrstuhl für Empirische Schul- und Unterrichtsforschung an der Universität Leipzig.<br>
+Sie lehrt in den Modulen 1 und 2 der Bildungswissenschaften.<br>
+Im Mittelpunkt ihrer Forschungsinteressen stehen Implizite Theorie zu Intelligenz, Veränderung von Mindsets bei Lehrpersonen und deren Einfluss auf Lehr-Lern-Arrangements. 
 <br style="clear: both;"/>
 
 <script type="text/javascript">
@@ -333,7 +339,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <br /> 
 <div align="center">
 </div>  
-  <p></b>Telefon:</b> +49 (0) 341 97-31572<br>
+  <p><b>Telefon:</b> +49 (0) 341 97-31572<br>
   <b>E-Mail:</b> <a href="mailto:franziska.frohberg@uni-leipzig.de">franziska.frohberg@uni-leipzig.de</a><br>
   <b>Raum:</b> 010<br>
   <b>Sprechzeit:</b> Dienstag 09:00-10:00 Uhr (Anmeldung per E-Mail)</p>
@@ -351,15 +357,15 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
               <td>Lehrkraft für besondere Aufgaben im Arbeitsbereich Empirische Schul- und Unterrichtsforschung</td>
             </tr>
             <tr>
-              <td>2015 - 2018</td>
+              <td>2015-2018</td>
               <td>Master Begabungsforschung und Kompetenzentwicklung, Universität Leipzig</td>
             </tr>
             <tr>
-              <td>2014 - 2015</td>
+              <td>2014-2015</td>
               <td>Integrationspädagogin an der Montessorischule Huckepack Dresden e.V. </td>
             </tr>
             <tr>
-              <td>2011 - 2015 </td>
+              <td>2011-2015 </td>
               <td>Bachelor Pädagogik mit Nebenfach Psychologie, Technische Universität Chemnitz</td>
             </tr>
           </tbody>
@@ -421,7 +427,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/de Groote_Foto.jpg" width="130" hight="195"/>Carola de Groote</h3>
 <p><b>Abgeordnete Lehrerin</b></p>
-<p style="padding-left: 144px;">Carola de Groote lehrt als abgeordnete Lehrerin in den Modulen 1 und 2 am Institut für Bildungswissenschaften am Lehrstuhl für Empirische Schul- und Unterrichtsforschung an der Universität Leipzig und bringt hier ihre 25-jährige gymnasiale Lehrtätigkeit ein. Im Mittelpunkt ihrer Forschungsinteressen stehen Begabungsförderung an Regelschulen, begabungsförderlicher Unterricht sowie Schulentwicklung.<br style="clear: both;"/>
+<p style="padding-left: 144px;">Carola de Groote lehrt als abgeordnete Lehrerin in den Modulen 1 und 2 am Institut für Bildungswissenschaften am Lehrstuhl für Empirische Schul- und Unterrichtsforschung an der Universität Leipzig und bringt hier ihre 25-jährige gymnasiale Lehrtätigkeit ein.<br>
+Im Mittelpunkt ihrer Forschungsinteressen stehen Begabungsförderung an Regelschulen, begabungsförderlicher Unterricht sowie Schulentwicklung.<br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -454,7 +461,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <br /> 
 <div align="center">
 </div>  
-  <p></b>Telefon:</b> +49 (0) 341 97-31572<br>
+  <p><b>Telefon:</b> +49 (0) 341 97-31572<br>
   <b>E-Mail:</b> <a href="mailto:carola.de_groote@uni-leipzig.de">carola.de_groote@uni-leipzig.de</a><br>
   <b>Raum:</b> 010<br>
   <b>Sprechzeit:</b> Freitag 15:00-16:00 Uhr</p>
@@ -472,11 +479,11 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
               <td>Immanuel-Kant-Gymnasium Leipzig, Lehrerin für die Fächer Deutsch und Englisch</td>
             </tr>
             <tr>
-              <td>08/1995 - 07/2006</td>
+              <td>08/1995-07/2006</td>
               <td>Gymnasium Engelsdorf, Lehrerin für die Fächer Deutsch und Englisch</td>
             </tr>
             <tr>
-              <td>08/1993 - 07/1995</td>
+              <td>08/1993-07/1995</td>
               <td>Werner-Heisenberg-Gymnasium Leipzig, Vorbereitungsdienst für das Höhere Lehramt an Gymnasien; Fachkombination Deutsch und Englisch; 2. Staatsexamen</td>
             </tr>
             <tr>
@@ -496,14 +503,13 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Eulitz.jpg" width="130" hight="195"/>Gereon Eulitz</h3>
 <p><b>Lehrer im Hochschuldienst</b></p>
 <p style="padding-left: 144px;">Gereon Eulitz ist Lehrer im Hochschuldienst und gehört der Professur ‚Empirische Schul- und Unterrichtsforschung‘ an. Sein Forschungsinteresse gilt der kooperativen Unterrichtsentwicklung. Das Modul 05-BWI-02 (SPS) "Praxis- und Studienfeld Schule“ ist Schwerpunkt seiner Lehrtätigkeit. Außerdem wirkt er an der Mentorenqualifizierung im Freistaat Sachsen mit.
-<p style="padding-left: 144px;">Arbeitsschwerpunkte und Forschungsinteressen<ul>
-    <li>Kooperation von Wissenschaftler*innen und Lehrer*innen im Rahmen didaktischer Entwicklungsforschung</li>
-    <li>Unterrichtsentwicklung und Unterrichtsforschung, insbesondere kooperative Formate (z.B. Design-Based Research, Lesson Study, Professional Learning Communities</li>
-    <li>Theorie-Praxis-Beziehungen / Innovations- und Transferforschung</li>
-    <li>Schul- und Unterrichtsentwicklung in internationalen und interkulturellen Kontexten</li>
-    <li>Schulpraktische Studien: Praxis- und Studienfeld Schule (Bildungswissenschaft)</li>
-    <li>Mentorenqualifizierung für LehrerInnen aller Schularten</li></ul>
-<br style="clear: both;"/>
+<p style="padding-left: 144px;"><span style="text-decoration: underline;">Arbeitsschwerpunkte und Forschungsinteressen</span></p>
+<p style="padding-left: 144px;">Kooperation von Wissenschaftler*innen und Lehrer*innen im Rahmen didaktischer Entwicklungsforschung<br>
+<p style="padding-left: 144px;">Unterrichtsentwicklung und Unterrichtsforschung, insbesondere kooperative Formate (z.B. Design-Based Research, Lesson Study, Professional Learning Communities<br>
+<p style="padding-left: 144px;">Theorie-Praxis-Beziehungen / Innovations- und Transferforschung<br>
+<p style="padding-left: 144px;">Schul- und Unterrichtsentwicklung in internationalen und interkulturellen Kontexten<br>
+<p style="padding-left: 144px;">Schulpraktische Studien: Praxis- und Studienfeld Schule (Bildungswissenschaft)<br>
+<p style="padding-left: 144px;">Mentorenqualifizierung f&uuml;r LehrerInnen aller Schularten</p>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -536,7 +542,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <br /> 
 <div align="center">
 </div>  
-  <p></b>Telefon:</b> +49 (0) 341 97-31437<br>
+  <p><b>Telefon:</b> +49 (0) 341 97-31437<br>
   <b>E-Mail:</b> <a href="mailto:gereon.eulitz@uni-leipzig.de">gereon.eulitz@uni-leipzig.de</a><br>
   <b>Raum:</b> 107<br>
   <b>Sprechzeit:</b> Anmeldung per E-Mail</p>
@@ -574,7 +580,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Schmidtke.jpg" width="130" hight="195"/>Anna Schmidtke</h3>
 <p><b>Studentische Hilfskraft</b></p>
-<p style="padding-left: 144px;">Anna Schmidtke studiert an der Universität Leipzig Höheres Lehramt an Gymnasien mit den Fächern Deutsch und Ethik. Sie ist als studentische Hilfskraft an der Professur für "Empirische Schul- und Unterrichtsforschung tätig".<br style="clear: both;"/>
+<p style="padding-left: 144px;">Anna Schmidtke studiert an der Universität Leipzig Höheres Lehramt an Gymnasien mit den Fächern Deutsch und Ethik. Sie ist als studentische Hilfskraft an der Professur für "Empirische Schul- und Unterrichtsforschung" tätig.<br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
