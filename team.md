@@ -3,7 +3,11 @@ layout: page
 title: Team
 images: assets/images/Gruppenfoto.jpg
 ---
-<p>Kurzankündigung</p>
+<h3><img style=
+.bo {width: 150px; height:150px; border-radius:50%; }
+.boimg-1 {background: src="assets/images/Gruppenfoto.jpg"; }
+.botext { margin-top:30%; text-align:center; }>
+Anne Deiglmayr</h3>
 
 ***
 <!--Deiglmayr-->
