@@ -5,7 +5,7 @@ images: assets/images/Gruppenfoto.jpg
 ---
 <h3><img style=
 .bo {width: 150px; height:150px; border-radius:50%; }
-.boimg-1 {background: src="assets/images/Gruppenfoto.jpg"; }
+.boimg-1 {background: img src="assets/images/Deiglmayr.jpg"; }
 .botext { margin-top:30%; text-align:center; }>
 Anne Deiglmayr</h3>
 
