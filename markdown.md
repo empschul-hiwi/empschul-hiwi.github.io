@@ -7,7 +7,7 @@ permalink: /markdown/
 Kurzankündigung
 
 ***
-<div style="text-align:left"><img class="image" src="/assets/images/pic01.jpg" /></div><br/>
+<img class="image" src="/assets/images/pic01.jpg" />
 
 ## Von der Relevanz der Präsenz in der Expertiseentwicklung von Lehrpersonen
 
