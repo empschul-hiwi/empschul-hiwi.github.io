@@ -7,7 +7,7 @@ Kurzankündigung
 
 ***
 
-##Von der Relevanz der Präsenz in der Expertiseentwicklung von Lehrpersonen
+## Von der Relevanz der Präsenz in der Expertiseentwicklung von Lehrpersonen
 
 **Verantwortliche/AnsprechpartnerIn:** <a href="mailto:mandy.klatt@uni-leipzig.de">Mandy Klatt</a>
 
