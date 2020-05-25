@@ -7,9 +7,9 @@ permalink: /markdown/
 Kurzankündigung
 
 ***
-<div style:"width: 1280px;"><img src="pic01.png" alt="Banner Klatt">
-<p><h2>Von der Relevanz der Präsenz in der Expertiseentwicklung von Lehrpersonen</h2></p> 
-</div><br>
+<img src="pic01.png" alt="Banner Klatt">
+
+## Von der Relevanz der Präsenz in der Expertiseentwicklung von Lehrpersonen
 
 **Verantwortliche/AnsprechpartnerIn:** <a href="mailto:mandy.klatt@uni-leipzig.de">Mandy Klatt</a>
 
