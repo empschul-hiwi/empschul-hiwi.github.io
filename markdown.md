@@ -7,7 +7,7 @@ permalink: /markdown/
 Kurzankündigung
 
 ***
-<div style: "text-align:left"><img src="pic01.png" alt="Banner Klatt">
+<div style:"width: 1280px;"><img src="pic01.png" alt="Banner Klatt">
 <p><h2>Von der Relevanz der Präsenz in der Expertiseentwicklung von Lehrpersonen</h2></p> 
 </div><br>
 
