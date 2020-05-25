@@ -7,7 +7,7 @@ permalink: /markdown/
 Kurzankündigung
 
 ***
-<img class="image" src="/assets/images/pic01.jpg" />
+ ![Banner Klatt](/assets/images/pic01.png)
 
 ## Von der Relevanz der Präsenz in der Expertiseentwicklung von Lehrpersonen
 
