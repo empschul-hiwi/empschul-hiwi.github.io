@@ -2,7 +2,7 @@
 layout: page
 title: Projekte
 permalink: /markdown/
-image: /assets/images/pic01.png
+image: assets/images/pic01.png
 ---
 
 Kurzankündigung
