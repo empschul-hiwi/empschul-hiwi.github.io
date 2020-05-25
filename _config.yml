@@ -28,7 +28,5 @@ twitter_url: https://twitter.com/andrewbanchich
 # Build settings
 markdown: kramdown
 
-# Plugins<
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
+# Plugins
+
