@@ -6,6 +6,7 @@ permalink: /markdown/
 Kurzankündigung
 
 ***
+(/assets/images/pic01.jpg)
 
 ## Von der Relevanz der Präsenz in der Expertiseentwicklung von Lehrpersonen
 
