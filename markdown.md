@@ -2,13 +2,12 @@
 layout: page
 title: Projekte
 permalink: /markdown/
+image: /assets/images/pic01.png
 ---
 
 Kurzankündigung
 
 ***
- ![Banner Klatt](/assets/images/pic01.png)
-
 ## Von der Relevanz der Präsenz in der Expertiseentwicklung von Lehrpersonen
 
 **Verantwortliche/AnsprechpartnerIn:** <a href="mailto:mandy.klatt@uni-leipzig.de">Mandy Klatt</a>
