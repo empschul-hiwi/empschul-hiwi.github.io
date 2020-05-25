@@ -8,7 +8,7 @@ Kurzankündigung
 
 ***
 
-<img src="assets/images/pic01.png">
+<span class="image fit"><img src="assets/images/pic01.png" alt="" /></span>
 
 ## Von der Relevanz der Präsenz in der Expertiseentwicklung von Lehrpersonen
 
