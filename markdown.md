@@ -4,10 +4,10 @@ title: Projekte
 permalink: /markdown/
 ---
 
-Kurzank�ndigung
+Kurzankündigung
 
 ***
-(/assets/images/pic01.jpg)
+<img class="image" src="/assets/images/pic01.jpg" />
 
 ## Von der Relevanz der Präsenz in der Expertiseentwicklung von Lehrpersonen
 
