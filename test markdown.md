@@ -18,7 +18,7 @@ Sobald wir Ihre Anfrage erhalten haben, melden wir uns bei Ihnen. Sie erhalten d
 					<input type="email" name="demo-email" id="demo-email" value="" placeholder="E-Mail-Adresse*" required="Bitte füllen Sie dieses Feld aus!" />
 				</div>
 				<div class="6u$ 12u$(xsmall)">
-					<input type="phone" name="demo-telefon" id="demo-telefon" value="" placeholder="Telefon (optional)" />
+					<input type="tel" name="demo-telefon" id="demo-telefon" value="" placeholder="Telefon (optional)" />
 				</div>
 				<!-- Break -->
 				<div class="12u$">
