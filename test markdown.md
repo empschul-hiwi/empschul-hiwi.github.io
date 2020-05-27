@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Anmeldung für die Teilnahme an Studien
+title: Anmeldung zur Studienteilnahme 
 ---
 
 <p>Wir freuen uns, wenn Sie Interesse daran haben, an unseren Studien teilzunehmen. Bitte nutzen Sie dieses Formular zur Anmeldung und Kontaktaufnahme.<br>
@@ -43,20 +43,17 @@ Sobald wir Ihre Anfrage erhalten haben, melden wir uns bei Ihnen. Sie erhalten d
 				<!-- Break -->
 				<div class="4u 12u$(small)">
 					<input type="radio" id="demo-einverständnis-kontaktaufnahme" name="demo-einverständnis-kontaktaufnahme" 
-					placeholder="Einverständnis Kontakaufnahme*" required="Bitte füllen Sie dieses Feld aus!"
-					checked> 
+					placeholder="Einverständnis Kontakaufnahme*" required="Bitte füllen Sie dieses Feld aus!"> 
 					<label for="demo-einverständnis-kontaktaufnahme">Ich bin damit einverstanden, dass Mitarbeiter/innen der Professur für "Empirische Schul- und Unterrichtsforschung" an der Universität Leipzig mit mir zur weiteren Absprache einer Studienteilnahme in Kontakt treten. </label>
 				</div>
 				<div class="4u 12u$(small)">
-					<input type="radio" id="demo-einverständnis-datenspeicherung"name="demo-einverständnis-datenspeicherung" placeholder="Einverständnis Datenspeicherung*" 
-					checked required="Bitte füllen Sie dieses Feld aus!"> 
+					<input type="radio" id="demo-einverständnis-datenspeicherung"name="demo-einverständnis-datenspeicherung" placeholder="Einverständnis Datenspeicherung*" required="Bitte füllen Sie dieses Feld aus!"> 
 					<label for="demo-einverständnis-datenspeicherung">Ich bin damit einverstanden, dass meine Daten zum Zweck der Kontaktaufnahme gespeichert werden. Ich kann mein Einverständnis jederzeit widerrufen.</label>
 				</div>
 				<div class="4u$ 12u$(small)">
-					<input type="radio" id="demo-datenschutzhinweis" 
-					name="demo-datenschutzhinweis"
-					placeholder="Datenschutzhinweis*"
-					checked>
+					<input placeholder="Datenschutzhinweis*"
+					type="radio" id="demo-datenschutzhinweis" 
+					name="demo-datenschutzhinweis">
 					<label for="demo-datenschutzhinweis" required="Bitte füllen Sie dieses Feld aus!">Ich habe die Hinweise zum Datenschutz gelesen und bin einverstanden. </label>
 				</div>
 				<p> 
