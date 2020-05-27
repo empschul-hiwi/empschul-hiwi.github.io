@@ -9,21 +9,21 @@ Sobald wir Ihre Anfrage erhalten haben, melden wir uns bei Ihnen. Sie erhalten d
 <form method="post" action="#">
 			<div class="row uniform">
 				<div class="6u 12u$(xsmall)">
-					<input type="text" name="demo-vorname" id="demo-vorname" value="" placeholder="Vorname Ansprechperson*" required="Bitte füllen Sie dieses Feld aus!" />
+					<input type="text" name="vorname" id="vorname" value="" placeholder="Vorname Ansprechperson*" required="Bitte füllen Sie dieses Feld aus!" />
 				</div>
 				<div class="6u 12u$(xsmall)">
-					<input type="text" name="demo-nachname" id="demo-nachname" value="" placeholder="Nachhname Ansprechperson*" required="Bitte füllen Sie dieses Feld aus!" />
+					<input type="text" name="nachname" id="nachname" value="" placeholder="Nachhname Ansprechperson*" required="Bitte füllen Sie dieses Feld aus!" />
 				</div>
 				<div class="6u$ 12u$(xsmall)">
-					<input type="email" name="demo-email" id="demo-email" value="" placeholder="E-Mail-Adresse*" required="Bitte füllen Sie dieses Feld aus!" />
+					<input type="email" name="email" id="email" value="" placeholder="E-Mail-Adresse*" required="Bitte füllen Sie dieses Feld aus!" />
 				</div>
 				<div class="6u$ 12u$(xsmall)">
-					<input type="tel" name="demo-telefon" id="demo-telefon" value="" placeholder="Telefon (optional)" />
+					<input type="tel" name="telefon" id="telefon" value="" placeholder="Telefon (optional)" />
 				</div>
 				<!-- Break -->
 				<div class="12u$">
 					<div class="select-wrapper">
-						<select name="demo-category" id="demo-category">
+						<select name="kategorie" id="kategorie">
 						    <option value="">Funktion/ Tätigkeit</option>
 						    <option value="1">Schulleiter/in</option>
 							<option value="1">Lehrer/in</option>
@@ -35,40 +35,44 @@ Sobald wir Ihre Anfrage erhalten haben, melden wir uns bei Ihnen. Sie erhalten d
 				</div>
 				<!-- Break -->
 				<div class="12u$">
-					<textarea name="demo-anschrift" id="demo-anschrift" placeholder="Anschrift der Schule/ Name der Universität*" rows="6" required="Bitte füllen Sie dieses Feld aus!"></textarea> 
+					<textarea name="anschrift" id="anschrift" 
+					placeholder="Anschrift der Schule/ Name der Universität*" rows="6" required="Bitte füllen Sie dieses Feld aus!"></textarea> 
 				</div>
 				<div class="12u$">
-					<textarea name="demo-nachricht" id="demo-nachricht" placeholder="Nachricht" rows="6"></textarea>
+					<textarea name="nachricht" id="nachricht" 
+					placeholder="Nachricht" rows="6"></textarea>
 				</div>
 				<!-- Break -->
 				<div class="4u 12u$(small)">
 					<input type="radio" 
-					id="demo-einverständnis-kontaktaufnahme" 
-					name="demo-einverständnis-kontaktaufnahme" 
+					id="einverständnis-kontaktaufnahme" 
+					name="einverständnis-kontaktaufnahme" 
 					required="Bitte füllen Sie dieses Feld aus!"> 
-					<label for="demo-einverständnis-kontaktaufnahme">
+					<label for="einverständnis-kontaktaufnahme">
 						<b>Einverständnis Kontaktaufnahme</b><br>
 						Ich bin damit einverstanden, dass Mitarbeiter/innen der Professur für "Empirische Schul- und Unterrichtsforschung" an der Universität Leipzig mit mir zur weiteren Absprache einer Studienteilnahme in Kontakt treten. 
 					</label>
 				</div>
 				<div class="4u 12u$(small)">
 					<input type="radio" 
-					id="demo-einverständnis-datenspeicherung"
-					name="demo-einverständnis-datenspeicherung" 
+					id="einverständnis-datenspeicherung"
+					name="einverständnis-datenspeicherung" 
 					required="Bitte füllen Sie dieses Feld aus!"> 
-					<label for="demo-einverständnis-datenspeicherung">
+					<label for="einverständnis-datenspeicherung">
 						<b>Einverständnis Datenspeicherung</b><br>
 						Ich bin damit einverstanden, dass meine Daten zum Zweck der Kontaktaufnahme gespeichert werden. Ich kann mein Einverständnis jederzeit widerrufen.
 					</label>
 				</div>
 				<div class="4u$ 12u$(small)">
 					<input type="radio" 
-					id="demo-datenschutzhinweis" 
-					name="demo-datenschutzhinweis"
+					id="datenschutzhinweis" 
+					name="datenschutzhinweis"
 					required="Bitte füllen Sie dieses Feld aus!">
-					<label for="demo-datenschutzhinweis">
+					<label for="datenschutzhinweis">
 						<b>Datenschutzhinweis</b><br>
-			    		Ich habe die Hinweise zum Datenschutz gelesen und bin einverstanden. </label>
+			    		Ich habe die Hinweise zum Datenschutz gelesen und bin einverstanden.
+			    		<p><i>Link zu Datenschutzhinweisen in Bearbeitung.</i></p>
+			    	</label>
 				</div>
 				<p> 
 				Die mit * gekennzeichneten Felder sind Pflichtfelder!
@@ -77,6 +81,7 @@ Sobald wir Ihre Anfrage erhalten haben, melden wir uns bei Ihnen. Sie erhalten d
 				<div class="12u$">
 					<ul class="actions">
 						<li><input type="submit" value="Absenden" class="special" /></li>
+						<li><input type="reset" value="Löschen" /></li>
 					</ul>
 				</div>
 			</div>
