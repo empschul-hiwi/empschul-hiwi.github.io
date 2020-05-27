@@ -6,7 +6,7 @@ images: assets/images/Gruppenfoto.jpg
 ***
 <!--Deiglmayr-->
 
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%; " src="assets/images/Deiglmayr.jpg" width="150" hight="200" />Prof. Dr. Anne Deiglmayr</h3>
+<h3><div class="flex"><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%; " src="assets/images/Deiglmayr.jpg" width="150" hight="200" /></div>Prof. Dr. Anne Deiglmayr</h3>
 <p><b>Inhaberin der Professur</b></p>
 <p style="padding-left: 165px;">Prof. Dr. Anne Deiglmayr ist seit 12/2018 Inhaberin der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br>
 Ihre Forschungsschwerpunkte umfassen u.a. Methoden der mobilen Unterrichtsforschung, die Professionsentwicklung von Lehrpersonen, Lehr- und Lernprozesse beim (computergestützten) kooperativen Lernen, sowie die Förderung des Lehrens und Lernens im MINT-Unterricht.<br>
