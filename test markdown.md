@@ -3,9 +3,8 @@ layout: page
 title: Anmeldung für die Teilnahme an Studien
 ---
 
-<p>Wir freuen uns, wenn Sie Interesse daran haben, an unseren Studien teilzunehmen. Bitte nutzen Sie dieses Formular zur Anmeldung und Kontaktaufnahme.</p>
-
-<p>Sobald wir Ihre Anfrage erhalten haben, melden wir uns bei Ihnen. Sie erhalten dann ausführliche Informationen zum Thema und zur Durchführung, sodass Sie entscheiden können, ob Sie an der Studie teilnehmen und einen Termin vereinbaren möchten. Sie können uns jederzeit mitteilen, wenn Sie keine Einladungen mehr erhalten möchten oder wir Ihre Kontaktdaten wieder löschen sollen.</p>
+<p>Wir freuen uns, wenn Sie Interesse daran haben, an unseren Studien teilzunehmen. Bitte nutzen Sie dieses Formular zur Anmeldung und Kontaktaufnahme.<br>
+Sobald wir Ihre Anfrage erhalten haben, melden wir uns bei Ihnen. Sie erhalten dann ausführliche Informationen zum Thema und zur Durchführung der Studie, sodass Sie entscheiden können, ob Sie an der Studie teilnehmen und einen Termin vereinbaren möchten. Sie können uns jederzeit mitteilen, wenn Sie keine Einladungen mehr erhalten möchten oder wir Ihre Kontaktdaten wieder löschen sollen.</p>
 
 <form method="post" action="#">
 			<div class="row uniform">
@@ -43,22 +42,22 @@ title: Anmeldung für die Teilnahme an Studien
 				</div>
 				<!-- Break -->
 				<div class="4u 12u$(small)">
-					<input required="Bitte füllen Sie dieses Feld aus!"type="radio" id="demo-einverständnis-kontaktaufnahme" name="demo-einverständnis-kontaktaufnahme" 
-					placeholder="Einverständnis Kontakaufnahme*" 
+					<input type="radio" id="demo-einverständnis-kontaktaufnahme" name="demo-einverständnis-kontaktaufnahme" 
+					placeholder="Einverständnis Kontakaufnahme*" required="Bitte füllen Sie dieses Feld aus!"
 					checked> 
 					<label for="demo-einverständnis-kontaktaufnahme">Ich bin damit einverstanden, dass Mitarbeiter/innen der Professur für "Empirische Schul- und Unterrichtsforschung" an der Universität Leipzig mit mir zur weiteren Absprache einer Studienteilnahme in Kontakt treten. </label>
 				</div>
 				<div class="4u 12u$(small)">
-					<input required="Bitte füllen Sie dieses Feld aus!"type="radio" id="demo-einverständnis-datenspeicherung"name="demo-einverständnis-datenspeicherung" placeholder="Einverständnis Datenspeicherung*" 
-					checked> 
+					<input type="radio" id="demo-einverständnis-datenspeicherung"name="demo-einverständnis-datenspeicherung" placeholder="Einverständnis Datenspeicherung*" 
+					checked required="Bitte füllen Sie dieses Feld aus!"> 
 					<label for="demo-einverständnis-datenspeicherung">Ich bin damit einverstanden, dass meine Daten zum Zweck der Kontaktaufnahme gespeichert werden. Ich kann mein Einverständnis jederzeit widerrufen.</label>
 				</div>
 				<div class="4u$ 12u$(small)">
-					<input required="Bitte füllen Sie dieses Feld aus!"type="radio" id="demo-datenschutzhinweis" 
+					<input type="radio" id="demo-datenschutzhinweis" 
 					name="demo-datenschutzhinweis"
 					placeholder="Datenschutzhinweis*"
 					checked>
-					<label for="demo-datenschutzhinweis">Ich habe die Hinweise zum Datenschutz gelesen und bin einverstanden. </label>
+					<label for="demo-datenschutzhinweis" required="Bitte füllen Sie dieses Feld aus!">Ich habe die Hinweise zum Datenschutz gelesen und bin einverstanden. </label>
 				</div>
 				<p> 
 				Die mit * gekennzeichneten Felder sind Pflichtfelder!
