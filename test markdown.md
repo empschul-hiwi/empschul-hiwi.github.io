@@ -18,7 +18,7 @@ Sobald wir Ihre Anfrage erhalten haben, melden wir uns bei Ihnen. Sie erhalten d
 					<input type="email" name="demo-email" id="demo-email" value="" placeholder="E-Mail-Adresse*" required="Bitte füllen Sie dieses Feld aus!" />
 				</div>
 				<div class="6u$ 12u$(xsmall)">
-					<input type="telefon" name="demo-telefon" id="demo-telefon" value="" placeholder="Telefon (optional)" />
+					<input type="phone" name="demo-telefon" id="demo-telefon" value="" placeholder="Telefon (optional)" />
 				</div>
 				<!-- Break -->
 				<div class="12u$">
@@ -42,19 +42,33 @@ Sobald wir Ihre Anfrage erhalten haben, melden wir uns bei Ihnen. Sie erhalten d
 				</div>
 				<!-- Break -->
 				<div class="4u 12u$(small)">
-					<input type="radio" id="demo-einverständnis-kontaktaufnahme" name="demo-einverständnis-kontaktaufnahme" 
-					placeholder="Einverständnis Kontakaufnahme*" required="Bitte füllen Sie dieses Feld aus!"> 
-					<label for="demo-einverständnis-kontaktaufnahme">Ich bin damit einverstanden, dass Mitarbeiter/innen der Professur für "Empirische Schul- und Unterrichtsforschung" an der Universität Leipzig mit mir zur weiteren Absprache einer Studienteilnahme in Kontakt treten. </label>
+					<input type="radio" 
+					id="demo-einverständnis-kontaktaufnahme" 
+					name="demo-einverständnis-kontaktaufnahme" 
+					required="Bitte füllen Sie dieses Feld aus!"> 
+					<label for="demo-einverständnis-kontaktaufnahme">
+						<b>Einverständnis Kontaktaufnahme</b><br>
+						Ich bin damit einverstanden, dass Mitarbeiter/innen der Professur für "Empirische Schul- und Unterrichtsforschung" an der Universität Leipzig mit mir zur weiteren Absprache einer Studienteilnahme in Kontakt treten. 
+					</label>
 				</div>
 				<div class="4u 12u$(small)">
-					<input type="radio" id="demo-einverständnis-datenspeicherung"name="demo-einverständnis-datenspeicherung" placeholder="Einverständnis Datenspeicherung*" required="Bitte füllen Sie dieses Feld aus!"> 
-					<label for="demo-einverständnis-datenspeicherung">Ich bin damit einverstanden, dass meine Daten zum Zweck der Kontaktaufnahme gespeichert werden. Ich kann mein Einverständnis jederzeit widerrufen.</label>
+					<input type="radio" 
+					id="demo-einverständnis-datenspeicherung"
+					name="demo-einverständnis-datenspeicherung" 
+					required="Bitte füllen Sie dieses Feld aus!"> 
+					<label for="demo-einverständnis-datenspeicherung">
+						<b>Einverständnis Datenspeicherung</b><br>
+						Ich bin damit einverstanden, dass meine Daten zum Zweck der Kontaktaufnahme gespeichert werden. Ich kann mein Einverständnis jederzeit widerrufen.
+					</label>
 				</div>
 				<div class="4u$ 12u$(small)">
-					<input placeholder="Datenschutzhinweis*"
-					type="radio" id="demo-datenschutzhinweis" 
-					name="demo-datenschutzhinweis">
-					<label for="demo-datenschutzhinweis" required="Bitte füllen Sie dieses Feld aus!">Ich habe die Hinweise zum Datenschutz gelesen und bin einverstanden. </label>
+					<input type="radio" 
+					id="demo-datenschutzhinweis" 
+					name="demo-datenschutzhinweis"
+					required="Bitte füllen Sie dieses Feld aus!">
+					<label for="demo-datenschutzhinweis">
+						<b>Datenschutzhinweis</b><br>
+			    		Ich habe die Hinweise zum Datenschutz gelesen und bin einverstanden. </label>
 				</div>
 				<p> 
 				Die mit * gekennzeichneten Felder sind Pflichtfelder!
