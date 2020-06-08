@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projekte
+title: Kontaktformular
 permalink: /markdown/
 ---
 <html>
@@ -17,7 +17,7 @@ if(isset($_POST['absenden'])){
 }
 ?>
 
-<form method="post" action="kontaktformular.php" method="POST">
+<form method="post">
 			<div class="row uniform">
 				<div class="6u 12u$(xsmall)">
 					<input type="text" name="vorname" id="vorname" value="" placeholder="Vorname Ansprechperson*" required="Bitte füllen Sie dieses Feld aus!" />
