@@ -11,13 +11,13 @@ Sobald wir Ihre Anfrage erhalten haben, melden wir uns bei Ihnen. Sie erhalten d
 <form method="post" action="kontaktformular.php">
 			<div class="row uniform">
 				<div class="6u 12u$(xsmall)">
-					<input type="text" name="vorname" id="vorname" value="" placeholder="Vorname Ansprechperson*" required="Bitte füllen Sie dieses Feld aus!" />
+					<input type="text" name="von" id="vorname" value="" placeholder="Vorname Ansprechperson*" required="Bitte füllen Sie dieses Feld aus!" />
 				</div>
 				<div class="6u 12u$(xsmall)">
-					<input type="text" name="nachname" id="nachname" value="" placeholder="Nachhname Ansprechperson*" required="Bitte füllen Sie dieses Feld aus!" />
+					<input type="text" name="von" id="nachname" value="" placeholder="Nachhname Ansprechperson*" required="Bitte füllen Sie dieses Feld aus!" />
 				</div>
 				<div class="6u$ 12u$(xsmall)">
-					<input type="email" name="email" id="email" value="" placeholder="E-Mail-Adresse*" required="Bitte füllen Sie dieses Feld aus!" />
+					<input type="email" name="mail" id="email" value="" placeholder="E-Mail-Adresse*" required="Bitte füllen Sie dieses Feld aus!" />
 				</div>
 				<div class="6u$ 12u$(xsmall)">
 					<input type="tel" name="telefon" id="telefon" value="" placeholder="Telefon (optional)" />
