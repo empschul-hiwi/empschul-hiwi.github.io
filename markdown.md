@@ -1,32 +1,127 @@
 ---
 layout: page
-title: Projekte
+title: Kontaktformular
 permalink: /markdown/
 ---
-An der Professur für "Empirische Schul- und Unterrichtsforschung" untersuchen wir aktuell, wie junge und erfahrene Lehrer sich im Unterrichtskontext bewegen, Gestik einsetzen und ihre Aufmerksamkeit verteilen. Gegenwärtig versuchen wir klassische Verhaltensanalysen mit automatisierter Audio- und Videoanalyse zu kombinieren und Gesten- und Objekterkennungssoftware für die Bildungsforschung nutzbar zu machen.
- 
-At the chair for empirical school- and classroom research we work on how novice and expert teachers move, gesture and distribute their attention in classroom settings. We currently trying to combine classic behavioral coding with automatic approaches to video analysis drawing on object and gesture recognition.
+<html>
 
-***
+<p>Wir freuen uns, wenn Sie Interesse daran haben, an unseren Studien teilzunehmen. Bitte nutzen Sie dieses Formular zur Anmeldung und Kontaktaufnahme.<br>
+Sobald wir Ihre Anfrage erhalten haben, melden wir uns bei Ihnen. Sie erhalten dann ausführliche Informationen zum Thema und zur Durchführung der Studie, sodass Sie entscheiden können, ob Sie an der Studie teilnehmen und einen Termin vereinbaren möchten. Sie können uns jederzeit mitteilen, wenn Sie keine Einladungen mehr erhalten möchten oder wir Ihre Kontaktdaten wieder löschen sollen.</p>
 
-<span class="image fit"><img src="assets/images/pic01.png" alt="" /></span>
+<form method="post" action="kontaktformular.php" method="POST">
+			<div class="row uniform">
+				<div class="6u 12u$(xsmall)">
+					<input type="text" name="vorname" id="vorname" value="" placeholder="Vorname Ansprechperson*" required="Bitte füllen Sie dieses Feld aus!" />
+				</div>
+				<div class="6u 12u$(xsmall)">
+					<input type="text" name="nachname" id="nachname" value="" placeholder="Nachhname Ansprechperson*" required="Bitte füllen Sie dieses Feld aus!" />
+				</div>
+				<div class="6u$ 12u$(xsmall)">
+					<input type="email" name="email" id="email" value="" placeholder="E-Mail-Adresse*" required="Bitte füllen Sie dieses Feld aus!" />
+				</div>
+				<div class="6u$ 12u$(xsmall)">
+					<input type="tel" name="telefon" id="telefon" value="" placeholder="Telefon (optional)" />
+				</div>
+				<!-- Break -->
+				<div class="12u$">
+					<div class="select-wrapper">
+						<select name="kategorie" id="kategorie">
+						    <option value="">Funktion/ Tätigkeit</option>
+						    <option value="1">Schulleiter/in</option>
+							<option value="1">Lehrer/in</option>
+							<option value="1">Referendar/in</option>
+							<option value="1">Student/in</option>
+							<option value="1">Anderes</option>
+						</select>
+					</div>
+				</div>
+				<!-- Break -->
+				<div class="12u$">
+					<textarea name="anschrift" id="anschrift" 
+					placeholder="Anschrift der Schule/ Name der Universität*" rows="6" required="Bitte füllen Sie dieses Feld aus!"></textarea> 
+				</div>
+				<div class="12u$">
+					<textarea name="nachricht" id="nachricht" 
+					placeholder="Nachricht" rows="6"></textarea>
+				</div>
+				<!-- Break -->
+				<div class="4u 12u$(small)">
+					<input type="radio" 
+					id="einverständnis-kontaktaufnahme" 
+					name="einverständnis-kontaktaufnahme" 
+					required="Bitte füllen Sie dieses Feld aus!"> 
+					<label for="einverständnis-kontaktaufnahme">
+						<b>Einverständnis Kontaktaufnahme*</b><br>
+						Ich bin damit einverstanden, dass Mitarbeiter/innen der Professur für "Empirische Schul- und Unterrichtsforschung" an der Universität Leipzig mit mir zur weiteren Absprache einer Studienteilnahme in Kontakt treten. 
+					</label>
+				</div>
+				<div class="4u 12u$(small)">
+					<input type="radio" 
+					id="einverständnis-datenspeicherung"
+					name="einverständnis-datenspeicherung" 
+					required="Bitte füllen Sie dieses Feld aus!"> 
+					<label for="einverständnis-datenspeicherung">
+						<b>Einverständnis Datenspeicherung*</b><br>
+						Ich bin damit einverstanden, dass meine Daten zum Zweck der Kontaktaufnahme gespeichert werden. Ich kann mein Einverständnis jederzeit widerrufen.
+					</label>
+				</div>
+				<div class="4u$ 12u$(small)">
+					<input type="radio" 
+					id="datenschutzhinweis" 
+					name="datenschutzhinweis"
+					required="Bitte füllen Sie dieses Feld aus!">
+					<label for="datenschutzhinweis">
+						<b>Datenschutzhinweis*</b><br>
+			    		Ich habe die Hinweise zum Datenschutz gelesen und bin einverstanden.
+			    		<p><i>Link zu Datenschutzhinweisen in Bearbeitung.</i></p>
+			    	</label>
+				</div>
+				<p> 
+				Die mit * gekennzeichneten Felder sind Pflichtfelder!
+			    </p>
+				<!-- Break -->
+				<div class="12u$">
+					<ul class="actions">
+						<li><input type="submit" name="absenden" value="Absenden" class="special" /></li>
+						<li><input type="reset" name="löschen" value="Löschen" /></li>
+					</ul>
+				</div>
+			</div>
+		</form>
+</html>
 
-## Von der Relevanz der Präsenz in der Expertiseentwicklung von Lehrpersonen
+<?php>
+     if(isset($_POST['absenden']))
+     {
+     	require("inc/db_connect.php");
 
-**Verantwortliche/AnsprechpartnerIn:** <a href="mailto:mandy.klatt@uni-leipzig.de">Mandy Klatt</a>
+     	$nachname = $_POST['nachname'];
+     	$vorname = $_POST['vorname'];
+     	$email = $_POST['email'];
+     	$telefon = $_POST['telefon'];
+     	$kategorie = $_POST['kategorie'];
+     	$anschrift = $_POST['anschrift'];
+     	$nachricht = $_POST['nachricht'];
+     	$einverständnis-kontaktaufnahme= $_POST['einverständnis-kontaktaufnahme'];
+     	$einverständnis-datenspeicherung= $_POST['einverständnis-kontaktaufnahme'];
+     	$datenschutzhinweis = $_POST['datenschutzhinweis'];
+     	$datum = date("Y-m-d H:i:s"); 
 
-Ein wesentliches Strukturmerkmal guten Unterrichts stellt in der Unterrichtsforschung das Klassenmanagement dar, wobei die Allgegenwärtigkeit bzw. Präsenz von Lehrpersonen einen entscheidenden Aspekt bildet. Lehrpersonen mit einem hohen Grad an Präsenz vermitteln SchülerInnen den Eindruck, alles im Blick zu haben und auf verschiedene Situationen gleichzeitig reagieren zu können. Doch was genau ist unter der Allgegenwärtigkeit der Lehrperson zu verstehen? Wie kann diese Dimension objektiv erfasst werden? Und welche Rolle spielt sie für die Expertiseentwicklung von (angehenden) LehrerInnen? 
-Um diese und weitere Fragen zu beantworten, werden in verschiedenen Studien Daten mittels multimodaler Prozessmessungen (mobile Eye-Tracking-Technologie, Audio- und Videoaufnahmen, Fragebogen) erhoben. Die in dem Projekt durchzuführenden Untersuchungen sind von kontinuierlicher Relevanz für die Ausbildung von Lehrpersonen, da die Befunde der Studien dazu dienen sollen, Konsequenzen und Implikationen für die Praxis abzuleiten und so in der universitären Vorbereitungszeit aktiv einen Beitrag zur Ausbildung von Lehrpersonen zu leisten. 
-Für die Studien sind wir stets auf der Suche nach Lehrkräften, ReferendarInnen und Lehramtsstudierenden, die mit uns im Labor oder in ihren Schulen zusammenarbeiten wollen. Bei Interesse melden Sie sich bitte per <a href="mailto:mandy.klatt@uni-leipzig.de">E-Mail</a>
-oder über das [Anmeldeformular](https://empschul-leipzig.github.io/schulen/).
+     	$sql = "INSERT INTO kontaktformular_studienteilnahme(Nachhname, Vorname, E-Mail, Telefon, Funktion/ Tätigkeit, Anschrift, Nachricht, Check_Ev_Kontakt, Check_Ev_Daten, Check_Hinweis, Datum") VALUES (:nachname,:vorname,  :email, :telefon, :kategorie, :anschrift, :nachricht, :einverständnis-kontaktaufnahme, :einverständnis-datenspeicherung, :datenschutzhinweis, :datum);
+		$stmt = $dbh->prepare($sql)
+		$stmt->bindValue(':nachname', $nachname);
+		$stmt->bindValue(':vorname', $vorname);		
+		$stmt->bindValue(':email', $email);
+		$stmt->bindValue(':telefon', $telefon);
+		$stmt->bindValue(':kategorie', $kategorie);
+		$stmt->bindValue(':anschrift', $anschrift);
+		$stmt->bindValue(':nachricht', $nachricht);
+		$stmt->bindValue(':einverständnis-kontaktaufnahme', $einverständnis-kontaktaufnahme);
+		$stmt->bindValue(':einverständnis-datenspeicherung', $einverständnis-datenspeicherung);
+		$stmt->bindValue(':datenschutzhinweis', $datenschutzhinweis);
+		$stmt->bindValue(':datum', $datum);
 
-***
-<span class="image fit"><img src="assets/images/pic02.png" alt="" /></span>
+		$stmt-> execute();
 
-## Implizite Überzeugungen bei Lehrkräften
 
-**Verantwortliche/AnsprechpartnerIn:** <a href="mailto:franziska.frohberg@uni-leipzig.de">Franziska Frohberg</a>
-
-Bei der Bewältigung von Situationen des alltäglichen Lebens orientieren sich Menschen häufig an Alltagstheorien. Lehrkräfte haben subjektive Überzeugungen darüber, welches Erziehungsverhalten bei bestimmten SchülerInnen effektiv ist. Diese Gewissheit über die Gültigkeit von Alltagtheorien ergibt sich zum einen aus der selektiven Wahrnehmung, und zum anderen als Effekt der Sich-selbst-erfüllenden-Prophezeiung, da man sich gegenüber einer anderen Person so verhält, dass deren Reaktion die eigene Annahme bestätigt. Im Projekt wird untersucht, welche Effekte implizite Überzeugungen von Lehrkräften auf Ihre SchülerInnen haben. In dieser Studie werden Videoaufnahmen von Unterricht gemacht sowie Fragebögen für Lehrkräften und SchülerInnen verwendet.  
-Für unsere Studie suchen wir jederzeit Lehrkräfte, ReferendarInnen und Lehramtsstudierende für Videoaufnahmen in ihren Schulen. Bei Interesse melden Sie sich bitte per <a href="mailto:franziska.frohberg@uni-leipzig.de">E-Mail</a>
-oder über das [Anmeldeformular](https://empschul-leipzig.github.io/schulen/).
+     }
