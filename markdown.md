@@ -8,16 +8,16 @@ permalink: /markdown/
 <p>Wir freuen uns, wenn Sie Interesse daran haben, an unseren Studien teilzunehmen. Bitte nutzen Sie dieses Formular zur Anmeldung und Kontaktaufnahme.<br>
 Sobald wir Ihre Anfrage erhalten haben, melden wir uns bei Ihnen. Sie erhalten dann ausführliche Informationen zum Thema und zur Durchführung der Studie, sodass Sie entscheiden können, ob Sie an der Studie teilnehmen und einen Termin vereinbaren möchten. Sie können uns jederzeit mitteilen, wenn Sie keine Einladungen mehr erhalten möchten oder wir Ihre Kontaktdaten wieder löschen sollen.</p>
 
-<form method="post" action="kontaktformular.php">
+<form method="post" action="kontaktformular.php" method="POST">
 			<div class="row uniform">
 				<div class="6u 12u$(xsmall)">
-					<input type="text" name="von" id="vorname" value="" placeholder="Vorname Ansprechperson*" required="Bitte füllen Sie dieses Feld aus!" />
+					<input type="text" name="vorname" id="vorname" value="" placeholder="Vorname Ansprechperson*" required="Bitte füllen Sie dieses Feld aus!" />
 				</div>
 				<div class="6u 12u$(xsmall)">
-					<input type="text" name="von" id="nachname" value="" placeholder="Nachhname Ansprechperson*" required="Bitte füllen Sie dieses Feld aus!" />
+					<input type="text" name="nachname" id="nachname" value="" placeholder="Nachhname Ansprechperson*" required="Bitte füllen Sie dieses Feld aus!" />
 				</div>
 				<div class="6u$ 12u$(xsmall)">
-					<input type="email" name="mail" id="email" value="" placeholder="E-Mail-Adresse*" required="Bitte füllen Sie dieses Feld aus!" />
+					<input type="email" name="email" id="email" value="" placeholder="E-Mail-Adresse*" required="Bitte füllen Sie dieses Feld aus!" />
 				</div>
 				<div class="6u$ 12u$(xsmall)">
 					<input type="tel" name="telefon" id="telefon" value="" placeholder="Telefon (optional)" />
@@ -90,3 +90,38 @@ Sobald wir Ihre Anfrage erhalten haben, melden wir uns bei Ihnen. Sie erhalten d
 		</form>
 </html>
 
+<?php>
+     if(isset($_POST['absenden']))
+     {
+     	require("inc/db_connect.php");
+
+     	$nachname = $_POST['nachname'];
+     	$vorname = $_POST['vorname'];
+     	$email = $_POST['email'];
+     	$telefon = $_POST['telefon'];
+     	$kategorie = $_POST['kategorie'];
+     	$anschrift = $_POST['anschrift'];
+     	$nachricht = $_POST['nachricht'];
+     	$einverständnis-kontaktaufnahme= $_POST['einverständnis-kontaktaufnahme'];
+     	$einverständnis-datenspeicherung= $_POST['einverständnis-kontaktaufnahme'];
+     	$datenschutzhinweis = $_POST['datenschutzhinweis'];
+     	$datum = date("Y-m-d H:i:s"); 
+
+     	$sql = "INSERT INTO kontaktformular_studienteilnahme(Nachhname, Vorname, E-Mail, Telefon, Funktion/ Tätigkeit, Anschrift, Nachricht, Check_Ev_Kontakt, Check_Ev_Daten, Check_Hinweis, Datum") VALUES (:nachname,:vorname,  :email, :telefon, :kategorie, :anschrift, :nachricht, :einverständnis-kontaktaufnahme, :einverständnis-datenspeicherung, :datenschutzhinweis, :datum);
+		$stmt = $dbh->prepare($sql)
+		$stmt->bindValue(':nachname', $nachname);
+		$stmt->bindValue(':vorname', $vorname);		
+		$stmt->bindValue(':email', $email);
+		$stmt->bindValue(':telefon', $telefon);
+		$stmt->bindValue(':kategorie', $kategorie);
+		$stmt->bindValue(':anschrift', $anschrift);
+		$stmt->bindValue(':nachricht', $nachricht);
+		$stmt->bindValue(':einverständnis-kontaktaufnahme', $einverständnis-kontaktaufnahme);
+		$stmt->bindValue(':einverständnis-datenspeicherung', $einverständnis-datenspeicherung);
+		$stmt->bindValue(':datenschutzhinweis', $datenschutzhinweis);
+		$stmt->bindValue(':datum', $datum);
+
+		$stmt-> execute();
+
+
+     }
