@@ -1,88 +1,67 @@
 ---
 layout: page
-title: Anmeldung zur Studienteilnahme 
+title: Kontakt und Anfahrt
 ---
 
-<p>Wir freuen uns, wenn Sie Interesse daran haben, an unseren Studien teilzunehmen. Bitte nutzen Sie dieses Formular zur Anmeldung und Kontaktaufnahme.<br>
-Sobald wir Ihre Anfrage erhalten haben, melden wir uns bei Ihnen. Sie erhalten dann ausführliche Informationen zum Thema und zur Durchführung der Studie, sodass Sie entscheiden können, ob Sie an der Studie teilnehmen und einen Termin vereinbaren möchten. Sie können uns jederzeit mitteilen, wenn Sie keine Einladungen mehr erhalten möchten oder wir Ihre Kontaktdaten wieder löschen sollen.</p>
+### Kontakt
 
-<form method="post" action="#">
-			<div class="row uniform">
-				<div class="6u 12u$(xsmall)">
-					<input type="text" name="vorname" id="vorname" value="" placeholder="Vorname Ansprechperson*" required="Bitte füllen Sie dieses Feld aus!" />
-				</div>
-				<div class="6u 12u$(xsmall)">
-					<input type="text" name="nachname" id="nachname" value="" placeholder="Nachhname Ansprechperson*" required="Bitte füllen Sie dieses Feld aus!" />
-				</div>
-				<div class="6u$ 12u$(xsmall)">
-					<input type="email" name="email" id="email" value="" placeholder="E-Mail-Adresse*" required="Bitte füllen Sie dieses Feld aus!" />
-				</div>
-				<div class="6u$ 12u$(xsmall)">
-					<input type="tel" name="telefon" id="telefon" value="" placeholder="Telefon (optional)" />
-				</div>
-				<!-- Break -->
-				<div class="12u$">
-					<div class="select-wrapper">
-						<select name="kategorie" id="kategorie">
-						    <option value="">Funktion/ Tätigkeit</option>
-						    <option value="1">Schulleiter/in</option>
-							<option value="1">Lehrer/in</option>
-							<option value="1">Referendar/in</option>
-							<option value="1">Student/in</option>
-							<option value="1">Anderes</option>
-						</select>
-					</div>
-				</div>
-				<!-- Break -->
-				<div class="12u$">
-					<textarea name="anschrift" id="anschrift" 
-					placeholder="Anschrift der Schule/ Name der Universität*" rows="6" required="Bitte füllen Sie dieses Feld aus!"></textarea> 
-				</div>
-				<div class="12u$">
-					<textarea name="nachricht" id="nachricht" 
-					placeholder="Nachricht" rows="6"></textarea>
-				</div>
-				<!-- Break -->
-				<div class="4u 12u$(small)">
-					<input type="radio" 
-					id="einverständnis-kontaktaufnahme" 
-					name="einverständnis-kontaktaufnahme" 
-					required="Bitte füllen Sie dieses Feld aus!"> 
-					<label for="einverständnis-kontaktaufnahme">
-						<b>Einverständnis Kontaktaufnahme</b><br>
-						Ich bin damit einverstanden, dass Mitarbeiter/innen der Professur für "Empirische Schul- und Unterrichtsforschung" an der Universität Leipzig mit mir zur weiteren Absprache einer Studienteilnahme in Kontakt treten. 
-					</label>
-				</div>
-				<div class="4u 12u$(small)">
-					<input type="radio" 
-					id="einverständnis-datenspeicherung"
-					name="einverständnis-datenspeicherung" 
-					required="Bitte füllen Sie dieses Feld aus!"> 
-					<label for="einverständnis-datenspeicherung">
-						<b>Einverständnis Datenspeicherung</b><br>
-						Ich bin damit einverstanden, dass meine Daten zum Zweck der Kontaktaufnahme gespeichert werden. Ich kann mein Einverständnis jederzeit widerrufen.
-					</label>
-				</div>
-				<div class="4u$ 12u$(small)">
-					<input type="radio" 
-					id="datenschutzhinweis" 
-					name="datenschutzhinweis"
-					required="Bitte füllen Sie dieses Feld aus!">
-					<label for="datenschutzhinweis">
-						<b>Datenschutzhinweis</b><br>
-			    		Ich habe die Hinweise zum Datenschutz gelesen und bin einverstanden.
-			    		<p><i>Link zu Datenschutzhinweisen in Bearbeitung.</i></p>
-			    	</label>
-				</div>
-				<p> 
-				Die mit * gekennzeichneten Felder sind Pflichtfelder!
-			    </p>
-				<!-- Break -->
-				<div class="12u$">
-					<ul class="actions">
-						<li><input type="submit" value="Absenden" class="special" /></li>
-						<li><input type="reset" value="Löschen" /></li>
-					</ul>
-				</div>
-			</div>
-		</form>
+#### Inhaberin der Professur
+
+**Prof. Dr. Anne Deiglmayr**
+04109 Leipzig
+Dittrichring 5-7
+Raum 008
+Tel.: +49 (0) 341 97-31571
+E-Mail: [anne.deiglmayr@uni-leipzig.de](anne.deiglmayr@uni-leipzig.de)
+Sprechzeit: Mittwoch 11:00 – 12:00 Uhr
+
+
+#### Sekretariat
+
+**Anne-Kathrin Pagel**
+04109 Leipzig
+Dittrichring 5-7
+Raum 009
+Tel.: +49 (0) 341 97-31570
+E-Mail: [empschul@uni-leipzig.de](empschul@uni-leipzig.de)
+Sprechzeit: Mittwoch 09:00 – 12:00 Uhr
+
+***
+
+### Anfahrt
+
+Universität Leipzig
+Erziehungswissenschaftliche Fakultät
+Institut für Bildungswissenschaften
+Professur für Empirische Schul- und Unterrichtsforschung
+Dittrichring 5-7
+04109 Leipzig
+
+
+Die Büros und das Labor der Professur für "Empirische Schul- Unterrichtsforschung" befinden sich am Dittrichring und schräg gegenüber der Thomaskirche im westlichen Zentrum Leipzigs. Das Gebäude erreichen Sie über eine der beiden größeren Brücken über dem Pleißemühlgraben. Auf der linken Seite des Gebäudes befindet sich die Commerzbank, auf der rechten Seite die Erziehungswissenschaftliche Fakultät der Universität Leipzig. Nutzen Sie den Haupteingang und gehen sie anschließend nach rechts. Öffnen Sie die Glastür zum Computerbereich und die folgende Holztür zu den Büros und Seminarräumen der Fakultät. Die Räumlichkeiten unseres Teams befinden sich entlang des Ganges im Erdgeschoss.  
+
+<div class="box alt">
+    <div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="assets/images/pic20.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/pic21.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/pic22.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/pic23.jpg" alt="" /></span></div>
+
+
+Sie erreichen uns schnell und einfach mit dem Auto, ÖPNV, Fahrrad oder auch zu Fuß.
+
+**Auto:** 
+Parkmöglichkeiten finden Sie in dem Parkhaus am Thomaskirchhof, dem Tief-Parkhaus in der Zentralstraße 7 oder dem Marthin-Luther-Ring Parkhaus in der Otto-Schill-Straße 3. Die Räumlichkeiten der Professur erreichen sie von dort aus binnen weniger Minunten zu Fuß.
+
+**Öffentliche Verkehrsmittel:**
+Von der Haltestelle "Hauptbahnhof/ Tief" wählen Sie eine der S-Bahnen S1/ S2 Stötteritz, S3 Wurzen, S4 Markleeberg-Gaschwitz, S5/ S5X Zwickau Hbf oder S6 Borna bis zur Haltstelle "Markt". Die Räumlichkeiten der Professur erreichen sie von dort aus binnen weniger Minunten zu Fuß.
+
+Von der Haltestelle "Hauptbahnhof/ Westseite" können Sie die Tram 9 S-Bf. Connewitz bis zu zur Haltestelle „Thomaskirche“ benutzen. Direkt gegenüber befindet sich das Gebäude mit den Räumlichkeiten der Professur.***(ACHTUNG: derzeit aufgrund von aktuellen Baumaßnahmen am Goerdelerring nicht möglich!)***
+
+Von der Haltestelle "Hauptbahnhof/ Goethestraße" können Sie ***aktuell*** die Buslinie 89 Connewitzer Kreuz bis zur Haltestelle "Thomaskirche" nutzen.  
+**Fahrrad/ zu Fuß:**
+Vom Hauptbahnhof aus erreichen Sie die Räumlichkeiten der Professur mit dem Fahrrad in ca. 6 Minuten und zu Fuß innerhalb von ca. 15 Minuten.  
+
+***
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2372.2327579763164!2d12.373387629344208!3d51.33891480782422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a6f826e1d7ff6d%3A0xc2ce10d57bdf591!2sDittrichring%205%2C%2004109%20Leipzig!5e0!3m2!1sde!2sde!4v1591795377312!5m2!1sde!2sde" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
