@@ -2,6 +2,7 @@
 layout: page
 title: Kontakt und Anfahrt
 ---
+
 <table>
   <thead>
     <tr>
@@ -12,7 +13,7 @@ title: Kontakt und Anfahrt
   </thead>
   <tbody>
     <tr>
-      <td>UniversitÃ¤t Leipzig<br>  
+      <td>Universität Leipzig<br>  
           Erziehungswissenschaftliche Fakult&auml;t<br>
           Institut f&uuml;r Bildungswissenschaften<br>
           Professur f&uuml;r Empirische Schul- und Unterrichtsforschung<br>
@@ -23,14 +24,14 @@ title: Kontakt und Anfahrt
           Dittrichring 5-7<br>
           04109 Leipzig
           <p><u>Tel.:<u> +49 (0) 341 97-31571<br> 
-          <u>E-Mail:<u> [anne.deiglmayr@uni-leipzig.de](anne.deiglmayr@uni-leipzig.de)<br>           <u>Sprechzeit:<u> Mittwoch 11:00 â€“ 12:00 Uhr</p>
+          <u>E-Mail:<u> [anne.deiglmayr@uni-leipzig.de](anne.deiglmayr@uni-leipzig.de)<br>           <u>Sprechzeit:<u> Mittwoch 11:00 – 12:00 Uhr</p>
       <td><b>Anne-Kathrin Pagel</b><br>
           Raum 009<br>
           Dittrichring 5-7<br>
           04109 Leipzig
           <p><u>Tel.:<u> +49 (0) 341 97-31570<br>  
           <u>E-Mail:<u> [empschul@uni-leipzig.de](empschul@uni-leipzig.de)<br>  
-          <u>Sprechzeit:<u> Mittwoch 09:00 â€“ 12:00 Uhr</p>
+          <u>Sprechzeit:<u> Mittwoch 09:00 – 12:00 Uhr</p>
       </td>
     </tr>
   </tbody>
@@ -41,9 +42,10 @@ title: Kontakt und Anfahrt
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2372.2327579763164!2d12.373387629344208!3d51.33891480782422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a6f826e1d7ff6d%3A0xc2ce10d57bdf591!2sDittrichring%205%2C%2004109%20Leipzig!5e0!3m2!1sde!2sde!4v1591799658004!5m2!1sde!2sde" width="1280" height="500" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 ***
-#### Anreise  
 
-Die BÃ¼ros und das Labor der Professur fÃ¼r "Empirische Schul- Unterrichtsforschung" befinden sich am Dittrichring und schrÃ¤g gegenÃ¼ber der Thomaskirche im westlichen Zentrum Leipzigs. Das GebÃ¤ude erreichen Sie Ã¼ber eine der beiden grÃ¶ÃŸeren BrÃ¼cken Ã¼ber dem PleiÃŸemÃ¼hlgraben. Auf der linken Seite des GebÃ¤udes befindet sich die Commerzbank, auf der rechten Seite die Erziehungswissenschaftliche FakultÃ¤t der UniversitÃ¤t Leipzig. Nutzen Sie den Haupteingang und gehen sie anschlieÃŸend nach rechts. Ã–ffnen Sie die GlastÃ¼r zum Computerbereich und die folgende HolztÃ¼r zu den BÃ¼ros und SeminarrÃ¤umen der FakultÃ¤t. Die RÃ¤umlichkeiten unseres Teams befinden sich entlang des Ganges im Erdgeschoss.  
+<h4>Anreise</h4>  
+
+<p>Die Büros und das Labor der Professur für "Empirische Schul- Unterrichtsforschung" befinden sich am Dittrichring und schräg gegenüber der Thomaskirche im westlichen Zentrum Leipzigs. Das Gebäude erreichen Sie über eine der beiden größeren Brücken über dem Pleißemühlgraben. Auf der linken Seite des Gebäudes befindet sich die Commerzbank, auf der rechten Seite die Erziehungswissenschaftliche Fakultät der Universität Leipzig. Nutzen Sie den Haupteingang und gehen sie anschließend nach rechts. Öffnen Sie die Glastür zum Computerbereich und die folgende Holztür zu den Büros und Seminarräumen der Fakultät. Die Räumlichkeiten unseres Teams befinden sich entlang des Ganges im Erdgeschoss.</p> 
 
 <div class="box alt">
     <div class="row 50% uniform">
@@ -51,19 +53,21 @@ Die BÃ¼ros und das Labor der Professur fÃ¼r "Empirische Schul- Unterrichtsforsch
 		<div class="4u"><span class="image fit"><img src="assets/images/pic21.jpg" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/pic22.jpg" alt="" /></span></div>  
 		
-Sie erreichen uns schnell und einfach mit dem Auto, dem Ã–PNV, dem Fahrrad oder auch zu FuÃŸ.  
-**Auto:**  
-ParkmÃ¶glichkeiten finden Sie in dem Parkhaus am Thomaskirchhof, dem Tief-Parkhaus in der ZentralstraÃŸe 7 oder dem Marthin-Luther-Ring Parkhaus in der Otto-Schill-StraÃŸe 3. Die RÃ¤umlichkeiten der Professur erreichen sie von dort aus binnen weniger Minunten zu FuÃŸ.  
+<p>Sie erreichen uns schnell und einfach mit dem Auto, dem ÖPNV, dem Fahrrad oder auch zu Fuß.</p>
 
-**Ã–ffentliche Verkehrsmittel:**  
-Von der Haltestelle "Hauptbahnhof/ Tief" wÃ¤hlen Sie eine der S-Bahnen S1/ S2 StÃ¶tteritz, S3 Wurzen, S4 Markleeberg-Gaschwitz, S5/ S5X Zwickau Hbf oder S6 Borna bis zur Haltstelle "Markt". Die RÃ¤umlichkeiten der Professur erreichen sie von dort aus binnen weniger Minunten zu FuÃŸ.  
+<p><b>Auto:</b>
+Parkmöglichkeiten finden Sie in dem Parkhaus am Thomaskirchhof, dem Tief-Parkhaus in der Zentralstraße 7 oder dem Marthin-Luther-Ring Parkhaus in der Otto-Schill-Straße 3. Die Räumlichkeiten der Professur erreichen sie von dort aus binnen weniger Minunten zu Fuß.<p> 
 
-Von der Haltestelle "Hauptbahnhof/ Westseite" kÃ¶nnen Sie die Tram 9 S-Bf. Connewitz bis zu zur Haltestelle â€Thomaskircheâ€œ benutzen. Direkt gegenÃ¼ber befindet sich das GebÃ¤ude mit den RÃ¤umlichkeiten der Professur. ***(ACHTUNG: derzeit aufgrund von aktuellen BaumaÃŸnahmen am Goerdelerring nicht mÃ¶glich!)***  
+<p><b>Öffentliche Verkehrsmittel:</b>  
+Von der Haltestelle "Hauptbahnhof/ Tief" wählen Sie eine der S-Bahnen S1/ S2 Stötteritz, S3 Wurzen, S4 Markleeberg-Gaschwitz, S5/ S5X Zwickau Hbf oder S6 Borna bis zur Haltstelle "Markt". Die Räumlichkeiten der Professur erreichen sie von dort aus binnen weniger Minunten zu Fuß.</p>  
 
-Von der Haltestelle "Hauptbahnhof/ GoethestraÃŸe" kÃ¶nnen Sie ***aktuell*** die Buslinie 89 Connewitzer Kreuz bis zur Haltestelle "Thomaskirche" nutzen.  
+<p>Von der Haltestelle "Hauptbahnhof/ Westseite" können Sie die Tram 9 S-Bf. Connewitz bis zu zur Haltestelle „Thomaskirche“ benutzen. Direkt gegenüber befindet sich das Gebäude mit den Räumlichkeiten der Professur.<br> 
+<b><span style="color:red">(ACHTUNG: derzeit aufgrund von aktuellen Baumaßnahmen am Goerdelerring nicht möglich!)</span></b></p>  
 
-**Fahrrad/ zu FuÃŸ:**  
-Vom Hauptbahnhof aus erreichen Sie die RÃ¤umlichkeiten der Professur mit dem Fahrrad in ca. 6 Minuten und zu FuÃŸ innerhalb von ca. 15 Minuten.  
+<p>Von der Haltestelle "Hauptbahnhof/ Goethestraße" können Sie ***aktuell*** die Buslinie 89 Connewitzer Kreuz bis zur Haltestelle "Thomaskirche" nutzen.</p>
+
+<p><b>Fahrrad/ zu Fuß:</b>  
+Vom Hauptbahnhof aus erreichen Sie die Räumlichkeiten der Professur mit dem Fahrrad in ca. 6 Minuten und zu Fuß innerhalb von ca. 15 Minuten.</p> 
 
 
-#### Wir freuen uns Sie kennezulernen!  
+<h4>Wir freuen uns Sie kennezulernen!</h4> 
