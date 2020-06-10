@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink
 title: Kontakt und Anfahrt
 ---
 <div class="table-wrapper">
@@ -64,6 +63,14 @@ Von der Haltestelle "Hauptbahnhof/ Tief" wählen Sie eine der S-Bahnen S1/ S2 St
 
 <p><b>Auto:</b>
 ParkmÃ¶glichkeiten finden Sie in dem Parkhaus am Thomaskirchhof, dem Tief-Parkhaus in der ZentralstraÃŸe 7 oder dem Marthin-Luther-Ring Parkhaus in der Otto-Schill-StraÃŸe 3. Die RÃ¤umlichkeiten der Professur erreichen sie von dort aus binnen weniger Minunten zu FuÃŸ.<p> 
+
+<p><b>Ã–ffentliche Verkehrsmittel:</b>  
+Von der Haltestelle "Hauptbahnhof/ Tief" wÃ¤hlen Sie eine der S-Bahnen S1/ S2 StÃ¶tteritz, S3 Wurzen, S4 Markleeberg-Gaschwitz, S5/ S5X Zwickau Hbf oder S6 Borna bis zur Haltstelle "Markt". Die RÃ¤umlichkeiten der Professur erreichen sie von dort aus binnen weniger Minunten zu FuÃŸ.</p>  
+
+<p>Von der Haltestelle "Hauptbahnhof/ Westseite" kÃ¶nnen Sie die Tram 9 S-Bf. Connewitz bis zu zur Haltestelle â€žThomaskircheâ€œ benutzen. Direkt gegenÃ¼ber befindet sich das GebÃ¤ude mit den RÃ¤umlichkeiten der Professur.<br> 
+<b><span style="color:red">(ACHTUNG: derzeit aufgrund von aktuellen BaumaÃŸnahmen am Goerdelerring nicht mÃ¶glich!)</span></b></p>  
+
+<p>Von der Haltestelle "Hauptbahnhof/ GoethestraÃŸe" kÃ¶nnen Sie ***aktuell*** die Buslinie 89 Connewitzer Kreuz bis zur Haltestelle "Thomaskirche" nutzen.</p>
 
 <p><b>Ã–ffentliche Verkehrsmittel:</b>  
 Von der Haltestelle "Hauptbahnhof/ Tief" wÃ¤hlen Sie eine der S-Bahnen S1/ S2 StÃ¶tteritz, S3 Wurzen, S4 Markleeberg-Gaschwitz, S5/ S5X Zwickau Hbf oder S6 Borna bis zur Haltstelle "Markt". Die RÃ¤umlichkeiten der Professur erreichen sie von dort aus binnen weniger Minunten zu FuÃŸ.</p>  
