@@ -3,8 +3,6 @@ layout: page
 title: Kontakt und Anfahrt
 ---
 
-### Kontakt
-
 #### Inhaberin der Professur
 
 **Prof. Dr. Anne Deiglmayr**  
@@ -26,21 +24,12 @@ E-Mail: [empschul@uni-leipzig.de](empschul@uni-leipzig.de)
 Sprechzeit: Mittwoch 09:00 – 12:00 Uhr
 
 ***
-
-### Adresse  
-
-<table>
-<thead>
-<tr>
-<td>Universit&auml;t Leipzig<br /> Erziehungswissenschaftliche Fakult&auml;t<br /> Institut f&uuml;r Bildungswissenschaften<br /> Professur f&uuml;r Empirische Schul- und Unterrichtsforschung<br /> Dittrichring 5-7<br /> 04109 Leipzig</td>
-<th><iframe style="border: 0;" tabindex="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2372.2327579763164!2d12.373387629344208!3d51.33891480782422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a6f826e1d7ff6d%3A0xc2ce10d57bdf591!2sDittrichring%205%2C%2004109%20Leipzig!5e0!3m2!1sde!2sde!4v1591795377312!5m2!1sde!2sde" width="400" height="300" frameborder="0" allowfullscreen="allowfullscreen" aria-hidden="false"></iframe></th>
-</tr>
-</thead>
-</table>
+<div class="box alt">
+    <div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><Universit&auml;t Leipzig<br /> Erziehungswissenschaftliche Fakult&auml;t<br /> Institut f&uuml;r Bildungswissenschaften<br /> Professur f&uuml;r Empirische Schul- und Unterrichtsforschung<br /> Dittrichring 5-7<br /> 04109 Leipzig/></span></div>
+		<div class="4u"><span class="image fit"><iframe style="border: 0;" tabindex="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2372.2327579763164!2d12.373387629344208!3d51.33891480782422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a6f826e1d7ff6d%3A0xc2ce10d57bdf591!2sDittrichring%205%2C%2004109%20Leipzig!5e0!3m2!1sde!2sde!4v1591795377312!5m2!1sde!2sde" width="400" height="300" frameborder="0"/></span></div>
 
 ***
-
-### Anreise  
 
 Die Büros und das Labor der Professur für "Empirische Schul- Unterrichtsforschung" befinden sich am Dittrichring und schräg gegenüber der Thomaskirche im westlichen Zentrum Leipzigs. Das Gebäude erreichen Sie über eine der beiden größeren Brücken über dem Pleißemühlgraben. Auf der linken Seite des Gebäudes befindet sich die Commerzbank, auf der rechten Seite die Erziehungswissenschaftliche Fakultät der Universität Leipzig. Nutzen Sie den Haupteingang und gehen sie anschließend nach rechts. Öffnen Sie die Glastür zum Computerbereich und die folgende Holztür zu den Büros und Seminarräumen der Fakultät. Die Räumlichkeiten unseres Teams befinden sich entlang des Ganges im Erdgeschoss.  
 
@@ -50,10 +39,11 @@ Die Büros und das Labor der Professur für "Empirische Schul- Unterrichtsforsch
 		<div class="4u"><span class="image fit"><img src="assets/images/pic21.jpg" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/pic22.jpg" alt="" /></span></div>  
 		
-Sie erreichen uns schnell und einfach mit dem Auto, dem ÖPNV, dem Fahrrad oder auch zu Fuß.
-
+***
+		
+Sie erreichen uns schnell und einfach mit dem Auto, dem ÖPNV, dem Fahrrad oder auch zu Fuß.  
 **Auto:**  
-Parkmöglichkeiten finden Sie in dem Parkhaus am Thomaskirchhof, dem Tief-Parkhaus in der Zentralstraße 7 oder dem Marthin-Luther-Ring Parkhaus in der Otto-Schill-Straße 3. Die Räumlichkeiten der Professur erreichen sie von dort aus binnen weniger Minunten zu Fuß.
+Parkmöglichkeiten finden Sie in dem Parkhaus am Thomaskirchhof, dem Tief-Parkhaus in der Zentralstraße 7 oder dem Marthin-Luther-Ring Parkhaus in der Otto-Schill-Straße 3. Die Räumlichkeiten der Professur erreichen sie von dort aus binnen weniger Minunten zu Fuß.  
 
 **Öffentliche Verkehrsmittel:**  
 Von der Haltestelle "Hauptbahnhof/ Tief" wählen Sie eine der S-Bahnen S1/ S2 Stötteritz, S3 Wurzen, S4 Markleeberg-Gaschwitz, S5/ S5X Zwickau Hbf oder S6 Borna bis zur Haltstelle "Markt". Die Räumlichkeiten der Professur erreichen sie von dort aus binnen weniger Minunten zu Fuß.  
