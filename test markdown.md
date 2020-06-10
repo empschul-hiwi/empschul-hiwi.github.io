@@ -44,8 +44,6 @@ Die Büros und das Labor der Professur für "Empirische Schul- Unterrichtsforsch
 		<div class="4u"><span class="image fit"><img src="assets/images/pic20.jpg" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/pic21.jpg" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/pic22.jpg" alt="" /></span></div>  
-</div>
-</div>
 		
 Sie erreichen uns schnell und einfach mit dem Auto, dem ÖPNV, dem Fahrrad oder auch zu Fuß.  
 
