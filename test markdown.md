@@ -6,9 +6,9 @@ title: Kontakt und Anfahrt
 <table>
   <thead>
     <tr>
-      <th>Anschrift</th>
-      <th>Inhaberin der Professur</th>
-      <th>Sekretariat</th>
+      <th><h4>Anschrift</h4></th>
+      <th><h4>Inhaberin der Professur</h4></th>
+      <th><h4>Sekretariat</h4></th>
     </tr>
   </thead>
   <tbody>
@@ -24,7 +24,8 @@ title: Kontakt und Anfahrt
           Dittrichring 5-7<br>
           04109 Leipzig
           <p><u>Tel.:<u> +49 (0) 341 97-31571<br> 
-          <u>E-Mail:<u> [anne.deiglmayr@uni-leipzig.de](anne.deiglmayr@uni-leipzig.de)<br>           <u>Sprechzeit:<u> Mittwoch 11:00 – 12:00 Uhr</p>
+          <u>E-Mail:<u> [anne.deiglmayr@uni-leipzig.de](anne.deiglmayr@uni-leipzig.de)<br>           <
+          <u>Sprechzeit:<u> Mittwoch 11:00 – 12:00 Uhr</p>
       <td><b>Anne-Kathrin Pagel</b><br>
           Raum 009<br>
           Dittrichring 5-7<br>
@@ -36,10 +37,6 @@ title: Kontakt und Anfahrt
     </tr>
   </tbody>
 </table> 
-
-***
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2372.2327579763164!2d12.373387629344208!3d51.33891480782422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a6f826e1d7ff6d%3A0xc2ce10d57bdf591!2sDittrichring%205%2C%2004109%20Leipzig!5e0!3m2!1sde!2sde!4v1591799658004!5m2!1sde!2sde" width="1280" height="500" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 ***
 
@@ -55,10 +52,10 @@ title: Kontakt und Anfahrt
 		
 <p>Sie erreichen uns schnell und einfach mit dem Auto, dem ÖPNV, dem Fahrrad oder auch zu Fuß.</p>
 
-<p><b>Auto:</b>
+<p><b>Auto:</b><br>
 Parkmöglichkeiten finden Sie in dem Parkhaus am Thomaskirchhof, dem Tief-Parkhaus in der Zentralstraße 7 oder dem Marthin-Luther-Ring Parkhaus in der Otto-Schill-Straße 3. Die Räumlichkeiten der Professur erreichen sie von dort aus binnen weniger Minunten zu Fuß.<p> 
 
-<p><b>Öffentliche Verkehrsmittel:</b>  
+<p><b>Öffentliche Verkehrsmittel:</b><br>  
 Von der Haltestelle "Hauptbahnhof/ Tief" wählen Sie eine der S-Bahnen S1/ S2 Stötteritz, S3 Wurzen, S4 Markleeberg-Gaschwitz, S5/ S5X Zwickau Hbf oder S6 Borna bis zur Haltstelle "Markt". Die Räumlichkeiten der Professur erreichen sie von dort aus binnen weniger Minunten zu Fuß.</p>  
 
 <p>Von der Haltestelle "Hauptbahnhof/ Westseite" können Sie die Tram 9 S-Bf. Connewitz bis zu zur Haltestelle „Thomaskirche“ benutzen. Direkt gegenüber befindet sich das Gebäude mit den Räumlichkeiten der Professur.<br> 
@@ -66,7 +63,7 @@ Von der Haltestelle "Hauptbahnhof/ Tief" wählen Sie eine der S-Bahnen S1/ S2 Stö
 
 <p>Von der Haltestelle "Hauptbahnhof/ Goethestraße" können Sie ***aktuell*** die Buslinie 89 Connewitzer Kreuz bis zur Haltestelle "Thomaskirche" nutzen.</p>
 
-<p><b>Fahrrad/ zu Fuß:</b>  
+<p><b>Fahrrad/ zu Fuß:</b><br> 
 Vom Hauptbahnhof aus erreichen Sie die Räumlichkeiten der Professur mit dem Fahrrad in ca. 6 Minuten und zu Fuß innerhalb von ca. 15 Minuten.</p> 
 
 
