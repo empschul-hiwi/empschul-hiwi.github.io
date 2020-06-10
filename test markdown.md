@@ -10,9 +10,9 @@ title: Kontakt und Anfahrt
 Dittrichring 5-7 
 Raum 008 
 
-**Tel.:** +49 (0) 341 97-31571  
-**E-Mail:** [anne.deiglmayr@uni-leipzig.de](anne.deiglmayr@uni-leipzig.de)  
-**Sprechzeit:** Mittwoch 11:00 – 12:00 Uhr
+<u>Tel.:<u> +49 (0) 341 97-31571  
+<u>E-Mail:<u> [anne.deiglmayr@uni-leipzig.de](anne.deiglmayr@uni-leipzig.de)  
+<u>Sprechzeit:<u> Mittwoch 11:00 – 12:00 Uhr
 
 #### Sekretariat
 
@@ -21,18 +21,14 @@ Raum 008
 Dittrichring 5-7  
 Raum 009
 
-**Tel.:** +49 (0) 341 97-31570  
-**E-Mail:** [empschul@uni-leipzig.de](empschul@uni-leipzig.de)  
-**Sprechzeit:** Mittwoch 09:00 – 12:00 Uhr
+<u>Tel.:<u> +49 (0) 341 97-31570  
+<u>E-Mail:<u> [empschul@uni-leipzig.de](empschul@uni-leipzig.de)  
+<u>Sprechzeit:<u> Mittwoch 09:00 – 12:00 Uhr
 
 ***
-<div class="box alt">
-    <div class="row 50% uniform">
-		  <div class="4u"><span class="image fit"><h4>Anschrift</h4><p>Universit&auml;t Leipzig<br> Erziehungswissenschaftliche Fakult&auml;t<br> Institut f&uuml;r Bildungswissenschaften<br> Professur f&uuml;r Empirische Schul- und Unterrichtsforschung<br> Dittrichring 5-7<br> 04109 Leipzig/></span></div>
-		<div class="4u"><span class="image fit"><p>iframe style="border: 0;" tabindex="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2372.2327579763164!2d12.373387629344208!3d51.33891480782422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a6f826e1d7ff6d%3A0xc2ce10d57bdf591!2sDittrichring%205%2C%2004109%20Leipzig!5e0!3m2!1sde!2sde!4v1591795377312!5m2!1sde!2sde" width="400" height="300" frameborder="0"/></span></div>
-</div>
-</div>
-
+<h3><div class="flex"><img style="float: left; margin: 0px 15px 15px 0px; iframe style="border: 0;" tabindex="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2372.2327579763164!2d12.373387629344208!3d51.33891480782422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a6f826e1d7ff6d%3A0xc2ce10d57bdf591!2sDittrichring%205%2C%2004109%20Leipzig!5e0!3m2!1sde!2sde!4v1591795377312!5m2!1sde!2sde" width="400" height="300" frameborder="0" /></div><h4>Anschrift</h4>
+<p style="padding-left: 165px;">Universit&auml;t Leipzig<br> Erziehungswissenschaftliche Fakult&auml;t<br> Institut f&uuml;r Bildungswissenschaften<br> Professur f&uuml;r Empirische Schul- und Unterrichtsforschung<br> Dittrichring 5-7<br> 04109 Leipzig<br style="clear: both;" /><div class="box alt">
+   
 ***
 
 #### Anreise
