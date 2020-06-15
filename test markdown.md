@@ -19,7 +19,7 @@ title: Kontakt und Anfahrt
         Dittrichring 5-7<br>
         04109 Leipzig</p>
         <p>Tel.: +49 (0) 341 97-31571<br> 
-        E-Mail: [anne.deiglmayr@uni-leipzig.de](anne.deiglmayr@uni-leipzig.de)</p>
+        E-Mail: <a href="anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a></p>
     </div>
     <div class="4u$ 12u$(medium)">
         <h3>Sekretariat/h3>
@@ -28,8 +28,7 @@ title: Kontakt und Anfahrt
         Dittrichring 5-7<br>
         04109 Leipzig</p>
         <p>Tel.: +49 (0) 341 97-31570<br>  
-        E-Mail: [empschul@uni-leipzig.de](empschul@uni-leipzig.de)<br>  
-        Sprechzeit: Mittwoch 09:00 - 12:00 Uhr</p>
+        E-Mail: <a href="empschul@uni-leipzig.de">empschul@uni-leipzig.de</a><br> Sprechzeit: Mittwoch 09:00 - 12:00 Uhr</p>
     </div>
 </div>
 
