@@ -32,6 +32,8 @@ title: Kontakt und Anfahrt
     </div>
 </div>
 
+<hr class="major" />
+
 ***
 
 <h4>Anreise</h4>  
