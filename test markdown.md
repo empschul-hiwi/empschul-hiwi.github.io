@@ -65,6 +65,5 @@ title: Kontakt und Anfahrt
 <p>Vom Hauptbahnhof aus erreichen Sie die Räumlichkeiten der Professur mit dem Fahrrad in ca. 6 Minuten und zu Fuß innerhalb von ca. 15 Minuten.</p> 
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
-<h4>Wir freuen uns Sie kennezulernen!</h4> 
+<h3>Wir freuen uns Sie kennezulernen!</h3> 
