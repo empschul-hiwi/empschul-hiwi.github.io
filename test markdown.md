@@ -41,6 +41,7 @@ Prof. Dr. Anne Deiglmayr
 #### Modulziele
 Die Studierenden werden die relevanten methodologischen Grundlagen der qualitativen empirischen Sozialforschung kennen lernen. Sie werden insbesondere Kompetenzen erwerben, wissenschaftliche Forschungsergebnisse aus der qualitativen Sozialforschung kritisch zu beurteilen. Sie lernen qualitative Verfahren und ihre Auswertungsmethoden kennen, dies betrifft insbesondere Interviewtechniken, Beobachtungsmethoden, Dokumentenanalysen. Die Studierenden erarbeiten und vertiefen die methodologischen Grundlagen der qualitativen empirischen Sozialforschung/der qualitativen empirischen Schul- und Unterrichtsforschung sowie der Evaluation von Schule und Unterricht und werden angeleitet, diese in eigenen Projektdurchführungen zu erproben. Sie beschäftigen sich mit Verfahren der internen und externen Evaluation von Institutionen. Die Studierenden verstehen Prozesse der Schulentwicklung von schulischen und außerschulischen Institutionen. Sie kennen die Verfahren der Schulinspektion und Schulevaluation.
 
+<article id= "Modulinhalt">
 #### Modulinhalt
 Das Modul führt in die Methodologie, die Methoden und die Forschungsprogramme sowie die grundlegenden Techniken der Auswertung der
 qualitativen empirischen Sozialforschung ein. Im Profilbereich werden darüber hinaus interne und externe schulische Evaluationsverfahren der Aktionsforschung vermittelt. Die Studierenden lernen die forschungsethischen Grundlagen kennen, die sie während der Datenerhebung und der Datenauswertung und ihrer Präsentation beachten müssen.
