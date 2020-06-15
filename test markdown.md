@@ -4,28 +4,35 @@ title: Kontakt und Anfahrt
 ---
 
 <div class="row">
-    <div class="6u 12u$(small)">
-        <h3>Sem turpis amet semper</h3>
-        <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-    </div>
-    <div class="6u$ 12u$(small)">
-        <h3>Magna odio tempus commodo</h3>
-        <p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan.</p>
-    </div>
-    <!-- Break -->
     <div class="4u 12u$(medium)">
-        <h3>Interdum sapien gravida</h3>
-        <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit.</p>
+        <h3>Anschrift</h3>
+        <p>Universität Leipzig<br>Erziehungswissenschaftliche Fakultät<br>
+        Institut für Bildungswissenschaften<br>
+        Professur für Empirische Schul- und Unterrichtsforschung<br>
+        Dittrichring 5-7<br>
+        04109 Leipzig</p>
     </div>
     <div class="4u 12u$(medium)">
-        <h3>Faucibus consequat lorem</h3>
-        <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit.</p>
+        <h3>Inhaberin der Professur</h3>
+        <p>Prof. Dr. Anne Deiglmayr<br>
+        Raum 008<br>
+        Dittrichring 5-7<br>
+        04109 Leipzig</p>
+        <p>Tel.: +49 (0) 341 97-31571<br> 
+        E-Mail: [anne.deiglmayr@uni-leipzig.de](anne.deiglmayr@uni-leipzig.de)</p>
     </div>
     <div class="4u$ 12u$(medium)">
-        <h3>Accumsan montes viverra</h3>
-        <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit.</p>
+        <h3>Sekretariat/h3>
+        <p>Anne-Kathrin Pagel<br>
+        Raum 009<br>
+        Dittrichring 5-7<br>
+        04109 Leipzig</p>
+        <p>Tel.: +49 (0) 341 97-31570<br>  
+        E-Mail: [empschul@uni-leipzig.de](empschul@uni-leipzig.de)<br>  
+        Sprechzeit: Mittwoch 09:00 - 12:00 Uhr</p>
     </div>
 </div>
+
 ***
 
 <h4>Anreise</h4>  
