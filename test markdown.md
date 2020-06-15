@@ -45,6 +45,7 @@ Die Studierenden werden die relevanten methodologischen Grundlagen der qualitati
 #### Modulinhalt
 Das Modul führt in die Methodologie, die Methoden und die Forschungsprogramme sowie die grundlegenden Techniken der Auswertung der
 qualitativen empirischen Sozialforschung ein. Im Profilbereich werden darüber hinaus interne und externe schulische Evaluationsverfahren der Aktionsforschung vermittelt. Die Studierenden lernen die forschungsethischen Grundlagen kennen, die sie während der Datenerhebung und der Datenauswertung und ihrer Präsentation beachten müssen.
+</article>
 
 #### Modulturnus
 Das Modul wird in jedem Sommersemester angeboten.
