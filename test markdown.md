@@ -22,7 +22,7 @@ title: Kontakt und Anfahrt
         E-Mail: <a href="anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a></p>
     </div>
     <div class="4u$ 12u$(medium)">
-        <h3>Sekretariat/h3>
+        <h3>Sekretariat</h3>
         <p>Anne-Kathrin Pagel<br>
         Raum 009<br>
         Dittrichring 5-7<br>
