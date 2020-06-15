@@ -22,7 +22,8 @@ title: Kontakt und Anfahrt
         Dittrichring 5-7<br>
         04109 Leipzig</p>
         <p>Tel.: +49 (0) 341 97-31571<br> 
-        E-Mail: <a href="anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a></p>
+        E-Mail: <a href="anne.deiglmayr@uni-leipzig.de">anne.deiglmayr@uni-leipzig.de</a><br>
+        Sprechzeit: Mittwoch 11:00-12:00 Uhr</p>
     </div>
     <div class="4u$ 12u$(medium)">
         <h3>Sekretariat</h3>
@@ -63,6 +64,6 @@ title: Kontakt und Anfahrt
 <h4>Fahrrad/ zu Fuß:</h4>
 <p>Vom Hauptbahnhof aus erreichen Sie die Räumlichkeiten der Professur mit dem Fahrrad in ca. 6 Minuten und zu Fuß innerhalb von ca. 15 Minuten.</p> 
 
-***
+
 
 <h4>Wir freuen uns Sie kennezulernen!</h4> 
