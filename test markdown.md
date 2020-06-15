@@ -4,11 +4,11 @@ title: Lehrveranstaltungen
 ---
 ### Modul: Praxis- und Studienfeld Schule (05-BWI-02)
 
-#### Modulverantwortung: 
+##### Modulverantwortung: 
 Prof. Dr. Anne Deiglmayr 
 
 #### Modulziele
-Die Studierenden
+Die Studierenden...
 -	kennen die Besonderheiten ihres späteren Tätigkeitsfeldes Schule
 -	kennen Verfahren der Erkundung der Schule und wenden diese für die Beschreibung und Analyse der Praktikumsschule an
 -	kennen Verfahren der Unterrichtsbeobachtung und wenden diese für die Beschreibung und Analyse des Unterrichts unter allgemein           didaktischen Gesichtspunkten an
