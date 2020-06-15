@@ -2,7 +2,7 @@
 layout: page
 title: Kontakt und Anfahrt
 ---
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2492.5021686958885!2d12.368746415295021!3d51.3386759308473!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a6f826e1d7ff6d%3A0xc2ce10d57bdf591!2sDittrichring%205%2C%2004109%20Leipzig!5e0!3m2!1sde!2sde!4v1592205178431!5m2!1sde!2sde" width="900" height="600" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2492.5021686958885!2d12.368746415295021!3d51.3386759308473!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a6f826e1d7ff6d%3A0xc2ce10d57bdf591!2sDittrichring%205%2C%2004109%20Leipzig!5e0!3m2!1sde!2sde!4v1592205257329!5m2!1sde!2sde" width="900" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 ***
 
