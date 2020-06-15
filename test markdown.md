@@ -2,44 +2,43 @@
 layout: page
 title: Kontakt und Anfahrt
 ---
-<div class="table-wrapper">
-  <table>
-    <thead>
-      <tr>
-        <th><h4>Anschrift</h4></th>
-        <th><h4>Inhaberin der Professur</h4></th>
-        <th><h4>Sekretariat</h4></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Universität Leipzig<br>  
-            Erziehungswissenschaftliche Fakultät<br>
-            Institut für Bildungswissenschaften<br>
-            Professur für Empirische Schul- und Unterrichtsforschung<br>
-            Dittrichring 5-7<br>
-            04109 Leipzig
-        </td>
-        <td><b>Prof. Dr. Anne Deiglmayr</b><br>
-            <p>Raum 008<br>
-            Dittrichring 5-7<br>
-            04109 Leipzig</p>
-            <p><u>Tel.:<u> +49 (0) 341 97-31571<br> 
-            <u>E-Mail:<u> [anne.deiglmayr@uni-leipzig.de](anne.deiglmayr@uni-leipzig.de)<br>           
-            <u>Sprechzeit:<u> Mittwoch 11:00 – 12:00 Uhr</p>
-        </td>
-        <td><b>Anne-Kathrin Pagel</b><br>
-            <p>Raum 009<br>
-            Dittrichring 5-7<br>
-            04109 Leipzig</p>
-            <p><u>Tel.:<u> +49 (0) 341 97-31570<br>  
-            <u>E-Mail:<u> [empschul@uni-leipzig.de](empschul@uni-leipzig.de)<br>  
-            <u>Sprechzeit:<u> Mittwoch 09:00 â€“ 12:00 Uhr</p>
-        </td>
-      </tr>
-    </tbody>
-  </table> 
-</div>
+
+<h4>Alternate</h4>
+        <div class="table-wrapper">
+            <table class="alt">
+                <thead>
+                    <tr>
+                        <th>Anschrift</th>
+                        <th>Inhaberin der Professur</th>
+                        <th>Sekretariat</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Universität Leipzig<br>  
+                            Erziehungswissenschaftliche Fakultät<br>
+                            Institut für Bildungswissenschaften<br>
+                            Professur für Empirische Schul- und Unterrichtsforschung<br>
+                            Dittrichring 5-7<br>
+                            04109 Leipzig</td>
+                        <td><b>Prof. Dr. Anne Deiglmayr</b><br>
+                            <p>Raum 008<br>
+                            Dittrichring 5-7<br>
+                            04109 Leipzig</p>
+                            <p><u>Tel.:<u> +49 (0) 341 97-31571<br> 
+                            <u>E-Mail:<u> [anne.deiglmayr@uni-leipzig.de](anne.deiglmayr@uni-leipzig.de)<br>           
+                            <u>Sprechzeit:<u> Mittwoch 11:00 – 12:00 Uhr</p></td>
+                        <td>Anne-Kathrin Pagel</b><br>
+                        <p>Raum 009<br>
+                        Dittrichring 5-7<br>
+                        04109 Leipzig</p>
+                        <p><u>Tel.:<u> +49 (0) 341 97-31570<br>  
+                        <u>E-Mail:<u> [empschul@uni-leipzig.de](empschul@uni-leipzig.de)<br>  
+                        <u>Sprechzeit:<u> Mittwoch 09:00 â€“ 12:00 Uhr</p></td>
+                    </tr>
+                </tbody>
+                </table>
+            </div>
 
 ***
 
