@@ -3,9 +3,8 @@ layout: page
 title: Kontakt und Anfahrt
 ---
 
-<h4>Alternate</h4>
-        <div class="table-wrapper">
-            <table class="alt">
+<div class="table-wrapper">
+    <table class="alt">
                 <thead>
                     <tr>
                         <th>Anschrift</th>
@@ -20,25 +19,28 @@ title: Kontakt und Anfahrt
                             Institut für Bildungswissenschaften<br>
                             Professur für Empirische Schul- und Unterrichtsforschung<br>
                             Dittrichring 5-7<br>
-                            04109 Leipzig</td>
+                            04109 Leipzig
+                            </td>
                         <td><b>Prof. Dr. Anne Deiglmayr</b><br>
                             <p>Raum 008<br>
                             Dittrichring 5-7<br>
                             04109 Leipzig</p>
                             <p><u>Tel.:<u> +49 (0) 341 97-31571<br> 
                             <u>E-Mail:<u> [anne.deiglmayr@uni-leipzig.de](anne.deiglmayr@uni-leipzig.de)<br>           
-                            <u>Sprechzeit:<u> Mittwoch 11:00 – 12:00 Uhr</p></td>
+                            <u>Sprechzeit:<u> Mittwoch 11:00 – 12:00 Uhr</p>
+                            </td>
                         <td>Anne-Kathrin Pagel</b><br>
-                        <p>Raum 009<br>
-                        Dittrichring 5-7<br>
-                        04109 Leipzig</p>
-                        <p><u>Tel.:<u> +49 (0) 341 97-31570<br>  
-                        <u>E-Mail:<u> [empschul@uni-leipzig.de](empschul@uni-leipzig.de)<br>  
-                        <u>Sprechzeit:<u> Mittwoch 09:00 â€“ 12:00 Uhr</p></td>
+                           <p>Raum 009<br>
+                           Dittrichring 5-7<br>
+                           04109 Leipzig</p>
+                           <p><u>Tel.:<u> +49 (0) 341 97-31570<br>  
+                           <u>E-Mail:<u> [empschul@uni-leipzig.de](empschul@uni-leipzig.de)<br>  
+                           <u>Sprechzeit:<u> Mittwoch 09:00 â€“ 12:00 Uhr</p>
+                           </td>
                     </tr>
                 </tbody>
-                </table>
-            </div>
+    </table>
+</div>
 
 ***
 
