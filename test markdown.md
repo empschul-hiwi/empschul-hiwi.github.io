@@ -2,7 +2,7 @@
 layout: page
 title: Kontakt und Anfahrt
 ---
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1434.9022585620666!2d12.3703972040071!3d51.3386647798875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a6f826e1d7ff6d%3A0xc2ce10d57bdf591!2sDittrichring%205%2C%2004109%20Leipzig!5e0!3m2!1sde!2sde!4v1592204039248!5m2!1sde!2sde" width="1280" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1434.9022585620666!2d12.3703972040071!3d51.3386647798875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a6f826e1d7ff6d%3A0xc2ce10d57bdf591!2sDittrichring%205%2C%2004109%20Leipzig!5e0!3m2!1sde!2sde!4v1592204327261!5m2!1sde!2sde" width="1000" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 ***
 
@@ -58,7 +58,7 @@ title: Kontakt und Anfahrt
 <p>Von der Haltestelle "Hauptbahnhof/ Tief" wählen Sie eine der <b>S-Bahnen</b> S1/ S2 Stötteritz, S3 Wurzen, S4 Markleeberg-Gaschwitz, S5/ S5X Zwickau Hbf oder S6 Borna bis zur Haltstelle "Markt". Die Räumlichkeiten der Professur erreichen sie von dort aus binnen weniger Minunten zu Fuß.</p>
 <p>Von der Haltestelle "Hauptbahnhof/ Westseite" können Sie die <b>Tram</b> 9 S-Bf. Connewitz bis zu zur Haltestelle "Thomaskirche" benutzen. Direkt gegenüber befindet sich das Gebäude mit den Räumlichkeiten der Professur.<br> 
 <b><span style="color:red">(ACHTUNG: derzeit aufgrund von aktuellen Baumaßnahmen am Goerdelerring nicht möglich!)</span></b></p>
-<p>Von der Haltestelle "Hauptbahnhof/ Goethestraße" können Sie <b>aktuell</b> die <b>Buslinie</b> 89 Connewitzer Kreuz bis zur Haltestelle "Thomaskirche" nutzen.</p>  
+<p>Von der Haltestelle "Hauptbahnhof/ Goethestraße" können Sie aktuell die <b>Buslinie</b> 89 Connewitzer Kreuz bis zur Haltestelle "Thomaskirche" nutzen.</p>  
 
 <h4>Fahrrad/ zu Fuß:</h4>
 <p>Vom Hauptbahnhof aus erreichen Sie die Räumlichkeiten der Professur mit dem Fahrrad in ca. 6 Minuten und zu Fuß innerhalb von ca. 15 Minuten.</p> 
