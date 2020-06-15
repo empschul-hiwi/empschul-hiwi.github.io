@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Lehrveranstaltungen
-permalink: /lehre/
 ---
 ### Modul: Praxis- und Studienfeld Schule (05-BWI-02)
 
