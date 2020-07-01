@@ -506,8 +506,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Eulitz.jpg" width="150" hight="200"/>Gereon Eulitz</h3>
 <p><b>Lehrer im Hochschuldienst</b></p>
 <p style="padding-left: 165px;">Gereon Eulitz ist Lehrer im Hochschuldienst und gehört der Professur "Empirische Schul- und Unterrichtsforschung" an. Sein Forschungsinteresse gilt der kooperativen Unterrichtsentwicklung. Das Modul 05-BWI-02 (SPS) "Praxis- und Studienfeld Schule“ ist Schwerpunkt seiner Lehrtätigkeit. Außerdem wirkt er an der Mentorenqualifizierung im Freistaat Sachsen mit.
-<p style="padding-left: 165px;"><span style="text-decoration: underline;">Arbeitsschwerpunkte und Forschungsinteressen</span><br>
-<ul>
+<p style="padding-left: 165px;"><span style="text-decoration: underline;">Arbeitsschwerpunkte und Forschungsinteressen</span></p>
+<p style="padding-left: 165px;"><ul>
   <li>Kooperation von Wissenschaftler*innen und Lehrer*innen im Rahmen didaktischer Entwicklungsforschung</li>
   <li>Unterrichtsentwicklung und Unterrichtsforschung, insbesondere kooperative Formate (z.B. Design-Based Research, Lesson Study, Professional Learning Communities</li>
   <li>Theorie-Praxis-Beziehungen / Innovations- und Transferforschung</li>
