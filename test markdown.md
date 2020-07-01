@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Lehrveranstaltungen
+image: assets/images/unterricht_studien.jpg
 ---
 ### Modul: Praxis- und Studienfeld Schule (05-BWI-02)
 
