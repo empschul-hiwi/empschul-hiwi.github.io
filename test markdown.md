@@ -1,6 +1,6 @@
 ---
 layout: page
-image: assets/images/Banner_Mobiles_Labor1.png
+image: assets/images/Banner_Mobiles Labor1.png
 title: Mobiles Labor
 ---
 
