@@ -1,63 +1,14 @@
 ---
 layout: page
-title: Lehrveranstaltungen
-image: assets/images/unterricht_studien.jpg <figcaption>Test</figcaption>
+image: assets/images/Banner_Mobiles_Labor1.png
+title: Mobiles Labor
 ---
-### Modul: Praxis- und Studienfeld Schule (05-BWI-02)
 
-##### Modulverantwortung: 
-Prof. Dr. Anne Deiglmayr 
-
-#### Modulziele
-Die Studierenden...
--	kennen die Besonderheiten ihres späteren Tätigkeitsfeldes Schule
--	kennen Verfahren der Erkundung der Schule und wenden diese für die Beschreibung und Analyse der Praktikumsschule an
--	kennen Verfahren der Unterrichtsbeobachtung und wenden diese für die Beschreibung und Analyse des Unterrichts unter allgemein           didaktischen Gesichtspunkten an
--	bereiten unter allgemein didaktischen Gesichtspunkten und unter Anleitung von schulischen Mentor/innen Unterrichtssequenzen vor,         führen sie durch und reflektieren sie
--	kennen Belastungen im Lehrer/inberuf und Strategien für deren Bewältigung, analysieren Aufgaben der Lehrkräfte im Schulalltag           und reflektieren den Wechsel von der Schüler/in- zur Lehrer/inrolle und die Berufswahlentscheidung
-
-#### Modulinhalt
-Das Modul führt in Schule als Praxis- und Studienfeld (Projektseminar) ein. 
-
-#### Modulturnus
-Das Modul wird in jedem Semester angeboten.
-
-#### Lehrformen
-- Seminar "Praxis- und Studienfeld Schule" (2 SWS) = 30 h Präsenzzeit und 15 h Selbststudium = 45 h  
-- Schulpraktische Studien "SPS" (5 SWS) = 75 h Präsenzzeit und 30 h Selbststudium = 105 h
-
-#### Prüfungsleistungen  
-Die Modulprüfung umfasst ein unbenotetes Portfolio mit einer Bearbeitungszeit von 4 Wochen.
-
-#### Teilnahmevoraussetzungen  
-Teilnahme am Modul 05-BWI-01- SEK/ PRIM
-
-***
-
-### Modul: Methoden der qualitativen empirischen Sozialforschung
-
-#### Modulverantwortung: 
-Prof. Dr. Anne Deiglmayr 
-
-#### Modulziele
-Die Studierenden werden die relevanten methodologischen Grundlagen der qualitativen empirischen Sozialforschung kennen lernen. Sie werden insbesondere Kompetenzen erwerben, wissenschaftliche Forschungsergebnisse aus der qualitativen Sozialforschung kritisch zu beurteilen. Sie lernen qualitative Verfahren und ihre Auswertungsmethoden kennen, dies betrifft insbesondere Interviewtechniken, Beobachtungsmethoden, Dokumentenanalysen. Die Studierenden erarbeiten und vertiefen die methodologischen Grundlagen der qualitativen empirischen Sozialforschung/der qualitativen empirischen Schul- und Unterrichtsforschung sowie der Evaluation von Schule und Unterricht und werden angeleitet, diese in eigenen Projektdurchführungen zu erproben. Sie beschäftigen sich mit Verfahren der internen und externen Evaluation von Institutionen. Die Studierenden verstehen Prozesse der Schulentwicklung von schulischen und außerschulischen Institutionen. Sie kennen die Verfahren der Schulinspektion und Schulevaluation.
-
-<article id= "Modulinhalt">
-#### Modulinhalt
-Das Modul führt in die Methodologie, die Methoden und die Forschungsprogramme sowie die grundlegenden Techniken der Auswertung der
-qualitativen empirischen Sozialforschung ein. Im Profilbereich werden darüber hinaus interne und externe schulische Evaluationsverfahren der Aktionsforschung vermittelt. Die Studierenden lernen die forschungsethischen Grundlagen kennen, die sie während der Datenerhebung und der Datenauswertung und ihrer Präsentation beachten müssen.
-</article>
-
-#### Modulturnus
-Das Modul wird in jedem Sommersemester angeboten.
-
-#### Lehrformen
-- Vorlesung "Einführung in die Methoden der qualitativen empirischen Sozialforschung" (2 SWS) = 30 h Präsenzzeit und 30 h Selbststudium = 60 h
-- Seminar "Einführung in die Methoden der qualitativen empirischen Sozialforschung" (2 SWS) = 30 h Präsenzzeit und 150 h Selbststudium = 180 h
-- Tutorium "Einführung in die Methoden der qualitativen empirischen Sozialforschung" (2 SWS) = 30 h Präsenzzeit und 30 h Selbststudium = 60 h
-
-#### Prüfungsleistungen  
-Die Modulprüfung umfasst eine Hausarbeit mit einer Bearbeitungszeit von 4 Wochen und eine Multiple Choice Klausur (60 Min.).
-
-#### Teilnahmevoraussetzungen  
-keine
+<p>In unserer Forschung geht es uns darum, Lehr- und Lernprozesse im schulischen Kontext sichtbar zu machen. Wir möchten u.a. wissen, wie Lehrkräfte und Schüler/innen im Unterricht miteinander interagieren, worauf Lehrpersonen ihre Aufmerksamkeit richten und wodurch sich erfahrene Lehrkräfte von unerfahrenen unterscheiden. Um diesen und weiteren Fragen nachzugehen, sind wir aktuell dabei, ein mobiles Labor zu entwickeln, um verschiedene Audio- und Videodaten zu erheben, die später automatisch analysiert werden können.</p>
+<img src="assets/images/eye_träcking.jpg" alt="" style="float:left;">
+<p>Zu unserem mobilen Labor gehört eine <b>mobile Eye-Tracking-Brille</b>, um das Blickverhalten der Lehrperson während des Unterrichts zu erfassen. Der Eye-Tracker von Tobii Pro Glasses 2 besteht aus einer tragbaren Kopfeinheit und einer Aufzeichnungseinheit. Eine in der Kopfeinheit integrierte Szenenkamera zeichnet das Gesehene in Full HD auf und ein integriertes Mikrofon nimmt die Umgebungsgeräusche auf.</p>
+<img src="assets/images/voice_recorder.jpg" alt="" style="float:right;">
+<p>Um verbale Äußerungen, die paraverbale Kommunikation und andere Klassenzimmergeräusche analysieren zu können, wird ein Audiorecorder (Zoom H3-VR Handy Recorder) mittig im Klassenraum platziert. Durch mehrere Mikrofone werden 360-Grad-Audioaufnahmen gemacht. Des Weiteren wird die Lehrperson mit einem tragbaren Mikrofon ausgestattet, um das Gesagte aufzuzeichnen.</p>
+<img src="assets/images/GoPro.png" alt="" style="float:left;">
+<p>Bewegungen, Mimik und Gesten der SchülerInnen sowie der Lehrperson werden von vier Kameras (GoPro Hero7) aus verschiedenen Winkeln aufgenommen. Eine Kamera wird so installiert, dass sie seitlich das Klassengeschehen filmt. Zwei weitere Kameras werden zum einen an der Tafel, zum anderen am Ende des Labors angebracht, um die Lehrperson und Klasse von vorne bzw. hinten aufzunehmen. Darüber hinaus ist es angedacht, die vierte Kamera so anzubringen, dass nur Mimik und Gestik der Lehrperson erfasst wird. Alle Kameras zeichnen das Unterrichtsgeschehen in Full HD auf. Der Audiorecorder und die vier Kameras werden über Timecode synchronisiert, sodass die gleichgeschaltete Aufnahme von Audio- wie Videodaten möglich ist.</p>
+<p>Die während des Unterrichts verwendeten Materialien werden von uns abfotografiert. Ferner wird der Unterricht von einem vorher trainierten Mitarbeitenden live codiert, um unterrichtsrelevante Ereignisse zu erfassen. Im Anschluss an jede aufgezeichnete Unterrichtseinheit ist es angedacht, SchülerInnen wie Lehrpersonen mittels Fragebogen zu verschiedenen Dimensionen der Unterrichtsqualität zu befragen.</p>
