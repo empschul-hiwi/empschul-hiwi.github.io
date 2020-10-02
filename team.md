@@ -3,6 +3,8 @@ layout: page
 title: Team
 images: assets/images/Gruppenfoto.jpg
 ---
+<h2>Inhaberin der Professur</h2>
+<hr>
 <!--Deiglmayr-->
 <artivle id="Deiglmayr">
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Deiglmayr.jpg" width="150" hight="200" />Prof. Dr. Anne Deiglmayr</h3>
@@ -104,6 +106,10 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </td>
 </tr>
 </table> 
+
+<hr>
+<h2>Sekretariat</h2>
+<hr>
 
 <!--Pagel-->
 
