@@ -4,48 +4,65 @@ image: assets/images/Banner_Mobiles Labor1.png
 title: Mobiles Labor
 ---
 
-<h1>Pure CSS Accordion <sup>2.0</sup></h1>
-<div class="row">
-  <div class="col">
-    <h2>Open <b>multiple</b></h2>
-    <div class="tabs">
-      <div class="tab">
-        <input type="checkbox" id="chck1">
-        <label class="tab-label" for="chck1">Item 1</label>
-        <div class="tab-content">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum, reiciendis!
-        </div>
-      </div>
-      <div class="tab">
-        <input type="checkbox" id="chck2">
-        <label class="tab-label" for="chck2">Item 2</label>
-        <div class="tab-content">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. A, in!
-        </div>
-      </div>
-    </div>
+  <title>jQuery UI Accordion - Default functionality</title>
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="/resources/demos/style.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  $( function() {
+    $( "#accordion" ).accordion();
+  } );
+  </script>
+</head>
+<body>
+ 
+<div id="accordion">
+  <h3>Section 1</h3>
+  <div>
+    <p>
+    Mauris mauris ante, blandit et, ultrices a, suscipit eget, quam. Integer
+    ut neque. Vivamus nisi metus, molestie vel, gravida in, condimentum sit
+    amet, nunc. Nam a nibh. Donec suscipit eros. Nam mi. Proin viverra leo ut
+    odio. Curabitur malesuada. Vestibulum a velit eu ante scelerisque vulputate.
+    </p>
   </div>
-  <div class="col">
-    <h2>Open <b>one</b></h2>
-    <div class="tabs">
-      <div class="tab">
-        <input type="radio" id="rd1" name="rd">
-        <label class="tab-label" for="rd1">Item 1</label>
-        <div class="tab-content">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos, facilis.
-        </div>
-      </div>
-      <div class="tab">
-        <input type="radio" id="rd2" name="rd">
-        <label class="tab-label" for="rd2">Item 2</label>
-        <div class="tab-content">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil, aut.
-        </div>
-      </div>
-      <div class="tab">
-        <input type="radio" id="rd3" name="rd">
-        <label for="rd3" class="tab-close">Close others &times;</label>
-      </div>
-    </div>
+  <h3>Section 2</h3>
+  <div>
+    <p>
+    Sed non urna. Donec et ante. Phasellus eu ligula. Vestibulum sit amet
+    purus. Vivamus hendrerit, dolor at aliquet laoreet, mauris turpis porttitor
+    velit, faucibus interdum tellus libero ac justo. Vivamus non quam. In
+    suscipit faucibus urna.
+    </p>
+  </div>
+  <h3>Section 3</h3>
+  <div>
+    <p>
+    Nam enim risus, molestie et, porta ac, aliquam ac, risus. Quisque lobortis.
+    Phasellus pellentesque purus in massa. Aenean in pede. Phasellus ac libero
+    ac tellus pellentesque semper. Sed ac felis. Sed commodo, magna quis
+    lacinia ornare, quam ante aliquam nisi, eu iaculis leo purus venenatis dui.
+    </p>
+    <ul>
+      <li>List item one</li>
+      <li>List item two</li>
+      <li>List item three</li>
+    </ul>
+  </div>
+  <h3>Section 4</h3>
+  <div>
+    <p>
+    Cras dictum. Pellentesque habitant morbi tristique senectus et netus
+    et malesuada fames ac turpis egestas. Vestibulum ante ipsum primis in
+    faucibus orci luctus et ultrices posuere cubilia Curae; Aenean lacinia
+    mauris vel est.
+    </p>
+    <p>
+    Suspendisse eu nisl. Nullam ut libero. Integer dignissim consequat lectus.
+    Class aptent taciti sociosqu ad litora torquent per conubia nostra, per
+    inceptos himenaeos.
+    </p>
   </div>
 </div>
+  
