@@ -5,9 +5,7 @@ images: assets/images/Gruppenfoto.jpg
 ---
 <h2>Inhaberin der Professur</h2>
 <hr>
-.shownone { 
-    display: none;
-}
+
 <!--Deiglmayr-->
 <article id="Deiglmayr">
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Deiglmayr.jpg" width="150" hight="200" />Prof. Dr. Anne Deiglmayr</h3>
@@ -17,6 +15,9 @@ images: assets/images/Gruppenfoto.jpg
 Ihre Forschungsschwerpunkte umfassen u.a. Methoden der mobilen Unterrichtsforschung, die Professionsentwicklung von Lehrpersonen, Lehr- und Lernprozesse beim (computergestützten) kooperativen Lernen, sowie die Förderung des Lehrens und Lernens im MINT-Unterricht.<br>
 Prof. Deiglmayr bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (insbesondere Modul 02 „Praxis- und Studienfeld Schule“) sowie im Bereich der Ergänzungsstudien an (insbesondere zu Methoden der empirischen Sozialforschung).<br style="clear: both;" />
 
+    .shownone { 
+    display: none;
+}
 <script type="text/javascript">
 //<![CDATA[
 function swap(openlink,closelink, linkid, dataid)
