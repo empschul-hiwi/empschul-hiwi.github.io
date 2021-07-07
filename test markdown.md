@@ -51,10 +51,11 @@ title: Mobiles Labor
     <h4>Anforderungen</h4>
  	<p>Vorerfahrung im Umgang mit Vorschulkindern</p>
     </p>
+    </div>
   <p><h4>Projektbeschreibung</h4>
  	<p>Im Rahmen des DFG-Projektes Symbolic Literacy untersuchen wir, wie Klein- und Vorschulkinder konventionelle Symbole (Zahlen, Buchstaben, Ikone etc.) verstehen und wie gut sie darin sind, die Bedeutung unbekannter graphischer Symbole spontan zu erschließen. Die Arbeit in diesem Projekt setzt die Bereitschaft voraus, eigene Daten an Kindergärten, in den Testräumen des MPI EVA oder online zu erheben. Die Studien werden als Bilderbuchgeschichten auf Touch-Screen-Laptops präsentiert. Die Programmierung und Analyse sowie die Kontakte zu Kindergärten und Teilnehmenden werden von uns bereitgestellt. Idealerweise hat man keine Angst vor der Statistiksoftware R.</p>
   </p>
-   <h3>Computer Vision in der Bildungsforschung</h3>
+  <h3>Computer Vision in der Bildungsforschung</h3>
   <div>
     <p>
    <h4>Ansprechperson</h4>
@@ -62,6 +63,6 @@ title: Mobiles Labor
     </p>
   </div>
    
-  </div>
+  
 </div>
   
