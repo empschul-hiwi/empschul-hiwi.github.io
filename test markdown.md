@@ -4,11 +4,65 @@ image: assets/images/Banner_Mobiles Labor1.png
 title: Mobiles Labor
 ---
 
-<p>In unserer Forschung geht es uns darum, Lehr- und Lernprozesse im schulischen Kontext sichtbar zu machen. Wir möchten u.a. wissen, wie Lehrkräfte und Schüler/innen im Unterricht miteinander interagieren, worauf Lehrpersonen ihre Aufmerksamkeit richten und wodurch sich erfahrene Lehrkräfte von unerfahrenen unterscheiden. Um diesen und weiteren Fragen nachzugehen, sind wir aktuell dabei, ein mobiles Labor zu entwickeln, um verschiedene Audio- und Videodaten zu erheben, die später automatisch analysiert werden können.</p>
-<img src="assets/images/eye_tracking.jpg" alt="" style="float:left;">
-<p>Zu unserem mobilen Labor gehört eine <b>mobile Eye-Tracking-Brille</b>, um das Blickverhalten der Lehrperson während des Unterrichts zu erfassen. Der Eye-Tracker von Tobii Pro Glasses 2 besteht aus einer tragbaren Kopfeinheit und einer Aufzeichnungseinheit. Eine in der Kopfeinheit integrierte Szenenkamera zeichnet das Gesehene in Full HD auf und ein integriertes Mikrofon nimmt die Umgebungsgeräusche auf.</p>
-<img src="assets/images/voice_recorder.jpg" alt="" style="float:right;">
-<p>Um verbale Äußerungen, die paraverbale Kommunikation und andere Klassenzimmergeräusche analysieren zu können, wird ein Audiorecorder (Zoom H3-VR Handy Recorder) mittig im Klassenraum platziert. Durch mehrere Mikrofone werden 360-Grad-Audioaufnahmen gemacht. Des Weiteren wird die Lehrperson mit einem tragbaren Mikrofon ausgestattet, um das Gesagte aufzuzeichnen.</p>
-<img src="assets/images/GoPro.png" alt="" style="float:left;">
-<p>Bewegungen, Mimik und Gesten der SchülerInnen sowie der Lehrperson werden von vier Kameras (GoPro Hero7) aus verschiedenen Winkeln aufgenommen. Eine Kamera wird so installiert, dass sie seitlich das Klassengeschehen filmt. Zwei weitere Kameras werden zum einen an der Tafel, zum anderen am Ende des Labors angebracht, um die Lehrperson und Klasse von vorne bzw. hinten aufzunehmen. Darüber hinaus ist es angedacht, die vierte Kamera so anzubringen, dass nur Mimik und Gestik der Lehrperson erfasst wird. Alle Kameras zeichnen das Unterrichtsgeschehen in Full HD auf. Der Audiorecorder und die vier Kameras werden über Timecode synchronisiert, sodass die gleichgeschaltete Aufnahme von Audio- wie Videodaten möglich ist.</p>
-<p>Die während des Unterrichts verwendeten Materialien werden von uns abfotografiert. Ferner wird der Unterricht von einem vorher trainierten Mitarbeitenden live codiert, um unterrichtsrelevante Ereignisse zu erfassen. Im Anschluss an jede aufgezeichnete Unterrichtseinheit ist es angedacht, SchülerInnen wie Lehrpersonen mittels Fragebogen zu verschiedenen Dimensionen der Unterrichtsqualität zu befragen.</p>
+  <header class="header">
+    <h1>Simple Accordion Concept</h1>
+    <h4>By: <a href="http://kylebrumm.com" target="_blank">Kyle Brumm</a></h4>
+</header>
+
+<div class="accordion">
+    <div class="accordion-item">
+        <a href="#" class="heading">
+            <div class="icon"></div>
+            <div class="title">Pop-up typewriter tousled lo-fi?</div>
+        </a>
+
+        <div class="content">
+            <p>
+                Bespoke hammock flannel viral irony, single-origin coffee humblebrag sustainable aesthetic.  Disrupt tacos gentrify, kombucha leggings quinoa pop-up flannel craft beer health goth.  Brunch health goth dreamcatcher celiac cold-pressed, ugh four loko.  Butcher banjo direct trade, echo park shabby chic you probably haven't heard of them 3 wolf moon poutine schlitz vegan.  YOLO sartorial whatever, polaroid quinoa chambray pickled green juice.  Gentrify everyday carry literally squid.  Sriracha beard literally, tilde fixie tumblr slow-carb brooklyn shabby chic cred wayfarers offal.
+            </p>
+        </div>
+    </div>
+
+    <div class="accordion-item">
+        <a href="#" class="heading">
+            <div class="icon"></div>
+            <div class="title">Sriracha pitchfork williamsburg cliche?</div>
+        </a>
+
+        <div class="content">
+            <p>
+                Kale chips knausgaard skateboard vice, normcore disrupt bitters fanny pack.  Gochujang cliche kale chips, vice ramps semiotics distillery.  Organic lumbersexual ugh yr literally actually.  Occupy master cleanse iPhone, microdosing literally pickled cronut waistcoat.  Pug VHS 90's asymmetrical meh swag humblebrag, you probably haven't heard of them everyday carry pinterest chicharrones ugh.  Keytar intelligentsia trust fund, tumblr roof party single-origin coffee ramps.  Everyday carry messenger bag pabst, pug mlkshk stumptown polaroid flexitarian helvetica celiac seitan.
+            </p>
+        </div>
+    </div>
+
+    <div class="accordion-item">
+        <a href="#" class="heading">
+            <div class="icon"></div>
+            <div class="title">Truffaut lomo pug jean shorts tote bag?</div>
+        </a>
+
+        <div class="content">
+            <p>
+                Vice kale chips selvage umami, chicharrones intelligentsia post-ironic cornhole slow-carb hammock retro synth PBR&amp;B.  Small batch waistcoat helvetica, gastropub disrupt man braid fap everyday carry hashtag tumblr you probably haven't heard of them schlitz knausgaard.  Cronut blog narwhal pop-up tilde.  Scenester PBR&amp;B microdosing, twee bespoke authentic swag banh mi sartorial fashion axe neutra brooklyn cornhole.  Pickled brunch chartreuse, ugh everyday carry drinking vinegar cray street art chillwave church-key cornhole tilde biodiesel keffiyeh.  Disrupt venmo crucifix, listicle locavore cardigan readymade.  Pabst shoreditch scenester mlkshk art party franzen, photo booth occupy lomo bushwick bitters williamsburg synth hella wayfarers.
+            </p>
+        </div>
+    </div>
+
+    <div class="accordion-item">
+        <a href="#" class="heading">
+            <div class="icon"></div>
+            <div class="title">Banjo mustache organic quinoa?</div>
+        </a>
+
+        <div class="content">
+            <p>
+                Craft beer paleo man bun tumblr, migas church-key synth locavore kickstarter post-ironic shabby chic.  Microdosing migas portland, literally VHS normcore kickstarter sustainable single-origin coffee occupy cardigan.  Viral venmo lomo, craft beer distillery kickstarter messenger bag fashion axe keffiyeh tofu celiac sustainable health goth deep v.  Bushwick sustainable raw denim kale chips.  Intelligentsia migas craft beer listicle, affogato messenger bag kitsch truffaut artisan irony scenester sartorial vice ennui hoodie.  Man bun blog cronut, truffaut celiac kogi photo booth quinoa direct trade  normcore iPhone.  Disrupt synth chartreuse, actually lumbersexual schlitz health goth ennui skateboard gochujang kinfolk trust fund farm-to-table.
+            </p>
+        </div>
+    </div>
+</div>
+
+
+
+
