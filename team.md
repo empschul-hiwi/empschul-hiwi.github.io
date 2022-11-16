@@ -687,7 +687,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
   <div class="accordion">
     <input type="checkbox" id="accordion-2"
     <label for="accordion-2">Lorem Ipsum
-      <img src="assets/arrow.svg">
+      <img src="assets/arrow.png">
     </label>
     <div class="content">
       <p>hier Inhalt blabalabalabala</p>
@@ -697,7 +697,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
   <div class="accordion">
     <input type="checkbox" id="accordion-3"
     <label for="accordion-3">Lorem Ipsum
-      <img src="assets/arrow.svg">
+      <img src="assets/arrow.png">
     </label>
     <div class="content">
       <p>hier Inhalt blabalabalabala</p>
