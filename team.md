@@ -3,21 +3,15 @@ layout: page
 title: Team
 images: assets/images/Gruppenfoto.jpg
 ---
-<h2>Inhaberin der Professur</h2>
-<hr>
-
 <!--Deiglmayr-->
-<article id="Deiglmayr">
+<artivle id="Deiglmayr">
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Deiglmayr.jpg" width="150" hight="200" />Prof. Dr. Anne Deiglmayr</h3>
 <p><b>Inhaberin der Professur</b></p>
-</article>
+</artivle>
 <p style="padding-left: 165px;">Prof. Dr. Anne Deiglmayr ist seit 12/2018 Inhaberin der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br>
 Ihre Forschungsschwerpunkte umfassen u.a. Methoden der mobilen Unterrichtsforschung, die Professionsentwicklung von Lehrpersonen, Lehr- und Lernprozesse beim (computergestützten) kooperativen Lernen, sowie die Förderung des Lehrens und Lernens im MINT-Unterricht.<br>
 Prof. Deiglmayr bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (insbesondere Modul 02 „Praxis- und Studienfeld Schule“) sowie im Bereich der Ergänzungsstudien an (insbesondere zu Methoden der empirischen Sozialforschung).<br style="clear: both;" />
 
-    .shownone { 
-    display: none;
-}
 <script type="text/javascript">
 //<![CDATA[
 function swap(openlink,closelink, linkid, dataid)
@@ -110,10 +104,6 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </td>
 </tr>
 </table> 
-
-<hr>
-<h2>Sekretariat</h2>
-<hr>
 
 <!--Pagel-->
 
@@ -677,3 +667,40 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </td>
 </tr>
 </table>
+
+
+
+<!--Accordion-->
+
+<div class="list">
+
+  <div class="accordion">
+    <input type="checkbox" id="accordion-1"
+    <label for="accordion-1">Lorem Ipsum
+      <img src="assets/arrow.png">
+    </label>
+    <div class="content">
+      <p>hier Inhalt blabalabalabala</p>
+    </div>
+  </div>
+
+  <div class="accordion">
+    <input type="checkbox" id="accordion-2"
+    <label for="accordion-2">Lorem Ipsum
+      <img src="assets/arrow.svg">
+    </label>
+    <div class="content">
+      <p>hier Inhalt blabalabalabala</p>
+    </div>
+  </div>
+
+  <div class="accordion">
+    <input type="checkbox" id="accordion-3"
+    <label for="accordion-3">Lorem Ipsum
+      <img src="assets/arrow.svg">
+    </label>
+    <div class="content">
+      <p>hier Inhalt blabalabalabala</p>
+    </div>
+  </div>
+
