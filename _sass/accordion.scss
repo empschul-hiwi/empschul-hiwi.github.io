@@ -1,0 +1,67 @@
+@import 'var'
+
+.list
+	width: 100%
+	max-width: 50rem
+
+	.accordion
+		width: 100%
+		display: flex
+		flex.direction: column
+		margin: 0 0 2rem 0
+
+
+			input
+				position: absolute
+				z-index: -1
+				opacity: 0
+				&:checked
+					& ~ label
+						img
+							transform: translate(0, -50%) rotate (180deg)
+
+					& ~ content
+						height: auto
+						opacity: 1
+						transform: translate(0, 0)
+
+			label
+				width: 100%
+				background-color: #294c74;
+				font-size: 2rem
+				padding: 2rem
+				border-radius: 1rem
+				cursor: pointer
+				transition: all 150ms
+				position: relative
+				z-index: 2
+
+				&:hover
+					transform: scale(1.02)
+
+				img
+					width: 1.5rem
+					position: absolute
+					top: 50%
+					right: 2rem
+					transform: translate(0, -50%)
+					transition: 350ms all
+
+			.content
+				color: white
+				width: 100%
+				background-color: #f2f2f2
+				border-radius: 0 0 1rem 1rem
+				font-size: 1.6rem
+				position: relative
+				z-index: 1
+				transform: translate(0, -20%)
+				height: 0
+				opacity: 0
+				transition: 350ms all
+				overflow: hidden
+
+
+				p
+					padding: 2rem
+					margin: 0
